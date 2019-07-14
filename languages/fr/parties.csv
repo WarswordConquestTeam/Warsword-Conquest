@@ -1,0 +1,193 @@
+﻿lockitver|DO NOT DELETE THIS LINE! 2896
+p_zendar|Zendar
+p_town_1|Sargoth
+p_town_2|Tihr
+p_town_3|Veluca
+p_town_4|Suno
+p_town_5|Jelkala
+p_town_6|Praven
+p_town_7|Uxkhal
+p_town_8|Reyvadin
+p_town_9|Khudan
+p_town_10|Tulga
+p_town_11|Curaw
+p_town_12|Wercheg
+p_town_13|Rivacheg
+p_town_14|Halmar
+p_town_15|Yalen
+p_town_16|Dhirim
+p_town_17|Ichamur
+p_town_18|Narra
+p_town_19|Shariz
+p_town_20|Durquba
+p_town_21|Ahmerrad
+p_town_22|Bariyye
+p_castle_1|Château de Culmarr
+p_castle_2|Château de Malayurg
+p_castle_3|Château de Bulugha
+p_castle_4|Château de Radoghir
+p_castle_5|Château de Tehlorg
+p_castle_6|Château de Tilbaut
+p_castle_7|Château de Sungetche
+p_castle_8|Château de Jeirbe
+p_castle_9|Château de Jamiche
+p_castle_10|Château d'Alburq
+p_castle_11|Château de Curin
+p_castle_12|Château de Chalbek
+p_castle_13|Château de Kelredan
+p_castle_14|Château de Maras
+p_castle_15|Château d'Ergellon
+p_castle_16|Château d'Almerra
+p_castle_17|Château de Distar
+p_castle_18|Château d'Ismirala
+p_castle_19|Château d'Yruma
+p_castle_20|Château de Derchios
+p_castle_21|Château d'Ibdeles
+p_castle_22|Château d'Unuzdaq
+p_castle_23|Château de Tevarin
+p_castle_24|Château de Reindi
+p_castle_25|Château de Ryibelet
+p_castle_26|Château de Senuzgda
+p_castle_27|Château de Rindyar
+p_castle_28|Château de Grunwalder
+p_castle_29|Château de Nelag
+p_castle_30|Château d'Asugan
+p_castle_31|Château de Vyincourd
+p_castle_32|Château de Knudarr
+p_castle_33|Château d'Etrosq
+p_castle_34|Château d'Hrus
+p_castle_35|Château d'Haringoth
+p_castle_36|Château de Jelbegi
+p_castle_37|Château de Dramug
+p_castle_38|Château de Tulbuk
+p_castle_39|Château de Slezkh
+p_castle_40|Château d'Uhhun
+p_castle_41|Château de Jameyyed
+p_castle_42|Château de Teramma
+p_castle_43|Château de Sharwa
+p_castle_44|Château de Durrin
+p_castle_45|Château de Caraf
+p_castle_46|Château de Weyyah
+p_castle_47|Château de Samarra
+p_castle_48|Château de Bardaq
+p_village_1|Yaragar
+p_village_2|Burglen
+p_village_3|Azgad
+p_village_4|Nomar
+p_village_5|Kulum
+p_village_6|Emirin
+p_village_7|Amere
+p_village_8|Haen
+p_village_9|Buvran
+p_village_10|Mechin
+p_village_11|Dusturil
+p_village_12|Emer
+p_village_13|Nemeja
+p_village_14|Sumbuja
+p_village_15|Ryibelet
+p_village_16|Shapeshte
+p_village_17|Mazen
+p_village_18|Ulburban
+p_village_19|Hanun
+p_village_20|Uslum
+p_village_21|Bazeck
+p_village_22|Shulus
+p_village_23|Ilvia
+p_village_24|Ruldi
+p_village_25|Dashbigha
+p_village_26|Pagundur
+p_village_27|Glunmar
+p_village_28|Tash Kulun
+p_village_29|Buillin
+p_village_30|Ruvar
+p_village_31|Ambean
+p_village_32|Tosdhar
+p_village_33|Ruluns
+p_village_34|Ehlerdah
+p_village_35|Fearichen
+p_village_36|Jayek
+p_village_37|Ada Kulun
+p_village_38|Ibiran
+p_village_39|Reveran
+p_village_40|Saren
+p_village_41|Dugan
+p_village_42|Dirigh Aban
+p_village_43|Zagush
+p_village_44|Peshmi
+p_village_45|Bulugur
+p_village_46|Fedner
+p_village_47|Epeshe
+p_village_48|Veidar
+p_village_49|Tismirr
+p_village_50|Karindi
+p_village_51|Jelbegi
+p_village_52|Amashke
+p_village_53|Balanli
+p_village_54|Chide
+p_village_55|Tadsamesh
+p_village_56|Fenada
+p_village_57|Ushkuru
+p_village_58|Vezin
+p_village_59|Dumar
+p_village_60|Tahlberl
+p_village_61|Aldelen
+p_village_62|Rebache
+p_village_63|Rduna
+p_village_64|Serindiar
+p_village_65|Iyindah
+p_village_66|Fisdnar
+p_village_67|Tebandra
+p_village_68|Ibdeles
+p_village_69|Kwynn
+p_village_70|Dirigsene
+p_village_71|Tshibtin
+p_village_72|Elberl
+p_village_73|Chaeza
+p_village_74|Ayyike
+p_village_75|Bhulaban
+p_village_76|Kedelke
+p_village_77|Rizi
+p_village_78|Sarimish
+p_village_79|Istiniar
+p_village_80|Vayejeg
+p_village_81|Odasan
+p_village_82|Yalibe
+p_village_83|Gisim
+p_village_84|Chelez
+p_village_85|Ismirala
+p_village_86|Slezkh
+p_village_87|Udiniad
+p_village_88|Tulbuk
+p_village_89|Uhhun
+p_village_90|Jamiche
+p_village_91|Ayn Assuadi
+p_village_92|Dhibbain
+p_village_93|Qalyut
+p_village_94|Mazigh
+p_village_95|Tamnuh
+p_village_96|Habba
+p_village_97|Sekhtem
+p_village_98|Mawiti
+p_village_99|Fishara
+p_village_100|Iqbayl
+p_village_101|Uzgha
+p_village_102|Shibal Zumr
+p_village_103|Mijayet
+p_village_104|Tazjunat
+p_village_105|Aab
+p_village_106|Hawaha
+p_village_107|Unriya
+p_village_108|Mit Nun
+p_village_109|Tilimsal
+p_village_110|Rushdigh
+p_salt_mine|Mine de sel
+p_four_ways_inn|Auberge des Quatres Chemins
+p_test_scene|scène de test
+p_battlefields|champs de bataille
+p_dhorak_keep|Donjon de Dhorak
+p_training_ground|Terrain d'entraînement
+p_training_ground_1|Champ d'entraînement
+p_training_ground_2|Champ d'entraînement
+p_training_ground_3|Champ d'entraînement
+p_training_ground_4|Champ d'entraînement
+p_training_ground_5|Champ d'entraînement

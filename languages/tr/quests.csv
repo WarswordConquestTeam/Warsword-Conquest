@@ -1,0 +1,65 @@
+qst_deliver_message|{s13}{.e} mesaj ilet.
+qst_deliver_message_to_enemy_lord|{s13}{.e} mesaj ilet.
+qst_raise_troops|{reg1} {s14} yetiştir
+qst_escort_lady|{s13}'{.e} {s14}{.e} kadar refakatlik yap.
+qst_deal_with_bandits_at_lords_village|{s15}{.i} yağmacı haydutlardan kurtar
+qst_collect_taxes|{s3}{.den} vergi topla.
+qst_hunt_down_fugitive|{s4}'{.i} avla.
+qst_kill_local_merchant|{s3}{.de}ki yerli tüccarı öldür.
+qst_bring_back_runaway_serfs|Kaçak köleleri geri getir.
+qst_follow_spy|Casusu buluşma yerine kadar izle
+qst_capture_enemy_hero|{s13}{.den} bir Lord esir al.
+qst_lend_companion|{s9}'{.e} yardımcın {s3}'{.i} ödünç ver.
+qst_collect_debt|{s3}'{.nin} {s9}{.e} olan borcunu topla.
+qst_incriminate_loyal_commander|Sadık {s13} komutanı {s16}{.e} iftira at.
+qst_meet_spy_in_enemy_town|{s13}{.de} casusla buluş.
+qst_capture_prisoners|{reg1} {s3} esir getir.
+qst_lend_surgeon|{s1} cerrahını ({s3}) kendisine ödünç vermeni istedi.
+qst_follow_army|{s9}'{.nin} ordusunu takip et.
+qst_report_to_army|Mareşale ({s13}) rapor ver.
+qst_deliver_cattle_to_army|{s13} için {reg3} baş sığır götür.
+qst_join_siege_with_army|{s14} kuşatmasına katıl
+qst_screen_army|{s13} ordusunun ilerlemesini görüntüle
+qst_scout_waypoints|{s13}, {s14} ve {s15}{.i} gözle.
+qst_rescue_lord_by_replace|{s13} kişisini {s14} kişisinden kurtar.
+qst_deliver_message_to_prisoner_lord|{s14} bölgesindeki {s13}'{.e} mesaj ilet.
+qst_duel_for_lady|{s13}'{.i} düelloya davet et.
+qst_duel_courtship_rival|{s13}'{.i} düelloya davet et (isteğe bağlı)
+qst_duel_avenge_insult|{s13}'{.i} düelloya davet et
+qst_move_cattle_herd|Sığır Sürüsünü {s13}{.e} sür.
+qst_escort_merchant_caravan|Kervana {s8}{.e} Kadar Refakat Et
+qst_deliver_wine|{s8}{.e} {reg5} Adet {s6} Götür.
+qst_troublesome_bandits|Belalı Haydutları Yok Et
+qst_kidnapped_girl|Kızın Fidyesini Götür
+qst_persuade_lords_to_make_peace|İki Lordun barışa karşı gelmeyeceklerine emin ol
+qst_deal_with_looters|Yağmacıları hallet
+qst_deal_with_night_bandits|Gece haydutlarıyla ilgilen
+qst_deliver_grain|{s3}{.e} buğday getir.
+qst_deliver_cattle|{s3}{.e} {reg5} baş sığır götür.
+qst_train_peasants_against_bandits|{s13} ahalisini haydutlara karşı eğit.
+qst_eliminate_bandits_infesting_village|{s1} haydutlar tarafından istila edildi. Onları etkisiz hale getir.
+qst_visit_lady|Leydiyi ziyaret et
+qst_formal_marriage_proposal|Resmi Evlenme Teklifi
+qst_obtain_liege_blessing|Resmi Evlenme Teklifi
+qst_wed_betrothed|Nişanlınla Evlen
+qst_wed_betrothed_female|Nişanlınla Evlen
+qst_join_faction|{s1}'{.e} bağlılık yemini et.
+qst_rebel_against_kingdom|{s13}'{.in} {s14} tacını elde etmesine yardım et.
+qst_consult_with_minister|Başkana Danış
+qst_organize_feast|Ziyafet Düzenle
+qst_resolve_dispute|Münakaşı Sonlandır
+qst_offer_gift|Hediye Ver
+qst_denounce_lord|Lorda beğlılık yeminini boz
+qst_intrigue_against_lord|Lordun arkasından işler çevir
+qst_track_down_bandits|Haydutları Takip Et
+qst_track_down_provocateurs|Provokatörleri takip et
+qst_retaliate_for_border_incident|Bir sınır olayına karşılık ver
+qst_raid_caravan_to_start_war|Bağımsız bir kervana saldırıp savaş sebebi yarat
+qst_cause_provocation|Bir krallığı diğerine saldırması için kışkırt
+qst_rescue_prisoner|Bir mahkumu fidye ya da fidyesiz kurtar
+qst_destroy_bandit_lair|Haydutların sığınağını yok et
+qst_collect_men|Beş adam topla
+qst_learn_where_merchant_brother_is|Rehinelerin nerede tutulduğunu öğren
+qst_save_relative_of_merchant|Haydut sığınağına saldır
+qst_save_town_from_bandits|Şehri haydutlardan kurtar
+qst_quests_end|Görevler bitti

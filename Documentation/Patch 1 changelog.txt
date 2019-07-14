@@ -1,0 +1,55 @@
+Fixed issues where minor missiles won't cool down after successful cast
+Fixed issues where minor missiles won't do damage
+You can now leave tavern without being forced to get drunk if you entered drunk dialogue
+Fixed 1 hand upstab animations
+Lord can no longer cast missiles in sieges (may require new game to take effect)
+Araby lords will no longer be naked in the castle (new game required to take effect)
+Fixed issue where Ryze the grave call will not summon enough troops
+Fixed issue where village name at top was wrong at village menu
+Set chaos locations to be set to lords instead of random (new game required to take effect)
+You can now set kingdom troops in camp menu before you have your own kingdom
+cattle follow option always available
+Fixed shugenja and vizier guild issue
+Fixed issue where undivided players will get wrong troop from war academy 
+Fixed issues with spear animations 
+Fixed Askraved and grom peak arenas
+Fixed script error for orc and goblin shamans
+Quantity of mercenaries offered reduced
+Removed prejudice effect on entering towns and recruitment(at least for now)
+Bandit camp quest should not hang in dialogue now (untested)
+Fixed issue with willpower respawning in battle
+dhar magic school fixed
+holy wrath text fixed
+duplicate player boats issue fixed
+scene changes/fixes for chaos dwarf and chaos
+Fixed rune of reloading
+Multiple siege fixes 
+Fixed issue where cursed blade of delirium effect would not reset when unequipped
+fixed issue where in battle potions were not being used up
+nearby dead bodies now buff effect of ryze the grave call
+Fixed issue where conflagration of doom explosions are not randomised
+Fixed issue where Markas and Cyrus were not spawning
+Made changes to reputation and relation system to encourage more realistic relations with lords (untested)
+removed weight of weapons, shield and ammo from casting encumberance calculation
+fixed issue where player with own kingdom would disappear when they lost their last fief
+Fixed issue where Maldrex mission cannot be completed
+Riding requirement removed from steed of shadows.
+Fixed issue where night goblins had insane health
+Fixed issue where NPCs have over 100% health
+Major magic missile damage should be easier to see
+Fixed invocation of the ice storm
+Dark elf players can learn slaaneshi magic
+Dhar swapped for grey for vampires
+New dual purpose mace for dreadknights
+Fixed issue where villages gave no money
+Fixes to chaos dwarf scenes
+further fixes to major magic missile damage
+pre runed melted down items will now get their 3 slots back
+light and amethyst work properly for skeletons in Nehekhara
+Healing from jade lore attribute increased tenfold
+Rune rifle cost drastically reduced
+Fixed shield of thorns
+Fixed pestilent breath and curse of the horned one in plague
+shems burning gaze and doombolt should work properly with the lore attribute
+Dozes of new scene fixes
+Many small miscellaneous changes.

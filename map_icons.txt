@@ -1,0 +1,1461 @@
+map_icons_file version 1
+477
+player 0 player2 0.150000 17 0.150000 0.173000 0.000000 1
+-70.000000  4 2071 1 1224979098644774912 31 2 1224979098644774912 648518346341351424 1 1 936748722493064085 1 1 936748722493064084 
+
+
+player_horseman 0 player_horseman 0.150000 112 0.150000 0.173000 0.000000 1
+-70.000000  4 2071 1 1224979098644774912 31 2 1224979098644774912 648518346341351424 1 1 936748722493064085 1 1 936748722493064084 
+
+
+gray_knight 0 knight_a 0.150000 112 0.150000 0.173000 0.000000 1
+-70.000000  4 2071 1 1224979098644774912 31 2 1224979098644774912 648518346341351424 1 1 936748722493064085 1 1 936748722493064084 
+
+
+vaegir_knight 0 player_horseman 0.150000 112 0.150000 0.173000 0.000000 1
+-70.000000  4 2071 1 1224979098644774912 31 2 1224979098644774912 648518346341351424 1 1 936748722493064085 1 1 936748722493064084 
+
+
+flagbearer_a 0 flagbearer_a 0.150000 112 0.150000 0.173000 0.000000 0
+
+
+flagbearer_b 0 flagbearer_b 0.150000 112 0.150000 0.173000 0.000000 0
+
+
+peasant 0 peasant_a 0.150000 17 0.150000 0.173000 0.000000 0
+
+
+khergit 0 khergit_horseman 0.150000 112 0.150000 0.173000 0.000000 0
+
+
+khergit_horseman_b 0 khergit_horseman_b 0.150000 112 0.150000 0.173000 0.000000 0
+
+
+flagbearer_skel 0 skelbearer_c 0.150000 112 0.150000 0.173000 0.000000 0
+
+
+axeman 0 bandit_a 0.150000 17 0.150000 0.173000 0.000000 0
+
+
+woman 0 woman_a 0.150000 17 0.150000 0.173000 0.000000 0
+
+
+woman_b 0 woman_b 0.150000 17 0.150000 0.173000 0.000000 0
+
+
+town 1 map_town_a 0.650000 0 0 0 0 0
+
+
+town_steppe 1 map_town_steppe_a 0.650000 0 0 0 0 0
+
+
+town_desert 1 map_town_desert_a 0.650000 0 0 0 0 0
+
+
+town_nippon 1 gekokujo_map_town_1 0.650000 0 0 0 0 0
+
+
+town_nippon2 1 gekokujo_map_town_2 0.650000 0 0 0 0 0
+
+
+town_cd 1 chaos_dwarf_town_icon_a 0.650000 0 0 0 0 0
+
+
+village_a 1 map_village_a 0.450000 0 0 0 0 0
+
+
+village_b 1 map_village_b 0.450000 0 0 0 0 0
+
+
+village_c 1 map_village_c 0.450000 0 0 0 0 0
+
+
+village_burnt_a 1 map_village_burnt_a 0.450000 0 0 0 0 0
+
+
+village_deserted_a 1 map_village_deserted_a 0.450000 0 0 0 0 0
+
+
+village_burnt_b 1 map_village_burnt_b 0.450000 0 0 0 0 0
+
+
+village_deserted_b 1 map_village_deserted_b 0.450000 0 0 0 0 0
+
+
+village_burnt_c 1 map_village_burnt_c 0.450000 0 0 0 0 0
+
+
+village_deserted_c 1 map_village_deserted_c 0.450000 0 0 0 0 0
+
+
+village_snow_a 1 map_village_snow_a 0.450000 0 0 0 0 0
+
+
+village_snow_burnt_a 1 map_village_snow_burnt_a 0.450000 0 0 0 0 0
+
+
+village_snow_deserted_a 1 map_village_snow_deserted_a 0.450000 0 0 0 0 0
+
+
+lord_faction_1 0 knight_b 0.150000 112 0.150000 0.173000 0.000000 1
+-70.000000  4 2071 1 1224979098644774912 31 2 1224979098644774912 648518346341351424 1 1 936748722493064085 1 1 936748722493064084 
+
+
+lord_faction_2 0 dwarf 0.150000 112 0.150000 0.173000 0.000000 1
+-70.000000  4 2071 1 1224979098644774912 31 2 1224979098644774912 648518346341351424 1 1 936748722493064085 1 1 936748722493064084 
+
+
+lord_faction_3 0 flagbearer_b 0.150000 112 0.150000 0.173000 0.000000 1
+-70.000000  4 2071 1 1224979098644774912 31 2 1224979098644774912 648518346341351424 1 1 936748722493064085 1 1 936748722493064084 
+
+
+lord_faction_4 0 chaos_dwarf_icon 0.150000 112 0.150000 0.173000 0.000000 1
+-70.000000  4 2071 1 1224979098644774912 31 2 1224979098644774912 648518346341351424 1 1 936748722493064085 1 1 936748722493064084 
+
+
+lord_faction_5 0 chaos 0.150000 112 0.150000 0.173000 0.000000 1
+-70.000000  4 2071 1 1224979098644774912 31 2 1224979098644774912 648518346341351424 1 1 936748722493064085 1 1 936748722493064084 
+
+
+lord_faction_6 0 skelbearer_b 0.150000 112 0.150000 0.173000 0.000000 1
+-70.000000  4 2071 1 1224979098644774912 31 2 1224979098644774912 648518346341351424 1 1 936748722493064085 1 1 936748722493064084 
+
+
+lord_faction_7 0 lizardmap 0.150000 112 0.150000 0.173000 0.000000 1
+-70.000000  4 2071 1 1224979098644774912 31 2 1224979098644774912 648518346341351424 1 1 936748722493064085 1 1 936748722493064084 
+
+
+lord_faction_8 0 goblin 0.150000 112 0.150000 0.173000 0.000000 1
+-70.000000  4 2071 1 1224979098644774912 31 2 1224979098644774912 648518346341351424 1 1 936748722493064085 1 1 936748722493064084 
+
+
+lord_faction_9 0 khergit_horseman_b 0.150000 112 0.150000 0.173000 0.000000 1
+-70.000000  4 2071 1 1224979098644774912 31 2 1224979098644774912 648518346341351424 1 1 936748722493064085 1 1 936748722493064084 
+
+
+lord_faction_10 0 orc 0.150000 112 0.150000 0.173000 0.000000 1
+-70.000000  4 2071 1 1224979098644774912 31 2 1224979098644774912 648518346341351424 1 1 936748722493064085 1 1 936748722493064084 
+
+
+lord_faction_11 0 flagbearer_b 0.150000 112 0.150000 0.173000 0.000000 1
+-70.000000  4 2071 1 1224979098644774912 31 2 1224979098644774912 648518346341351424 1 1 936748722493064085 1 1 936748722493064084 
+
+
+lord_faction_12 0 flagbearer_a 0.150000 112 0.150000 0.173000 0.000000 1
+-70.000000  4 2071 1 1224979098644774912 31 2 1224979098644774912 648518346341351424 1 1 936748722493064085 1 1 936748722493064084 
+
+
+lord_faction_13 0 skaven 0.150000 112 0.150000 0.173000 0.000000 1
+-70.000000  4 2071 1 1224979098644774912 31 2 1224979098644774912 648518346341351424 1 1 936748722493064085 1 1 936748722493064084 
+
+
+lord_faction_14 0 Kislev_lord_icon 0.150000 112 0.150000 0.173000 0.000000 1
+-70.000000  4 2071 1 1224979098644774912 31 2 1224979098644774912 648518346341351424 1 1 936748722493064085 1 1 936748722493064084 
+
+
+lord_faction_15 0 beastman 0.150000 112 0.150000 0.173000 0.000000 1
+-70.000000  4 2071 1 1224979098644774912 31 2 1224979098644774912 648518346341351424 1 1 936748722493064085 1 1 936748722493064084 
+
+
+lord_faction_16 0 nippon_horseman_red 0.150000 112 0.150000 0.173000 0.000000 1
+-70.000000  4 2071 1 1224979098644774912 31 2 1224979098644774912 648518346341351424 1 1 936748722493064085 1 1 936748722493064084 
+
+
+lord_faction_17 0 vampbearer_a 0.150000 112 0.150000 0.173000 0.000000 1
+-70.000000  4 2071 1 1224979098644774912 31 2 1224979098644774912 648518346341351424 1 1 936748722493064085 1 1 936748722493064084 
+
+
+lord_faction_18 0 wood_elf 0.150000 112 0.150000 0.173000 0.000000 1
+-70.000000  4 2071 1 1224979098644774912 31 2 1224979098644774912 648518346341351424 1 1 936748722493064085 1 1 936748722493064084 
+
+
+camp 1 camp_tent 0.130000 0 0 0 0 1
+-70.000000  4 2071 1 1224979098644774912 31 2 1224979098644774912 648518346341351424 1 1 936748722493064085 1 1 936748722493064084 
+
+
+ship 1 boat_sail_on 0.230000 17 0.000000 0.050000 0.000000 1
+-70.000000  4 2071 1 1224979098644774912 31 2 1224979098644774912 648518346341351424 1 1 936748722493064085 1 1 936748722493064084 
+
+
+ship_on_land 1 boat_sail_off 0.230000 0 0 0 0 1
+-70.000000  4 2071 1 1224979098644774912 31 2 1224979098644774912 648518346341351424 1 1 936748722493064085 1 1 936748722493064084 
+
+
+castle_a 1 map_castle_a 0.450000 0 0 0 0 0
+
+
+castle_b 1 map_castle_b 0.450000 0 0 0 0 0
+
+
+castle_c 1 map_castle_c 0.450000 0 0 0 0 0
+
+
+castle_d 1 map_castle_d 0.450000 0 0 0 0 0
+
+
+castle_cd 1 chaos_dwarf_castle_icon_a 0.450000 0 0 0 0 0
+
+
+town_snow 1 map_town_snow_a 0.450000 0 0 0 0 0
+
+
+castle_nippon 1 gekokujo_map_castle 0.250000 0 0 0 0 0
+
+
+castle_snow_a 1 map_castle_snow_a 0.450000 0 0 0 0 0
+
+
+castle_snow_b 1 map_castle_snow_b 0.450000 0 0 0 0 0
+
+
+mule 0 icon_mule 0.200000 17 0.150000 0.173000 0.000000 0
+
+
+cattle 0 icon_cow 0.200000 17 0.150000 0.173000 0.000000 0
+
+
+training_ground 1 training 0.350000 0 0 0 0 0
+
+
+bridge_a 1 map_river_bridge_a 1.270000 0 0 0 0 0
+
+
+bridge_b 1 map_river_bridge_b 0.700000 0 0 0 0 0
+
+
+bridge_snow_a 1 map_river_bridge_snow_a 1.270000 0 0 0 0 0
+
+
+bandit_lair 1 map_bandit_lair 0.450000 0 0 0 0 0
+
+
+custom_banner_01 0 custom_map_banner_01 0.300000 0 0 0 0 1
+-70.000000  6 2071 1 1224979098644774912 521 3 1224979098644774913 1224979098644774912 7 4 0 30 2 1224979098644774913 0 1983 2 1729382256910270512 1224979098644774913 3 0 
+
+
+custom_banner_02 0 custom_map_banner_02 0.300000 0 0 0 0 1
+-70.000000  6 2071 1 1224979098644774912 521 3 1224979098644774913 1224979098644774912 7 4 0 30 2 1224979098644774913 0 1983 2 1729382256910270513 1224979098644774913 3 0 
+
+
+custom_banner_03 0 custom_map_banner_03 0.300000 0 0 0 0 1
+-70.000000  6 2071 1 1224979098644774912 521 3 1224979098644774913 1224979098644774912 7 4 0 30 2 1224979098644774913 0 1983 2 1729382256910270511 1224979098644774913 3 0 
+
+
+banner_01 0 map_flag_01 0.300000 0 0 0 0 0
+
+
+banner_02 0 map_flag_02 0.300000 0 0 0 0 0
+
+
+banner_03 0 map_flag_03 0.300000 0 0 0 0 0
+
+
+banner_04 0 map_flag_04 0.300000 0 0 0 0 0
+
+
+banner_05 0 map_flag_05 0.300000 0 0 0 0 0
+
+
+banner_06 0 map_flag_06 0.300000 0 0 0 0 0
+
+
+banner_07 0 map_flag_07 0.300000 0 0 0 0 0
+
+
+banner_08 0 map_flag_08 0.300000 0 0 0 0 0
+
+
+banner_09 0 map_flag_09 0.300000 0 0 0 0 0
+
+
+banner_10 0 map_flag_10 0.300000 0 0 0 0 0
+
+
+banner_11 0 map_flag_11 0.300000 0 0 0 0 0
+
+
+banner_12 0 map_flag_12 0.300000 0 0 0 0 0
+
+
+banner_13 0 map_flag_13 0.300000 0 0 0 0 0
+
+
+banner_14 0 map_flag_14 0.300000 0 0 0 0 0
+
+
+banner_15 0 map_flag_15 0.300000 0 0 0 0 0
+
+
+banner_16 0 map_flag_16 0.300000 0 0 0 0 0
+
+
+banner_17 0 map_flag_17 0.300000 0 0 0 0 0
+
+
+banner_18 0 map_flag_18 0.300000 0 0 0 0 0
+
+
+banner_19 0 map_flag_19 0.300000 0 0 0 0 0
+
+
+banner_20 0 map_flag_20 0.300000 0 0 0 0 0
+
+
+banner_21 0 map_flag_21 0.300000 0 0 0 0 0
+
+
+banner_22 0 map_flag_22 0.300000 0 0 0 0 0
+
+
+banner_23 0 map_flag_23 0.300000 0 0 0 0 0
+
+
+banner_24 0 map_flag_24 0.300000 0 0 0 0 0
+
+
+banner_25 0 map_flag_25 0.300000 0 0 0 0 0
+
+
+banner_26 0 map_flag_26 0.300000 0 0 0 0 0
+
+
+banner_27 0 map_flag_27 0.300000 0 0 0 0 0
+
+
+banner_28 0 map_flag_28 0.300000 0 0 0 0 0
+
+
+banner_29 0 map_flag_29 0.300000 0 0 0 0 0
+
+
+banner_30 0 map_flag_30 0.300000 0 0 0 0 0
+
+
+banner_31 0 map_flag_31 0.300000 0 0 0 0 0
+
+
+banner_32 0 map_flag_32 0.300000 0 0 0 0 0
+
+
+banner_33 0 map_flag_33 0.300000 0 0 0 0 0
+
+
+banner_34 0 map_flag_34 0.300000 0 0 0 0 0
+
+
+banner_35 0 map_flag_35 0.300000 0 0 0 0 0
+
+
+banner_36 0 map_flag_36 0.300000 0 0 0 0 0
+
+
+banner_37 0 map_flag_37 0.300000 0 0 0 0 0
+
+
+banner_38 0 map_flag_38 0.300000 0 0 0 0 0
+
+
+banner_39 0 map_flag_39 0.300000 0 0 0 0 0
+
+
+banner_40 0 map_flag_40 0.300000 0 0 0 0 0
+
+
+banner_41 0 map_flag_41 0.300000 0 0 0 0 0
+
+
+banner_42 0 map_flag_42 0.300000 0 0 0 0 0
+
+
+banner_43 0 map_flag_43 0.300000 0 0 0 0 0
+
+
+banner_44 0 map_flag_44 0.300000 0 0 0 0 0
+
+
+banner_45 0 map_flag_45 0.300000 0 0 0 0 0
+
+
+banner_46 0 map_flag_46 0.300000 0 0 0 0 0
+
+
+banner_47 0 map_flag_47 0.300000 0 0 0 0 0
+
+
+banner_48 0 map_flag_48 0.300000 0 0 0 0 0
+
+
+banner_49 0 map_flag_49 0.300000 0 0 0 0 0
+
+
+banner_50 0 map_flag_50 0.300000 0 0 0 0 0
+
+
+banner_51 0 map_flag_51 0.300000 0 0 0 0 0
+
+
+banner_52 0 map_flag_52 0.300000 0 0 0 0 0
+
+
+banner_53 0 map_flag_53 0.300000 0 0 0 0 0
+
+
+banner_54 0 map_flag_54 0.300000 0 0 0 0 0
+
+
+banner_55 0 map_flag_55 0.300000 0 0 0 0 0
+
+
+banner_56 0 map_flag_56 0.300000 0 0 0 0 0
+
+
+banner_57 0 map_flag_57 0.300000 0 0 0 0 0
+
+
+banner_58 0 map_flag_58 0.300000 0 0 0 0 0
+
+
+banner_59 0 map_flag_59 0.300000 0 0 0 0 0
+
+
+banner_60 0 map_flag_60 0.300000 0 0 0 0 0
+
+
+banner_61 0 map_flag_61 0.300000 0 0 0 0 0
+
+
+banner_62 0 map_flag_62 0.300000 0 0 0 0 0
+
+
+banner_63 0 map_flag_63 0.300000 0 0 0 0 0
+
+
+banner_64 0 map_flag_d01 0.300000 0 0 0 0 0
+
+
+banner_65 0 map_flag_d02 0.300000 0 0 0 0 0
+
+
+banner_66 0 map_flag_d03 0.300000 0 0 0 0 0
+
+
+banner_67 0 map_flag_d04 0.300000 0 0 0 0 0
+
+
+banner_68 0 map_flag_d05 0.300000 0 0 0 0 0
+
+
+banner_69 0 map_flag_d06 0.300000 0 0 0 0 0
+
+
+banner_70 0 map_flag_d07 0.300000 0 0 0 0 0
+
+
+banner_71 0 map_flag_d08 0.300000 0 0 0 0 0
+
+
+banner_72 0 map_flag_d09 0.300000 0 0 0 0 0
+
+
+banner_73 0 map_flag_d10 0.300000 0 0 0 0 0
+
+
+banner_74 0 map_flag_d11 0.300000 0 0 0 0 0
+
+
+banner_75 0 map_flag_d12 0.300000 0 0 0 0 0
+
+
+banner_76 0 map_flag_d13 0.300000 0 0 0 0 0
+
+
+banner_77 0 map_flag_d14 0.300000 0 0 0 0 0
+
+
+banner_78 0 map_flag_d15 0.300000 0 0 0 0 0
+
+
+banner_79 0 map_flag_d16 0.300000 0 0 0 0 0
+
+
+banner_80 0 map_flag_d17 0.300000 0 0 0 0 0
+
+
+banner_81 0 map_flag_d18 0.300000 0 0 0 0 0
+
+
+banner_82 0 map_flag_d19 0.300000 0 0 0 0 0
+
+
+banner_83 0 map_flag_d20 0.300000 0 0 0 0 0
+
+
+banner_84 0 map_flag_d21 0.300000 0 0 0 0 0
+
+
+banner_85 0 map_flag_e01 0.300000 0 0 0 0 0
+
+
+banner_86 0 map_flag_e02 0.300000 0 0 0 0 0
+
+
+banner_87 0 map_flag_e03 0.300000 0 0 0 0 0
+
+
+banner_88 0 map_flag_e04 0.300000 0 0 0 0 0
+
+
+banner_89 0 map_flag_e05 0.300000 0 0 0 0 0
+
+
+banner_90 0 map_flag_e06 0.300000 0 0 0 0 0
+
+
+banner_91 0 map_flag_e07 0.300000 0 0 0 0 0
+
+
+banner_92 0 map_flag_e08 0.300000 0 0 0 0 0
+
+
+banner_93 0 map_flag_e09 0.300000 0 0 0 0 0
+
+
+banner_94 0 map_flag_e10 0.300000 0 0 0 0 0
+
+
+banner_95 0 map_flag_e11 0.300000 0 0 0 0 0
+
+
+banner_96 0 map_flag_e12 0.300000 0 0 0 0 0
+
+
+banner_97 0 map_flag_e13 0.300000 0 0 0 0 0
+
+
+banner_98 0 map_flag_e14 0.300000 0 0 0 0 0
+
+
+banner_99 0 map_flag_e15 0.300000 0 0 0 0 0
+
+
+banner_100 0 map_flag_e16 0.300000 0 0 0 0 0
+
+
+banner_101 0 map_flag_e17 0.300000 0 0 0 0 0
+
+
+banner_102 0 map_flag_e18 0.300000 0 0 0 0 0
+
+
+banner_103 0 map_flag_e19 0.300000 0 0 0 0 0
+
+
+banner_104 0 map_flag_e20 0.300000 0 0 0 0 0
+
+
+banner_105 0 map_flag_e21 0.300000 0 0 0 0 0
+
+
+banner_106 0 map_flag_f01 0.300000 0 0 0 0 0
+
+
+banner_107 0 map_flag_f02 0.300000 0 0 0 0 0
+
+
+banner_108 0 map_flag_f03 0.300000 0 0 0 0 0
+
+
+banner_109 0 map_flag_f04 0.300000 0 0 0 0 0
+
+
+banner_110 0 map_flag_f05 0.300000 0 0 0 0 0
+
+
+banner_111 0 map_flag_f06 0.300000 0 0 0 0 0
+
+
+banner_112 0 map_flag_f07 0.300000 0 0 0 0 0
+
+
+banner_113 0 map_flag_f08 0.300000 0 0 0 0 0
+
+
+banner_114 0 map_flag_f09 0.300000 0 0 0 0 0
+
+
+banner_115 0 map_flag_f10 0.300000 0 0 0 0 0
+
+
+banner_116 0 map_flag_f11 0.300000 0 0 0 0 0
+
+
+banner_117 0 map_flag_f12 0.300000 0 0 0 0 0
+
+
+banner_118 0 map_flag_f13 0.300000 0 0 0 0 0
+
+
+banner_119 0 map_flag_f14 0.300000 0 0 0 0 0
+
+
+banner_120 0 map_flag_f15 0.300000 0 0 0 0 0
+
+
+banner_121 0 map_flag_f16 0.300000 0 0 0 0 0
+
+
+banner_122 0 map_flag_f17 0.300000 0 0 0 0 0
+
+
+banner_123 0 map_flag_f18 0.300000 0 0 0 0 0
+
+
+banner_124 0 map_flag_f19 0.300000 0 0 0 0 0
+
+
+banner_125 0 map_flag_f20 0.300000 0 0 0 0 0
+
+
+banner_126 0 map_flag_f01 0.300000 0 0 0 0 0
+
+
+banner_127 0 map_flag_f02 0.300000 0 0 0 0 0
+
+
+banner_128 0 map_flag_f03 0.300000 0 0 0 0 0
+
+
+banner_129 0 map_flag_f04 0.300000 0 0 0 0 0
+
+
+banner_130 0 map_flag_f05 0.300000 0 0 0 0 0
+
+
+banner_131 0 map_flag_f06 0.300000 0 0 0 0 0
+
+
+banner_132 0 map_flag_f07 0.300000 0 0 0 0 0
+
+
+banner_133 0 map_flag_f08 0.300000 0 0 0 0 0
+
+
+banner_134 0 map_flag_f09 0.300000 0 0 0 0 0
+
+
+banner_135 0 map_flag_f10 0.300000 0 0 0 0 0
+
+
+banner_136 0 map_flag_h01 0.300000 0 0 0 0 0
+
+
+banner_137 0 map_flag_h02 0.300000 0 0 0 0 0
+
+
+banner_138 0 map_flag_h03 0.300000 0 0 0 0 0
+
+
+banner_139 0 map_flag_h04 0.300000 0 0 0 0 0
+
+
+banner_140 0 map_flag_h05 0.300000 0 0 0 0 0
+
+
+banner_141 0 map_flag_h06 0.300000 0 0 0 0 0
+
+
+banner_142 0 map_flag_h07 0.300000 0 0 0 0 0
+
+
+banner_143 0 map_flag_h08 0.300000 0 0 0 0 0
+
+
+banner_144 0 map_flag_h09 0.300000 0 0 0 0 0
+
+
+banner_145 0 map_flag_h10 0.300000 0 0 0 0 0
+
+
+banner_146 0 map_flag_h11 0.300000 0 0 0 0 0
+
+
+banner_147 0 map_flag_h12 0.300000 0 0 0 0 0
+
+
+banner_148 0 map_flag_h13 0.300000 0 0 0 0 0
+
+
+banner_149 0 map_flag_h14 0.300000 0 0 0 0 0
+
+
+banner_150 0 map_flag_h15 0.300000 0 0 0 0 0
+
+
+banner_151 0 map_flag_h16 0.300000 0 0 0 0 0
+
+
+banner_152 0 map_flag_h17 0.300000 0 0 0 0 0
+
+
+banner_153 0 map_flag_h18 0.300000 0 0 0 0 0
+
+
+banner_154 0 map_flag_h19 0.300000 0 0 0 0 0
+
+
+banner_155 0 map_flag_h20 0.300000 0 0 0 0 0
+
+
+banner_156 0 map_flag_h21 0.300000 0 0 0 0 0
+
+
+banner_157 0 map_flag_j01 0.300000 0 0 0 0 0
+
+
+banner_158 0 map_flag_j02 0.300000 0 0 0 0 0
+
+
+banner_159 0 map_flag_j03 0.300000 0 0 0 0 0
+
+
+banner_160 0 map_flag_j04 0.300000 0 0 0 0 0
+
+
+banner_161 0 map_flag_j05 0.300000 0 0 0 0 0
+
+
+banner_162 0 map_flag_j06 0.300000 0 0 0 0 0
+
+
+banner_163 0 map_flag_j07 0.300000 0 0 0 0 0
+
+
+banner_164 0 map_flag_j08 0.300000 0 0 0 0 0
+
+
+banner_165 0 map_flag_j09 0.300000 0 0 0 0 0
+
+
+banner_166 0 map_flag_j10 0.300000 0 0 0 0 0
+
+
+banner_167 0 map_flag_j11 0.300000 0 0 0 0 0
+
+
+banner_168 0 map_flag_j12 0.300000 0 0 0 0 0
+
+
+banner_169 0 map_flag_j13 0.300000 0 0 0 0 0
+
+
+banner_170 0 map_flag_j14 0.300000 0 0 0 0 0
+
+
+banner_171 0 map_flag_j15 0.300000 0 0 0 0 0
+
+
+banner_172 0 map_flag_j16 0.300000 0 0 0 0 0
+
+
+banner_173 0 map_flag_j17 0.300000 0 0 0 0 0
+
+
+banner_174 0 map_flag_j18 0.300000 0 0 0 0 0
+
+
+banner_175 0 map_flag_j19 0.300000 0 0 0 0 0
+
+
+banner_176 0 map_flag_j20 0.300000 0 0 0 0 0
+
+
+banner_177 0 map_flag_j21 0.300000 0 0 0 0 0
+
+
+banner_178 0 map_flag_l01 0.300000 0 0 0 0 0
+
+
+banner_179 0 map_flag_l02 0.300000 0 0 0 0 0
+
+
+banner_180 0 map_flag_l03 0.300000 0 0 0 0 0
+
+
+banner_181 0 map_flag_l04 0.300000 0 0 0 0 0
+
+
+banner_182 0 map_flag_l05 0.300000 0 0 0 0 0
+
+
+banner_183 0 map_flag_l06 0.300000 0 0 0 0 0
+
+
+banner_184 0 map_flag_l07 0.300000 0 0 0 0 0
+
+
+banner_185 0 map_flag_l08 0.300000 0 0 0 0 0
+
+
+banner_186 0 map_flag_l09 0.300000 0 0 0 0 0
+
+
+banner_187 0 map_flag_l10 0.300000 0 0 0 0 0
+
+
+banner_188 0 map_flag_l11 0.300000 0 0 0 0 0
+
+
+banner_189 0 map_flag_l12 0.300000 0 0 0 0 0
+
+
+banner_190 0 map_flag_l13 0.300000 0 0 0 0 0
+
+
+banner_191 0 map_flag_l14 0.300000 0 0 0 0 0
+
+
+banner_192 0 map_flag_l15 0.300000 0 0 0 0 0
+
+
+banner_193 0 map_flag_l16 0.300000 0 0 0 0 0
+
+
+banner_194 0 map_flag_l17 0.300000 0 0 0 0 0
+
+
+banner_195 0 map_flag_l18 0.300000 0 0 0 0 0
+
+
+banner_196 0 map_flag_l19 0.300000 0 0 0 0 0
+
+
+banner_197 0 map_flag_l20 0.300000 0 0 0 0 0
+
+
+banner_198 0 map_flag_l21 0.300000 0 0 0 0 0
+
+
+banner_199 0 map_flag_m01 0.300000 0 0 0 0 0
+
+
+banner_200 0 map_flag_m02 0.300000 0 0 0 0 0
+
+
+banner_201 0 map_flag_m03 0.300000 0 0 0 0 0
+
+
+banner_202 0 map_flag_m04 0.300000 0 0 0 0 0
+
+
+banner_203 0 map_flag_m05 0.300000 0 0 0 0 0
+
+
+banner_204 0 map_flag_m06 0.300000 0 0 0 0 0
+
+
+banner_205 0 map_flag_m07 0.300000 0 0 0 0 0
+
+
+banner_206 0 map_flag_m08 0.300000 0 0 0 0 0
+
+
+banner_207 0 map_flag_m09 0.300000 0 0 0 0 0
+
+
+banner_208 0 map_flag_m10 0.300000 0 0 0 0 0
+
+
+banner_209 0 map_flag_m11 0.300000 0 0 0 0 0
+
+
+banner_210 0 map_flag_m12 0.300000 0 0 0 0 0
+
+
+banner_211 0 map_flag_m13 0.300000 0 0 0 0 0
+
+
+banner_212 0 map_flag_m14 0.300000 0 0 0 0 0
+
+
+banner_213 0 map_flag_m15 0.300000 0 0 0 0 0
+
+
+banner_214 0 map_flag_m16 0.300000 0 0 0 0 0
+
+
+banner_215 0 map_flag_m17 0.300000 0 0 0 0 0
+
+
+banner_216 0 map_flag_m18 0.300000 0 0 0 0 0
+
+
+banner_217 0 map_flag_m19 0.300000 0 0 0 0 0
+
+
+banner_218 0 map_flag_m20 0.300000 0 0 0 0 0
+
+
+banner_219 0 map_flag_m21 0.300000 0 0 0 0 0
+
+
+banner_220 0 map_flag_n01 0.300000 0 0 0 0 0
+
+
+banner_221 0 map_flag_n02 0.300000 0 0 0 0 0
+
+
+banner_222 0 map_flag_n03 0.300000 0 0 0 0 0
+
+
+banner_223 0 map_flag_n04 0.300000 0 0 0 0 0
+
+
+banner_224 0 map_flag_n05 0.300000 0 0 0 0 0
+
+
+banner_225 0 map_flag_n06 0.300000 0 0 0 0 0
+
+
+banner_226 0 map_flag_n07 0.300000 0 0 0 0 0
+
+
+banner_227 0 map_flag_n08 0.300000 0 0 0 0 0
+
+
+banner_228 0 map_flag_n09 0.300000 0 0 0 0 0
+
+
+banner_229 0 map_flag_n10 0.300000 0 0 0 0 0
+
+
+banner_230 0 map_flag_n11 0.300000 0 0 0 0 0
+
+
+banner_231 0 map_flag_n12 0.300000 0 0 0 0 0
+
+
+banner_232 0 map_flag_n13 0.300000 0 0 0 0 0
+
+
+banner_233 0 map_flag_n14 0.300000 0 0 0 0 0
+
+
+banner_234 0 map_flag_n15 0.300000 0 0 0 0 0
+
+
+banner_235 0 map_flag_n16 0.300000 0 0 0 0 0
+
+
+banner_236 0 map_flag_n17 0.300000 0 0 0 0 0
+
+
+banner_237 0 map_flag_n18 0.300000 0 0 0 0 0
+
+
+banner_238 0 map_flag_n19 0.300000 0 0 0 0 0
+
+
+banner_239 0 map_flag_n20 0.300000 0 0 0 0 0
+
+
+banner_240 0 map_flag_n21 0.300000 0 0 0 0 0
+
+
+banner_241 0 map_flag_p01 0.300000 0 0 0 0 0
+
+
+banner_242 0 map_flag_p02 0.300000 0 0 0 0 0
+
+
+banner_243 0 map_flag_p03 0.300000 0 0 0 0 0
+
+
+banner_244 0 map_flag_p04 0.300000 0 0 0 0 0
+
+
+banner_245 0 map_flag_p05 0.300000 0 0 0 0 0
+
+
+banner_246 0 map_flag_p06 0.300000 0 0 0 0 0
+
+
+banner_247 0 map_flag_p07 0.300000 0 0 0 0 0
+
+
+banner_248 0 map_flag_p08 0.300000 0 0 0 0 0
+
+
+banner_249 0 map_flag_p09 0.300000 0 0 0 0 0
+
+
+banner_250 0 map_flag_p10 0.300000 0 0 0 0 0
+
+
+banner_251 0 map_flag_p11 0.300000 0 0 0 0 0
+
+
+banner_252 0 map_flag_p12 0.300000 0 0 0 0 0
+
+
+banner_253 0 map_flag_p13 0.300000 0 0 0 0 0
+
+
+banner_254 0 map_flag_p14 0.300000 0 0 0 0 0
+
+
+banner_255 0 map_flag_p15 0.300000 0 0 0 0 0
+
+
+banner_256 0 map_flag_p16 0.300000 0 0 0 0 0
+
+
+banner_257 0 map_flag_p17 0.300000 0 0 0 0 0
+
+
+banner_258 0 map_flag_p18 0.300000 0 0 0 0 0
+
+
+banner_259 0 map_flag_p19 0.300000 0 0 0 0 0
+
+
+banner_260 0 map_flag_p20 0.300000 0 0 0 0 0
+
+
+banner_261 0 map_flag_p21 0.300000 0 0 0 0 0
+
+
+banner_262 0 map_flag_q01 0.300000 0 0 0 0 0
+
+
+banner_263 0 map_flag_q02 0.300000 0 0 0 0 0
+
+
+banner_264 0 map_flag_q03 0.300000 0 0 0 0 0
+
+
+banner_265 0 map_flag_q04 0.300000 0 0 0 0 0
+
+
+banner_266 0 map_flag_q05 0.300000 0 0 0 0 0
+
+
+banner_267 0 map_flag_q06 0.300000 0 0 0 0 0
+
+
+banner_268 0 map_flag_q07 0.300000 0 0 0 0 0
+
+
+banner_269 0 map_flag_q08 0.300000 0 0 0 0 0
+
+
+banner_270 0 map_flag_q09 0.300000 0 0 0 0 0
+
+
+banner_271 0 map_flag_q10 0.300000 0 0 0 0 0
+
+
+banner_272 0 map_flag_q11 0.300000 0 0 0 0 0
+
+
+banner_273 0 map_flag_q12 0.300000 0 0 0 0 0
+
+
+banner_274 0 map_flag_q13 0.300000 0 0 0 0 0
+
+
+banner_275 0 map_flag_q14 0.300000 0 0 0 0 0
+
+
+banner_276 0 map_flag_q15 0.300000 0 0 0 0 0
+
+
+banner_277 0 map_flag_q16 0.300000 0 0 0 0 0
+
+
+banner_278 0 map_flag_q17 0.300000 0 0 0 0 0
+
+
+banner_279 0 map_flag_q18 0.300000 0 0 0 0 0
+
+
+banner_280 0 map_flag_q19 0.300000 0 0 0 0 0
+
+
+banner_281 0 map_flag_q20 0.300000 0 0 0 0 0
+
+
+banner_282 0 map_flag_q21 0.300000 0 0 0 0 0
+
+
+banner_283 0 map_flag_r01 0.300000 0 0 0 0 0
+
+
+banner_284 0 map_flag_r02 0.300000 0 0 0 0 0
+
+
+banner_285 0 map_flag_r03 0.300000 0 0 0 0 0
+
+
+banner_286 0 map_flag_r04 0.300000 0 0 0 0 0
+
+
+banner_287 0 map_flag_r05 0.300000 0 0 0 0 0
+
+
+banner_288 0 map_flag_r06 0.300000 0 0 0 0 0
+
+
+banner_289 0 map_flag_r07 0.300000 0 0 0 0 0
+
+
+banner_290 0 map_flag_r08 0.300000 0 0 0 0 0
+
+
+banner_291 0 map_flag_r09 0.300000 0 0 0 0 0
+
+
+banner_292 0 map_flag_r10 0.300000 0 0 0 0 0
+
+
+banner_293 0 map_flag_r11 0.300000 0 0 0 0 0
+
+
+banner_294 0 map_flag_r12 0.300000 0 0 0 0 0
+
+
+banner_295 0 map_flag_r13 0.300000 0 0 0 0 0
+
+
+banner_296 0 map_flag_r14 0.300000 0 0 0 0 0
+
+
+banner_297 0 map_flag_r15 0.300000 0 0 0 0 0
+
+
+banner_298 0 map_flag_r16 0.300000 0 0 0 0 0
+
+
+banner_299 0 map_flag_r17 0.300000 0 0 0 0 0
+
+
+banner_300 0 map_flag_r18 0.300000 0 0 0 0 0
+
+
+banner_301 0 map_flag_r19 0.300000 0 0 0 0 0
+
+
+banner_302 0 map_flag_r20 0.300000 0 0 0 0 0
+
+
+banner_303 0 map_flag_r21 0.300000 0 0 0 0 0
+
+
+banner_304 0 map_flag_s01 0.300000 0 0 0 0 0
+
+
+banner_305 0 map_flag_s02 0.300000 0 0 0 0 0
+
+
+banner_306 0 map_flag_s03 0.300000 0 0 0 0 0
+
+
+banner_307 0 map_flag_s04 0.300000 0 0 0 0 0
+
+
+banner_308 0 map_flag_s05 0.300000 0 0 0 0 0
+
+
+banner_309 0 map_flag_s06 0.300000 0 0 0 0 0
+
+
+banner_310 0 map_flag_s07 0.300000 0 0 0 0 0
+
+
+banner_311 0 map_flag_s08 0.300000 0 0 0 0 0
+
+
+banner_312 0 map_flag_s09 0.300000 0 0 0 0 0
+
+
+banner_313 0 map_flag_s10 0.300000 0 0 0 0 0
+
+
+banner_314 0 map_flag_s11 0.300000 0 0 0 0 0
+
+
+banner_315 0 map_flag_s12 0.300000 0 0 0 0 0
+
+
+banner_316 0 map_flag_s13 0.300000 0 0 0 0 0
+
+
+banner_317 0 map_flag_s14 0.300000 0 0 0 0 0
+
+
+banner_318 0 map_flag_s15 0.300000 0 0 0 0 0
+
+
+banner_319 0 map_flag_s16 0.300000 0 0 0 0 0
+
+
+banner_320 0 map_flag_s17 0.300000 0 0 0 0 0
+
+
+banner_321 0 map_flag_s18 0.300000 0 0 0 0 0
+
+
+banner_322 0 map_flag_s19 0.300000 0 0 0 0 0
+
+
+banner_323 0 map_flag_s20 0.300000 0 0 0 0 0
+
+
+banner_324 0 map_flag_s21 0.300000 0 0 0 0 0
+
+
+banner_325 0 map_flag_t01 0.300000 0 0 0 0 0
+
+
+banner_326 0 map_flag_t02 0.300000 0 0 0 0 0
+
+
+banner_327 0 map_flag_t03 0.300000 0 0 0 0 0
+
+
+banner_328 0 map_flag_t04 0.300000 0 0 0 0 0
+
+
+banner_329 0 map_flag_t05 0.300000 0 0 0 0 0
+
+
+banner_330 0 map_flag_t06 0.300000 0 0 0 0 0
+
+
+banner_331 0 map_flag_t07 0.300000 0 0 0 0 0
+
+
+banner_332 0 map_flag_t08 0.300000 0 0 0 0 0
+
+
+banner_333 0 map_flag_t09 0.300000 0 0 0 0 0
+
+
+banner_334 0 map_flag_t10 0.300000 0 0 0 0 0
+
+
+banner_335 0 map_flag_t11 0.300000 0 0 0 0 0
+
+
+banner_336 0 map_flag_t12 0.300000 0 0 0 0 0
+
+
+banner_337 0 map_flag_t13 0.300000 0 0 0 0 0
+
+
+banner_338 0 map_flag_t14 0.300000 0 0 0 0 0
+
+
+banner_339 0 map_flag_t15 0.300000 0 0 0 0 0
+
+
+banner_340 0 map_flag_t16 0.300000 0 0 0 0 0
+
+
+banner_341 0 map_flag_t17 0.300000 0 0 0 0 0
+
+
+banner_342 0 map_flag_t18 0.300000 0 0 0 0 0
+
+
+banner_343 0 map_flag_t19 0.300000 0 0 0 0 0
+
+
+banner_344 0 map_flag_t20 0.300000 0 0 0 0 0
+
+
+banner_345 0 map_flag_t21 0.300000 0 0 0 0 0
+
+
+banner_346 0 map_flag_u01 0.300000 0 0 0 0 0
+
+
+banner_347 0 map_flag_u02 0.300000 0 0 0 0 0
+
+
+banner_348 0 map_flag_u03 0.300000 0 0 0 0 0
+
+
+banner_349 0 map_flag_u04 0.300000 0 0 0 0 0
+
+
+banner_350 0 map_flag_u05 0.300000 0 0 0 0 0
+
+
+banner_351 0 map_flag_u06 0.300000 0 0 0 0 0
+
+
+banner_352 0 map_flag_u07 0.300000 0 0 0 0 0
+
+
+banner_353 0 map_flag_u08 0.300000 0 0 0 0 0
+
+
+banner_354 0 map_flag_u09 0.300000 0 0 0 0 0
+
+
+banner_355 0 map_flag_u10 0.300000 0 0 0 0 0
+
+
+banner_356 0 map_flag_u11 0.300000 0 0 0 0 0
+
+
+banner_357 0 map_flag_u12 0.300000 0 0 0 0 0
+
+
+banner_358 0 map_flag_u13 0.300000 0 0 0 0 0
+
+
+banner_359 0 map_flag_u14 0.300000 0 0 0 0 0
+
+
+banner_360 0 map_flag_u15 0.300000 0 0 0 0 0
+
+
+banner_361 0 map_flag_u16 0.300000 0 0 0 0 0
+
+
+banner_362 0 map_flag_u17 0.300000 0 0 0 0 0
+
+
+banner_363 0 map_flag_u18 0.300000 0 0 0 0 0
+
+
+banner_364 0 map_flag_u19 0.300000 0 0 0 0 0
+
+
+banner_365 0 map_flag_u20 0.300000 0 0 0 0 0
+
+
+banner_366 0 map_flag_u21 0.300000 0 0 0 0 0
+
+
+banner_367 0 map_flag_v01 0.300000 0 0 0 0 0
+
+
+banner_368 0 map_flag_v02 0.300000 0 0 0 0 0
+
+
+banner_369 0 map_flag_v03 0.300000 0 0 0 0 0
+
+
+banner_370 0 map_flag_v04 0.300000 0 0 0 0 0
+
+
+banner_371 0 map_flag_v05 0.300000 0 0 0 0 0
+
+
+banner_372 0 map_flag_v06 0.300000 0 0 0 0 0
+
+
+banner_373 0 map_flag_v07 0.300000 0 0 0 0 0
+
+
+banner_374 0 map_flag_v08 0.300000 0 0 0 0 0
+
+
+banner_375 0 map_flag_v09 0.300000 0 0 0 0 0
+
+
+banner_376 0 map_flag_v10 0.300000 0 0 0 0 0
+
+
+banner_377 0 map_flag_v11 0.300000 0 0 0 0 0
+
+
+banner_378 0 map_flag_v12 0.300000 0 0 0 0 0
+
+
+banner_379 0 map_flag_v13 0.300000 0 0 0 0 0
+
+
+banner_380 0 map_flag_v14 0.300000 0 0 0 0 0
+
+
+banner_381 0 map_flag_v15 0.300000 0 0 0 0 0
+
+
+banner_382 0 map_flag_v16 0.300000 0 0 0 0 0
+
+
+banner_383 0 map_flag_v17 0.300000 0 0 0 0 0
+
+
+banner_384 0 map_flag_v18 0.300000 0 0 0 0 0
+
+
+banner_385 0 map_flag_v19 0.300000 0 0 0 0 0
+
+
+banner_386 0 map_flag_v20 0.300000 0 0 0 0 0
+
+
+banner_387 0 map_flag_v21 0.300000 0 0 0 0 0
+
+
+map_flag_kingdom_a 0 map_flag_kingdom_a 0.300000 0 0 0 0 0
+
+
+map_flag_kingdom_b 0 map_flag_kingdom_b 0.300000 0 0 0 0 0
+
+
+map_flag_kingdom_c 0 map_flag_kingdom_c 0.300000 0 0 0 0 0
+
+
+map_flag_kingdom_d 0 map_flag_kingdom_d 0.300000 0 0 0 0 0
+
+
+map_flag_kingdom_e 0 map_flag_kingdom_e 0.300000 0 0 0 0 0
+
+
+map_flag_kingdom_f 0 map_flag_kingdom_f 0.300000 0 0 0 0 0
+
+
+map_flag_kingdom_h 0 map_flag_kingdom_h 0.300000 25 0 0 0 0
+
+
+map_flag_kingdom_j 0 map_flag_kingdom_j 0.300000 25 0 0 0 0
+
+
+map_flag_kingdom_l 0 map_flag_kingdom_l 0.300000 25 0 0 0 0
+
+
+map_flag_kingdom_m 0 map_flag_kingdom_m 0.300000 25 0 0 0 0
+
+
+map_flag_kingdom_n 0 map_flag_kingdom_n 0.300000 25 0 0 0 0
+
+
+map_flag_kingdom_p 0 map_flag_kingdom_p 0.300000 25 0 0 0 0
+
+
+map_flag_kingdom_q 0 map_flag_kingdom_q 0.300000 25 0 0 0 0
+
+
+map_flag_kingdom_r 0 map_flag_kingdom_r 0.300000 25 0 0 0 0
+
+
+map_flag_kingdom_s 0 map_flag_kingdom_s 0.300000 25 0 0 0 0
+
+
+map_flag_kingdom_t 0 map_flag_kingdom_t 0.300000 25 0 0 0 0
+
+
+map_flag_kingdom_u 0 map_flag_kingdom_u 0.300000 25 0 0 0 0
+
+
+map_flag_kingdom_v 0 map_flag_kingdom_v 0.300000 25 0 0 0 0
+
+
+banner_388 0 map_flag_f21 0.300000 0 0 0 0 0
+
+

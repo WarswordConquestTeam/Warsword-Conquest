@@ -1,0 +1,326 @@
+Combat abilities
+
+In the new version of warsword we have introduced combat abilities which will have significant influence on how battles play out and hopefully add a whole new tactical edge on how the player as a commander utilises their troops for maximum success.
+
+Not every troop has a combat ability and some races are more associated with some abilities over others but as a player you will be able to purchase 3 of them from the arena master (price for each varies depending on your race). The ability to purchase abilities for your companions will be introduced in a later release but some companions do already come with their own pre assigned abilities. Regardless of race the player starts off with no abilities.
+
+Combat abilities do not work in tournaments or the arena.
+
+Combat abilities can be toggled on and off in the camp menu
+
+
+Dodge:
+
+This is a skill which gives a troop a chance to dodge any incoming attack. In order to maximise your dodge chance you need to invest in strength and athletics and have as low an encumberance as possible. The best dodge chance it is possible to achieve is 60% although this kind of chance is rare and associated with very experienced troops who wear very light to no armour.
+
+Dodge chances against ranged weapons are reduced depending on the speed of the projectile, however investing in agility can help negate some of this penalty.
+
+Troops which have dodge are all elves, all halfings, all assassin lines in the game, all samurai and monk class troops, ninjas, higher level pirates, vampires, amazons and ghosts/banshees (to simulate their ethereal nature).
+
+
+Ignore pain:
+
+Warhammer quest fans will recognise this skill and it is the ability to shrug off some of the blows you receive simply because you are that tough and don’t have time to bleed. The higher your ironflesh, the more damage will be disregarded when you take a hit.
+
+
+Troops which have ignore pain are higher level orcs, all beastmen apart from ungors, higher level lizardmen, skaven troops from clan moulder and a few other individual troops.
+
+
+Mighty Blow:
+
+This skill gives you the chance to inflict extra damage with your melee weapon. The chance of activating the skill is roughly 1 in 3 although extra damage will vary depending on the roll and power strike rating. Not many troops have this skill and it does not have much effect until you have your power strike rating fairly high due to how strong the skill is.
+
+Troops which have mighty blow are highest level beastmen, chaos, orc and lizardmen, some special troops and a few individual troops such as the dark elf executioner.
+
+
+Those are the 3 skills you can purchase from the arena master.
+
+
+Ward saves:
+
+Ward saves can be purchased from the wizard Cyrus the Bright and they give you a chance of negating all damage completely. There is 6+, 5+ and 4+ ward saves in the mod and you can purchase them incrementally from Cyrus. They are very expensive but well worth the investment.
+
+Troops in the game which have ward saves include many special character lords and a few troops such as ninjas, savage orcs and some bretonnian knights.
+
+
+
+Some non purchasable skills:
+
+
+Unbreakable: Troops with this skill will not break in combat or desert due to low morale. These include all of the undead, saurus, samurai, Bretonnian knights and some dwarves such as slayers.
+
+Regenerate: Some troops will have a chance to regenerate their health either due to their nature such as trolls or mummies or through blessings such as the warrior priest or paladins. Some lords have regeneration through magical items as well. The player cannot purchase this as a skill but more than likely a magic item will be purchasable which will give the regenerate effect when in the inventory.
+
+
+
+New economy and trading
+
+To help the early game in a post freelancer mod gsanders (aka phosphor on modddb) has completely overhauled the way trading and investment works to make the warsword world more lucrative and to make the merchant class a more viable build. Towns are now set to specialise in certain goods with a realistic supply and demand system and trade routes have been set to try and keep the world economy going as the carnage continues.
+
+Caravans often don’t reach their destination in warsword and to help solve this gsanders has introduced “royal traders” which are sea traders and port by coastal towns. They currently do not travel the seas and teleport to their destination (this may change later) but this helps make sure that certain port towns get their supplies and don’t become impoverished because the caravans cannot make the long journey there.
+
+
+
+Revamped tournaments
+
+Tournaments have changed a lot this time around in warsword. We have introduced mounts into tournaments now and each faction (bar pirates and dwarves) have their own personal choice of mount for combatants and every faction has their own set of tournament weapons and loadout chances so that the tournament experience differs from faction to faction.
+
+The changes have meant that tournaments are more winnable at an earlier stage in the game although they are still tough.
+
+Some towns have the benefit of being custom made by Jargon Darot or Captain Melon and these towns also have custom arenas which vary in size and design. The chaos and orc arenas for example are very compact and the enemy will be on you in seconds making for very frantic and fast paced rounds.
+
+
+Kingdom patrols
+
+All factions have patrols now instead of just some and they vary in size from the larger patrols of 50 – 60 to smaller scouting parties of about 12 – 20. These patrols are automatically generated and the amount generated depends on the amount of castles and towns owned by the faction.
+
+The player will also benefit from these patrols and as you expand your kingdom they will start to patrol your lands and help defend you from your determined enemies.
+
+
+
+Empire:
+
+Completely new models from Furok and the Grim age team. There is a new rifle troop after the sharpshooter, the ever dependable Ferlangen Fireloque which is a vital new tool in the war against Chaos. The new armours have led to an increase in the armour value of mid level troops and the warrior priests get a ward save and a chance to heal from Sigmar’s blessing making them without a doubt one of the best troops in the mod.
+
+Explore some new towns as well.
+
+
+Dwarves:
+
+Those who have played before know the power of the dwarves and it will be no surprise that they have been nerfed although they are still a top tier faction without a doubt. The Slayers have a reducution in armour but they get ignore pain, mighty blow and unbreakable. Many other troops in the army have the unbreakable skill as well so you will not see many dwarves fleeing the battlefield. A master thunderer has been added which has an exceptional shot.
+
+In terms of the nerfs the 8 barrel rifle is gone and is now a special weapon you can buy from the wizards. The tunnel fighter has been demoted and given a pistol and pickaxe. The ironbreakers have had their 2 handed axe removed and they now only spawn with a one handed weapon and a shield.
+
+Some new armours and firearms are now included for the dwarf faction.
+
+New scenes included.
+
+High Elves:
+
+All elves get dodge so they will instantly benefit from this but High Elves generally wear a good amount of armour so the average dodge chance within the faction is quite low. There is a new high tier troop called the dragon guard which is an excellent new defensive troop for the armies of Ulthuan. Phoenix guards also get a ward save.
+
+There are many new armours and new scenes for the high elves as well.
+
+
+Chaos:
+
+All new models from Furok and the Grim age team. High tier chaos troops come with the mighty blow skill and there are new nurgle troops on the tree including the nurgle crusher which is often a decisive troop on the battlefield. The amount of cavalry has been reduced and there are new infantry troops with higher armour ratings in the lower levels of the tree. Armies of demons now patrol the chaos lands and support the mighty horde in battle.
+
+Chaos have some new scenes to explore as well.
+
+
+Pirates
+
+All the same but the higher level pirates such as the swashbuckler and the duellist have dodge.
+
+Tomb Kings:
+
+They have many new weapons which increase the offensive effectiveness of their troops. The new Liche Priest and High Liche Priest throw balls of black death which weaken and kill all those who get caught up in the darkness. A new crossbow troop has also been added at the end of the ranged line. They are now a trickier foe than they were previously. Mummies have a regeneration chance. All undead is unbreakable.
+
+Khemri has been turned into an original scene by Jargon Darot.
+
+Lizardmen:
+
+Lizardmen Saurus have new models but in terms of the troops nothing has changed apart from a swap in position on the tree for some troops. The removal of the mercenary bandits means that lizardman lords are not caught in an attrition battle in their own lands and with new neighbours as well you will now see some real campaigns if you want to play as them. Saurus troops are unbreakable.
+
+More new scenes have been added for the lizardmen.
+
+
+Night Goblins:
+
+The night goblins have been moved from bandits and mercenaries and are now represent the main goblin faction on the map. They have new models, armours and new tree of diverse troops including squig, wolf and spider cavalry. They have great shock troops that can be extremely effective under a good commander and their trolls have been given the chance to regenerate in battle.
+
+New goblin scenes to discover as well, including a large and exciting tournament arena.
+
+Araby:
+
+Araby have lots of new armours and weapons which give some of their lower tier troops a nice armour boost. Assassin, hashassins and the corsair troops get dodge which makes them tricky opposition and they have a new shock troop, the Naffatun, which throws deadly nath grenades at the enemy lines to cause chaos before the main infantry hits.
+
+Orc:
+
+Orcs have new armours, new weapons and some new troops which make the orc infantry a match for anyone in the mod. The black orc and berserker line get the ignore pain skill and the black orc boss gets mighty blow as well. There are more 2 handed weapons in the orc tree now and the savage orcs have been moved from the main tree into their own separate tree and are now mercenaries and patrol the orc lands supporting the main armies. Savage orcs get a ward save from their magical tattoos. Orc trolls have a regeneration chance.
+
+Bretonnia:
+
+Bretonnian knights are now unbreakable, have a ward save and the paladin (who is now mounted) and grail knight get a regeneration chance from the blessing of the lady. The battle pilgrim now upgrades into the pilgrim knight who fights with the infantry to replace the paladin who used to be on foot.
+
+Dark Elves:
+
+There are new armours for the dark elves and a few new weapons as well. They all have dodge but like the high elves most of the troops wear too much armour so their dodge chance is low. The shades, bloodshades and assassins however have an excellent dodge chance and are a very daunting prospect for any opposition commander (they go down very easily when hit). The power of the repeater crossbow has been diminished but they get an extra repeater troop in a higher tier.
+
+Dark elves have some new scenes to explore.
+
+Skaven:
+
+Skaven have had a significant power increase for this update. Clan moulder troops get ignore pain which increases their survivability and poison wind globadiers have gone from being useless to throwing aoe poison globes which cause significant damage to those who get caught up in the toxic green smoke. Clan eshin also get dodge and with it some of the highest dodge chances in the mod. They go down in one hit but with their throwing stars and potent weapons they are bound to cause damage before they go down. Before when fighting skaven it was a case of defeating clan Skyre and then everything else is a foregone conclusion, not any more.
+
+Skaven Jezzails jump up a couple of tiers so they are now a high level troop and some new Skyre gunner troops have been put in.
+
+
+The new factions
+
+Kislev:
+
+Kislev are a combination of lightning fast lance cavalry and hard hitting infantry, supported by lots of archers and one rifle unit. Their finest weapons are the bear cavalry, the best of which are the sons of Ursun which ride heavily armoured bears and have incredible staying power.
+
+They don’t quite have the versatility and the tools that the Empire has but if you like the commander side of mount and blade they are an excellent choice as the Kislevite war against chaos is a challenging but rewarding one.
+
+
+Beastmen:
+
+The mighty beastmen are here and they have completely destroyed Estalia and have claimed the lands for themselves. Their armies consist of two types of troop, ungors and gors. Ungors are relatively weak and make up the lower level and archer troops. The gors are larger and tougher and they all have ignore pain which means the majority of the beastmen army has the ability to shrug off some of the damage done to them.
+
+Beastmen cavalry consists of tuskgor riders and the highest tier troop rides the mighty razorgor. Both of these mounts are incredibly powerful and bully all the infantry they plow through; only the kislev bears, triceratops and white lions can match their sheer brutality.
+
+The beastmen infantry is some the best in the mod. A blood curdling mix of 2 handed axes and hard hitting maces and swords. The beastmen are one of the last factions you want your armies to be in a big scrum with.
+
+
+All new scenes to discover as well.
+
+
+
+
+
+Nippon:
+
+Nippon make a welcome return from the preview and have a whole new armour and weapon set courtesy of Phlpp and the Gekokujo team. They are positioned north of the lizardmen and bring some much needed conflict to that area.
+
+Their armies suffer from the fact they have no shields but their troops are full of 2 handed weapons and are highly skilled and fast when using them. Their lower ranks are ashigaru and gunso troops and the mid to high tiers are all samurai class. The samurai class troops have dodge and unbreakable and as well as excelling with melee weapons they are also some of the best archers in the mod.
+
+They are also supported by a firearm troop as well although it is not as reliable as the ones in other factions.
+
+The scenes from Gekokujo have not been added at this point but we hope to do so in the future.
+
+
+Vampire Counts:
+
+This very popular faction was put in to balance the wars in the north and you will see a great mix of undead creatures on the troop tree. Zombies, ghouls, skeletons, ghosts, wraiths and wights are all present. Ghosts and banshees have dodge to simulate their ethereal presence.
+
+
+The army itself is very well balanced with very competent lines of cavalry, infantry and crossbow troops. The vampire troops in the faction are quite rare but very powerful and their special troop the blood knight is one of the best, if not the best troop in the game. All vampires have dodge and all undead are unbreakable.
+
+There is a new scene to discover as well.
+
+
+Wood elves:
+
+The wood elves have returned and now populate the forest of loren like they did in the very first warsword. They are lighter armoured than the other elf factions and have a better dodge chance (apart from a few troops) and their higher level troops (wild hunter, wild rider, wardancer and blade singer) all have no armour at all but have the best dodge chance in the mod and a ward save to balance their survivability.
+
+Their archers are the best in the mod and their cavalry some of the fastest in the game. They rely on dodge a bit more than any other faction which makes them a bit susceptible to ranged attacks but they can hold their own and have strengths of their own they can utilise. Turning off combat skills will completely destroy their chances of being competitive on the battlefield.
+
+Generic companions
+
+One feedback we have had from players for a long time is that if they are a non human race, especially an evil aligned non human race, it is hard to make a lore friendly companion set that has lots of companions in it.
+
+We have aimed to solve this by adding 80+ generic companions (5 of each race) who all cost 100 gold, are level 1 and will start with 1 point in 2 skills and the rest will be at 0. They have no likes or dislikes, no interactions with other companions and they cannot be used for the right to rule or gaining intel quests.
+
+
+Retinue troops
+
+A small number of lords (usually the leader and VIP well known character lords) in each faction will gain a number of retinue troops in their armies over time. These troops are a second special troop and are very powerful. For those factions who do not have a unique retinue troop they will get an increase in the amount of normal special troops. There is no way for the player to obtain these troops other than rescuing them as prisoners.
+
+Pest lords
+
+Another piece of key feedback we have had about the past version is that virtually defeated factions have lords on their own going around being really annoying and just pop up again if you defeat them. I have added some code in which should stop this from happening. Now if a faction has no towns or castles when they are due to respawn they will be removed from the game. If at any point that faction retakes any castles or towns then all of the removed lords will reappear together. If the remaining lords are unable to retake a location before they all fall in battle then the faction will be defeated.
+
+Due to the nature of the change and some hardware issues restricting testing this code has not been fully tested but any feedback saying it is not working as intended will be looked into asap.
+
+
+
+
+Party composition and morale
+
+Gsanders has done a lot of work on racial prejudice and the effect it can have on your army morale. Now if you mix races and factions who have a natural tendency to dislike each other then morale will start to drop quickly. Prisoners will also be less likely to join you unless your party meets their expectations.
+
+Ship battles:
+
+Thanks to the Brytenwalda team we have improved ship battles in the mod which work in the same way as they do in Brytenwalda but with a different ship. There are some issues where the ships fall apart on a high impact but gsanders has added a buoyancy code in so that those troops who are not too weighed down are able to float and survive. It is recommended that you approach and board as slowly as possible to avoid the collapse. This is a feature we will look to improve in future releases.
+
+
+The wizards:
+
+The wizards are still in the mod and Cyrus has the added ability to sell ward saves to the player. Previously the wizards would sell to anyone who is over level 20 but this has been increased to level 30 due to the power of their goods.
+
+However the medal system has been scrapped. You still get medals for winning tournaments but now they are just for selling. The other requirement to buy from the wizards is to win 10 tournaments and once this is done you will get permanent access to them rather than just the one time. You only need to do one of those two things to get access (level 30 or 10 tournaments), not both.
+
+
+Now there are 48 towns the wizards are very hard to find and you may go through an entire play through and only find them a few times. This is intended, just save up some money for when you do find them.
+
+
+Some other notable changes:
+
+New human face textures male and female
+
+Spouse as companion
+
+Some dialogue made more lore friendly
+
+Battle mini map (toggleable)
+
+Troop trees viewable in reports
+
+Parties get ship icon over water
+
+New special weapons and armour
+
+
+
+
+
+
+
+Some questions that may be worth answering now
+
+Why did this update take 2 years to make?
+
+We don’t work constantly, since Del and I started in 2010 we have always produced content in bursts. Despite taking 2 years to get this version out it has probably only been actively worked on by myself for a year and Del even less, most of it in the last year when we have been lucky to get some new talented team members/contributors.
+
+Does this mean that the next update will not be for a long time?
+
+I intend to start new features quite soon after release and I will be around to help look into and fix any issues which arise from this release as soon as is needed. Gsanders is already working on a lot of new features which need to be tested and intergrated so I imagine we will be back to back to work relatively quickly.
+
+
+Why is Sylvania compressed to such a small area of the map?
+
+Their land is only a small area on the real map but it is also done for its own protection. It is surrounded by the Empire with no allies nearby and although they do not start at war with the Dwarves if and when it happens they are completely locked in. Factions confined to a small area are generally very hard to conquer and tend to be the aggressors which is what we want for them.
+
+
+Is the start harder without freelancer?
+
+Probably but with the improved economy you can make good money trading and the new tournaments allow lower levelled players to be more competitive than they were in the past version. There are more low level bandits around as well as small forager and scouting parties for each faction you can choose to fight.
+
+The key is picking your battles. Choosing the right battles you can get your low level party trained up to decent levels in no time but similarly pick the wrong one and you will lose it all. Once you learn where the danger is it will get easier, warsword was always meant to be on the tricky side.
+
+Don’t underestimate the usefulness of mercenaries in the early game. Even 2 or 3 can make a big difference.
+
+The power levels of different troops and armies will need to be relearnt if you are accustomed to the current warsword version. Top tier troops are even more powerful compared to what they are now and even a few more than average in an army can have a big outcome on the result of the battle. What I have noticed in testing is you really need to look at what troops are in your potential opponents army (or both sides if you are joining a battle in progress) before you decide whether to go ahead.
+
+One reason for this is because there are so many kingdom parties lots more prisoners are changing hands and army makeups can vary a lot over time even if the numbers are quite similar so always keep an eye on what you are fighting before you charge in if your army isn't top tier.
+
+
+Can you recruit Dryads and other woodland spirits?
+
+Not currently but next on our modelling list are dryads and treemen. Treemen will be the new wood elf special troop and dryads will be mercenaries in wood elf towns and also part of the wood elf patrols.
+
+
+If the player doesnt get to use their special abilities in the tournament(ward saves, mighty blow, etc) does that mean the npcs dont get to use them either?
+
+That is right. Tournaments would be close to impossible if combat skills are on. Prince Tyrion, for example, has dodge, 4+ ward save and regenerate, there is just no way to beat that with the weapons at your disposal in the arena, especially as he one of the best fighters in the game offensively as well. So combat skills are turned off for everyone in tournaments.
+
+
+Any way to guarantee recruitment of Braganza's Besiegers and other Dogs of War companies? Going for a DoW themed army
+
+The more popular dogs of war can be found in all human faction taverns apart from Nippon who have their own seperate mercenary set.
+
+
+Am I still going to find chaos based npcs in tarvens in places where they wouldn't be?
+
+We have added a script aiming ot put companions in lore friendly taverns. It brings up some odd results every now and again but overall it mostly keeps them in preferable towns.
+
+
+Is diplomacy in this version?
+
+No. We plan to add diplomacy to the next version but as there is so much of diplomacy which needs to be tweaked, removed and altered to fit warsword we have decided to leave it until we have more time.
+
+
+

@@ -1,0 +1,286 @@
+Warsword Conquest Winds of Magic Beta
+
+
+A very BIG thank you to Games Workshop for making such a great Fantasy setting.
+Warhammer online and Mark of Chaos PC games for model ideas etc and hours of fun playing time.
+Warhammer Fantasy Battle Reporter Forum for all the great Warhammer Army Books (fan made & unofficial).
+
+
+Credit:s
+
+This is an honest and faithful attempt to list down all those who works have helped make warsword what it is over the last 8 years. If you notice that anyone that we have forgotten please contact a team member immediately. Thank you to everyone who has contributed.
+
+Current Warsword Conquest Team
+
+Mod Leader and coder: Nameless Warrior
+Coder: Gsanders
+Modeller: Kraggrim
+Models and effects: Burspa
+Models and optimisation: Marshal_157
+
+Community manager: Polloio
+
+
+Credit for latest release: 
+
+Kraggrim for a wealth of quality models including chaos (both original and ammendments of the Grim age models), chaos dwarf, beastmen, trolls, ogres, hobgoblins, chaos scenes, main menu image and many more throughout the mod. Without his time and dedication this release would not have been possible.
+
+Burspa (Paul Burston) for making the multitude of special effects for the magic system as well as some models. 
+
+Marshal_157 for making some models and for his tireless pursuit of of optimisation to make the in battle framerates and loading times much faster than before, especially in heavy scenes.
+
+Gsanders for the major undertaking of the diplomacy merge and for many other coding tricks and treats he has built up over the years. Much appreciation for his work on the world map frame rate too.
+
+Polloio for his dedication as community manager on modddb and taleworlds and for contributing quality new character creation blurbs as well as the new chaos dwarf voices.
+
+
+
+swyter for font maker
+vrynn and gathering storm for a couple of particle effects
+
+
+Scherbyna for particle effect (fire shot if used)
+
+http://forums.taleworlds.com/index.php?topic=299919.msg7404074#msg7404074
+
+
+cmpxchg8b, AgentSmith and K700 for warband script extender
+El Gauncho for fire arrows
+Weren for red sabre
+superfunnysheet for demon sound
+procrastination pictures for demon choir
+Steve c for buffalo sound effects
+freesfx.co.uk for free sounds use http://www.freesfx.co.uk url 
+Mathias Eliasson for army books
+Thanks to sound effects public domain channel
+reenactor for musket sounds
+gutekfiutek for polished landscapes
+James flying missiles
+Jacobhinds for new musket effects
+DtheHun for daemonette base
+suguroku team for nippon horses
+maldorndk- chaos dwarf banners
+iboltax improved faces
+vasili s for scenery base
+jbvw for potion icons
+
+
+
+
+Contributors and all those who have worked with me on Warsword or Warsword Conquest in the past or helped us out.
+
+
+Freelance Modellers: Dankmar and Articcactus
+You1
+TheMageLord
+Jargondarot
+Kazzan
+Captain Melon
+Gorgutz
+Praylak
+Brutun
+Draegor Redfields
+Emperor Milton
+Berserker Pride
+grailknighthero
+Jubal
+QuailLover
+Nema
+Crossbow Joe
+chimera_t
+joebow
+Travis
+spak
+Horla
+Count of Flanders
+Birger Jarl
+Captain Freakout
+Dorfus145
+
+
+Credits for previous releases:
+
+Featuring Music by nox arcana
+
+Phlpp for his excellent Gekokujo models to make the new Nippon faction and to improve human faces in warsword. Further credits from the Gekokujo models:
+
+Bogmir's Samurai Weapons OSP (two bows, two arrow quivers, and two yari spears)
+http://forums.taleworlds.com/index.php/topic,210160.0.html
+Iboltax's Improved Male Faces OSP
+http://forums.taleworlds.com/index.php/topic,163242.msg3948767.html
+Runico's Katanas (ironically enough, for the "chinese" weapons)
+http://www.mbrepository.com/file.php?id=2228
+
+Furok and the Grim age team for the incredibly detailed Chaos and Empire armours.
+To the Brytenwalda team with special thanks to Adorno and Phaiak for the sea battles scripting and models.
+To the Sundering team (total war) for allowing us to port their models and textures across to warsword. All models and textures in warsword which are from the sundering mod remain the property of the Sundering team.
+Also credited by the Sundering team for their models:
+Electronic Arts, Mythic Entretainment and BioWare for some stuff from Warhammer Online used on this mod.
+Black Hole Games for some stuff from Mark of Chaos used on this mod.
+Credit to Theddd1 for the many hours he spent porting and tweaking the Sundering armours and also to del for further tweaks changes.
+Crusader Way to Epiation team OSP for the new Araby models 
+b@rtu$ for The Deluge mod use for the kislev faction
+  Dodge concept coding:  Xenoargh, then extended by GSanders and Nameless Warrior
+
+  list management system OSP:  List manager Lumos, The_dragon
+     https://forums.taleworlds.com/index.php/topic,341079.0.html  
+
+  Sea Traders        - Duh & Caba'Drin   then extended by GSanders
+     https://forums.taleworlds.com/index.php/topic,163671.0.html    
+
+  Mordechai: prisoner talk OSP  
+     http://forums.taleworlds.com/index.php/topic,8652.msg5059330.html#msg5059330
+
+  Female Faces OSP   - Corprus
+  Women's armors     - Corprus
+
+  Grenades OSP       - Beaver, then changed by ScreamingCommie  and Duskvoyager
+     http://forums.taleworlds.com/index.php/topic,331756.0.html
+
+  Battle Mini-map OSP: Rubik
+
+  Dunde -Dynamic Troop Trees OSP
+    https://forums.taleworlds.com/index.php/topic,213497.0.html
+
+  Economy changes         GSanders
+  Trade routes remade     GSanders
+  enhanced water to land icon flip: GSanders
+  fast racial prejudice   GSanders
+  remade kingdom parties  GSanders
+  
+  Encumbrance check    Windyplains, modified from Silverstag
+    memory slots assistance: Windyplains   slots.xls in Silverstag
+
+  Wife as a companion OSP: Lathrael
+    https://forums.taleworlds.com/index.php/topic,171729.0.html
+
+  PBOD Caba'drin 
+    https://forums.taleworlds.com/index.php/topic,141283.0.html
+
+  W.R.E.C.K. by Lav, 
+    http://forums.taleworlds.com/index.php/topic,325102.0.html
+pegasus armory konrad
+LOTR Docm30
+Elven weaponry Addonay
+weapons of darkness dimastrick
+TESIV weapons Credit to various:
+http://www.nexusmods.com/mountandblade/mods/2001/?tab=1&navtag=http%3A%2F%2Fwww.nexusmods.com%2Fmountandblade%2Fajax%2Fmoddescription%2F%3Fid%3D2001%26preview%3D&pUp=1
+rubik for the troop tree presentation
+Alex_NG for thePermanent Camps
+Biiger Jarl for some texture changes
+Polloio and Captain Freakout for character creation blurbs
+
+James Dillon scene contributions: 
+
+All Dwarven castles and towns interiors and exteriors. Bugmans Brewery village. 
+All Chaos castles and towns interiors and exteriors. Selected villages. 
+All Skaven castles and towns interiors and exteriors. All villages.
+All High Elf castles and towns interiors and exteriors (except Tower of Hoeth). All unique villages.
+All Wood Elf castles and towns interiors and exteriors.
+All Goblin castles and towns interiors and exteriors.
+All Beastmen castles and towns interiors and exteriors.
+All Lizardmen castles. All Lizardmen castle and town interiors.  
+Empire castles and towns: Marienburg, Middenheim, Talabheim, Altdorf, Nuln, Castle Reikgard, Wolfenburg, Castle Berbres. Altdorf castle interior. 
+Orc castles and towns: Iron Rock, Karak Eight Peaks, Da Mighty Fist, Grom Peak town interior,   
+Dark elf castles and towns: Clar Karond, Naggarond, Dark Elf castle interiors, Dark elf town taverns.
+Other castles and towns: Khemri, Lashiek, Pirate King Fortress, Mousillon, Castle Drakanehof, Drakenhof town interior and exterior.
+Captain Melon Scene contributions
+Tower of Hoeth, Black Fortress, Boar Fangz, an orc village and some contributions to Iron Rock and the Dark Elf scenes.
+
+Gsanders:
+Ship icon over water
+New economy/enterprises (an enormous amount of work went into this)
+Gender dialogues
+Sea traders
+Drowning code and enhanced dodging
+Optimised code for mod performance
+Optimised list system
+Racial prejudice system which effects prisoner recruit and party morale
+implemented mini map
+Increased cheat mode reports
+Implemented troop tree viewer
+Increased kingdom parties
+and many more vital under the hood changes to many areas of coding.
+
+
+Faces by Corpus
+Fantasy OSP by Kirill
+
+If I have forgotten anyone please contact asap
+
+
+
+---------------------------
+
+Credits for past updates:
+Thank you to all of the modders of Taleworlds and mount & blade for models, osp packs and coding etc,
+Big thanks to the TLD team for making their mod OSP it has been very helpful to us.
+Caba'drin Pre-Battle Orders & Deployment
+Motomataru Formation coding
+Ruthven, Caba'drin and Duh for Sea Battles
+Trade Goods Mod by Lav
+Freelancer Mod by taragoth, Caba'drin, Duh, Sunhawken, Monnikje, Sayd Ûthman and Swordyke
+MadVader, Caba'drin and kt0 for after death cam and battle continues
+Delzaros for UI Pack
+Veleran for troll
+Bloc for Northerner Horses
+TES4-OSP-Weapons by Nexxon
+items and armour from Age of False Innocence by Shredzorz
+Wheene and Nema for original base orc models from the daydream mod.
+Nema and team for daydream weapons pack
+Highlander for boar mount
+Barfs Skeletons and Skeleton mount
+Spak OSP_Items pack and rigging some models for us.
+surrealarms
+zombies heads,Ogre body,skull masks,skin shields by -IYI-O-R-T-
+lots of banners from Requests for custom banners and The Hall of Heraldry topics thanks all of the banner makers there.
+Narf's Plate Armour Pack
+Narf's_transitional_armour_pack
+Narf's Men at arms pack
+Flintlock Firearms OSP by Llew
+CounterPoint391 for the shurikens and Coloured Lances
+Faradons item pack
+All from the communityhelms team.
+Runico for special weapons models etc
+Lui for Swords osp
+Ficus's Roman Pack osp
+some coding for hand cannon, camel and textures etc from Blood_and_Steel by xenoargh
+Some orc banner art by Sumicus
+Sib_Helms
+Sonyer's item pack thanks to Sonyer, Narf , rgcotl , sumskilz , Sarrie
+Njunja osp pack
+Goat from Brytenwalda mod
+dog model from 3dmodelfree.com
+mackie_weapons_OSP
+Count of Flanders added credits
+CD Projekt's and LordOfWar for empire helmets
+Jan Tuma´s Sturmhaube helmets
+Mr. Dave empire hats
+Horla added credits
+- Emanuel Palalic for his Tomb Kings props
+- Arsakes for his High Elves props
+- ThaneWulfgharn for his Empire buildings and Dark Elves buildings meshes
+- AlMansur for his french buildings for the Empire and some medieval props
+- 15th_century_weapons by Shredzorz
+- ado's fantasy_scene_props
+- the TLD team for their props, amazing coding and inspiration
+- the 16th Century mod team for their Aztec props and scenes
+- Galloper on the TWC forums for his ready-to-use pack of voices from Mark of Chaos
+- James Dillon for his incredible work on the Skaven scenes, Mousillon and some others
+- Gorgutz for his dedicated work on the Orc scenes
+- Kazzan for his Empire scenes and Orc camp
+
+Our thread for this mod with more info can be found here
+Forums.taleworlds.com
+Warsword Disclaimer
+This mod is completely unofficial and in no way endorsed by Games Workshop Limited.The Chaos devices, the Chaos logo, Citadel, Citadel Device, the Double-Headed/Imperial Eagle device, 'Eavy Metal, Forge World, Games Workshop, Games Workshop logo, Golden Demon, Great Unclean One, the Hammer of Sigmar logo, Horned Rat logo, Keeper of Secrets, Khemri, Khorne, Lord of Change, Nurgle, Skaven, the Skaven symbol devices, Slaanesh, Tomb Kings, Trio of Warriors, Twin Tailed Comet Logo, Tzeentch, Warhammer, Warhammer Online, Warhammer World logo, White Dwarf, the White Dwarf logo, and all associated marks, names, races, race insignia, characters, vehicles, locations, units, illustrations and images from the Warhammer world are either ®, TM and/or © Copyright Games Workshop Ltd 2000-2010, variably registered in the UK and other countries around the world. Used without permission. No challenge to their status intended. All Rights Reserved to their respective owners.
+Sub mods
+
+Sub mod rules
+You must contact Nameless Warrior for permission to release a sub mod and send a list of the changes you have made in your sub mod.
+All of the Warsword Conquest resources including models, textures, scenes and anything else the team has made for the mod can only be used for a sub mod of Warsword Conquest unless express permission is given.
+You must have a link to Warsword conquest on your opening page and state that it is a sub mod for Warsword conquest.
+Please do not ask for the module system as we will not be releasing it.
+Remember to always give appropriate credit to all those who made Warsword Conquest and any OSP we have used as well as any OSP you have added yourself.
+Any models or changes made in a sub mod can be put into the main Warsword Conquest mod by us, we will contact you and give you credit of course.
+Please note: We are unable to help with the creation of sub mods as we have limited time to mod ourselves. 

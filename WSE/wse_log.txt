@@ -1,0 +1,4 @@
+[22:04:57] WSE v4.4.3 by cmpxchg8b, K700 (Build date: Mar 22 2017 19:55:56)
+[22:04:57] WSE path: D:\Games\Mount&Blade Warband\Modules\Warsword Conquest Current Diplomacy\WSE\
+[22:04:57] WSE netcode version: 8
+[22:04:57] Warband version: vanilla
