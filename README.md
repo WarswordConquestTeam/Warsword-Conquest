@@ -1,4 +1,4 @@
-# Warsword-Conquest
+# Warsword Conquest
 
 * [Warsword Conquest](https://github.com/WarswordConquestTeam/Warsword-Conquest/wiki)
 * [How to Install the mod](https://github.com/WarswordConquestTeam/Warsword-Conquest/wiki/How-to-install-the-mod)
