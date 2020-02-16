@@ -1,0 +1,84 @@
+skl_trade|交 易 
+skl_trade_desc|每 點 技 能 減 少 5%%的 交 易 損 失。（隊 伍 技 能）
+skl_leadership|統 御 
+skl_leadership_desc|每 點 增 加 部 隊 命 令 上 限 5人， 提 高 部 隊 士 氣， 減 少 部 隊 開 銷 和 工 資 5%%。（領 袖 技 能）
+skl_prisoner_management|俘 虜 管 理 
+skl_prisoner_management_desc|每 點 增 加 俘 虜 上 限 %d。（領 袖 技 能）
+skl_reserved_1|Reserved Skill 1
+skl_reserved_1_desc|This is a reserved skill.
+skl_reserved_2|Reserved Skill 2
+skl_reserved_2_desc|This is a reserved skill.
+skl_reserved_3|Reserved Skill 3
+skl_reserved_3_desc|This is a reserved skill.
+skl_reserved_4|Reserved Skill 4
+skl_reserved_4_desc|This is a reserved skill.
+skl_persuasion|說 服 力 
+skl_persuasion_desc|此 技 能 幫 助 你， 使 你 的 觀 點 更 容 易 讓 人 接 受。 同 時 還 能 降 低 讓 NPC 按 照 你 所 說 的 去 做 所 需 的 最 低 關 系 值。 （個 人 技 能）
+skl_engineer|工 程 學 
+skl_engineer_desc|此 技 能 使 你 更 有 效 地 建 造 攻 城 器 械 和 加 快 封 地 建 設。（隊 伍 技 能）
+skl_first_aid|急 救 
+skl_first_aid_desc|每 點 返 還 給 英 雄 們 5%%在 上 次 戰 斗 中 損 失 的 生 命 值。（隊 伍 技 能）
+skl_surgery|手 術 
+skl_surgery_desc|每 點 增 加 4%%的 機 會， 使 得 本 來 會 死 亡 的 隊 伍 成 員 保 住 性 命。（隊 伍 技 能）
+skl_wound_treatment|療 傷 
+skl_wound_treatment_desc|每 點 增 加 隊 伍 生 命 值 回 復 速 度 20%%。（隊 伍 技 能）
+skl_inventory_management|物 品 管 理 
+skl_inventory_management_desc|每 點 增 加 物 品 欄 容 量 6格。（領 袖 技 能）
+skl_spotting|偵 察 
+skl_spotting_desc|每 點 增 加 隊 伍 偵 察 范 圍 10%%。（隊 伍 技 能）
+skl_pathfinding|向 導 
+skl_pathfinding_desc|每 點 增 加 隊 伍 地 圖 移 動 速 度 3%%。（隊 伍 技 能）
+skl_tactics|戰 術 
+skl_tactics_desc|每 2點 增 加 1點 戰 斗 優 勢。（敵 我 上 場 人 數）（隊 伍 技 能）
+skl_tracking|跟 蹤 
+skl_tracking_desc|從 腳 印 和 其 它 印 跡 中 發 現 更 多 信 息。（隊 伍 技 能）
+skl_trainer|教 練 
+skl_trainer_desc|每 天 每 位 有 該 項 技 能 的 英 雄 會 增 加 經 驗 值 給 其 它 級 別 較 低 的 隊 伍 成 員。 傳 授 的 經 驗 值 依 次 為： {0, 4, 10, 16, 23, 30, 38, 46, 55, 65, 80}。（個 人 技 能）
+skl_reserved_5|Reserved Skill 5
+skl_reserved_5_desc|This is a reserved skill.
+skl_reserved_6|Reserved Skill 6
+skl_reserved_6_desc|This is a reserved skill.
+skl_reserved_7|Reserved Skill 7
+skl_reserved_7_desc|This is a reserved skill.
+skl_reserved_8|Reserved Skill 8
+skl_reserved_8_desc|This is a reserved skill.
+skl_looting|掠 奪 
+skl_looting_desc|每 點 提 高 獲 得 戰 利 品 的 數 量 10%%。（隊 伍 技 能）
+skl_horse_archery|騎 射 
+skl_horse_archery_desc|減 少 在 馬 背 上 射 箭 與 投 擲 的 精 度 和 傷 害 損 失。（個 人 技 能）
+skl_riding|騎 術 
+skl_riding_desc|可 以 騎 更 好 的 馬， 提 高 騎 行 速 度 和 操 縱。（個 人 技 能）
+skl_athletics|跑 動 
+skl_athletics_desc|提 高 跑 動 速 度。（個 人 技 能）
+skl_shield|盾 防 
+skl_shield_desc|減 少 盾 的 損 壞 程 度（每 點 減 少 8%%） 和 提 高 盾 的 格 擋 速 度， 以 及 覆 蓋 范 圍。（個 人 技 能）
+skl_weapon_master|武 器 掌 握 
+skl_weapon_master_desc|讓 武 器 熟 練 度 提 升 的 更 快 並 且 提 高 武 器 熟 練 度 的 上 限。 上 限 依 次 為： 60, 100, 140, 180, 220, 260, 300, 340, 380, 420。（個 人 技 能）
+skl_reserved_9|Reserved Skill 9
+skl_reserved_9_desc|This is a reserved skill.
+skl_reserved_10|Reserved Skill 10
+skl_reserved_10_desc|This is a reserved skill.
+skl_reserved_11|Reserved Skill 11
+skl_reserved_11_desc|This is a reserved skill.
+skl_reserved_12|Reserved Skill 12
+skl_reserved_12_desc|This is a reserved skill.
+skl_reserved_13|Reserved Skill 13
+skl_reserved_13_desc|This is a reserved skill.
+skl_power_draw|強 弓 
+skl_power_draw_desc|角 色 可 以 使 用 更 強 力 的 弓。 每 點 增 加 弓 箭 傷 害 14%%， 最 高 有 效 等 級 不 超 過 弓 的 等 級 加 四。（個 人 技 能）
+skl_power_throw|強 擲 
+skl_power_throw_desc|每 點 增 加 10%%的 投 擲 傷 害。（個 人 技 能）
+skl_power_strike|強 擊 
+skl_power_strike_desc|每 點 增 加 8%%的 格 斗 傷 害。（個 人 技 能）
+skl_ironflesh|鐵 骨 
+skl_ironflesh_desc|每 點 增 加 2點 生 命 值。（個 人 技 能）
+skl_reserved_14|Reserved Skill 14
+skl_reserved_14_desc|This is a reserved skill.
+skl_reserved_15|Reserved Skill 15
+skl_reserved_15_desc|This is a reserved skill.
+skl_reserved_16|Reserved Skill 16
+skl_reserved_16_desc|This is a reserved skill.
+skl_reserved_17|Reserved Skill 17
+skl_reserved_17_desc|This is a reserved skill.
+skl_reserved_18|Reserved Skill 18
+skl_reserved_18_desc|This is a reserved skill.

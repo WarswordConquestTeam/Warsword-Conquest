@@ -1,0 +1,926 @@
+<!DOCTYPE html>
+<head>
+	<style>
+		body{
+			font-size: 14px;
+			font-family: Helvetica, Arial, sans-serif;
+		}
+
+		.example
+		{		
+			margin-left: 60px;
+			padding-left: 10px;
+			padding-right: 10px;
+			display: inline-block;
+			line-height: 2.3em;
+			white-space: nowrap;
+			overflow: auto;
+		}
+
+		.example2
+		{
+			margin-left: 0;
+			line-height: 1.5em;
+			margin-top: 10px;
+		}
+
+		.keyword
+		{
+			padding: 3px;
+		}
+
+		.content_block
+		{
+			margin: 0 0 8px 30px;
+			padding: 6px;
+			border: 1px solid rgb(200,200,200);
+		}
+
+		.content_block_caption
+		{
+			font-weight: bold;
+			font-size: 20px;
+			padding-bottom: 3px;
+			border-bottom: 1px dashed black;
+		}
+
+		.button_hide
+		{
+			display: inline-block;
+			border-radius: 50%;
+			border: 1px solid black;
+			margin-right: 15px;
+			line-height: 15px;
+			width: 20px;
+			height: 20px;
+			text-align: center;
+			cursor: pointer;
+
+			-webkit-user-select: none;
+			-khtml-user-select: none;
+			-moz-user-select: none;
+			-ms-user-select: none;
+			user-select: none;
+			font-size: 24px;
+
+			position: relative;
+			vertical-align: sub;
+		}
+
+		.button_hide_inner{
+			width: 100%;
+			height: 100%;
+			background-repeat: no-repeat;
+			background-position: center center;
+			background-size: 60%;
+			position: absolute;
+			top: 0;
+			left: 0;
+
+			transition-property: opacity, transform;
+			transition-duration: 0.1s;
+			transition-timing-function: linear;
+		}
+
+		.button_hide_minus{
+			background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH4QQYFiYTLiqmDwAAAFVpVFh0Q29tbWVudAAAAAAAQ29weXJpZ2h0IElOQ09SUyBHbWJIICh3d3cuaWNvbmV4cGVyaWVuY2UuY29tKSAtIFVubGljZW5zZWQgcHJldmlldyBpbWFnZViuimEAAACXSURBVDjLzVNBDsMwCDP2PtP/vyZ/KbATGVE3rWo1aZycQCKDje37DklwdwAASZgZMhMRAUkTV65qJYGSUCEJEQEA83HHlataAGD9djX4MUEubbk7yGO5ZeZvGJyNh7tj27ZLNMYYdotBRKwyXprBHRlJ/oEKdPdpmI7r3O+LbWa+TNZ9/Q2/25Olhb6VncHpGZxVpO/JE4UlbN5XQa6iAAAAAElFTkSuQmCC");
+		}
+
+		.button_hide_plus{
+			opacity: 0;
+			background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH4QQYFiU53rw8GgAAAFVpVFh0Q29tbWVudAAAAAAAQ29weXJpZ2h0IElOQ09SUyBHbWJIICh3d3cuaWNvbmV4cGVyaWVuY2UuY29tKSAtIFVubGljZW5zZWQgcHJldmlldyBpbWFnZViuimEAAACtSURBVDjLpVNdDoYgDOtWz4Lx/qfRs7Dte5ofwZ+o9AWSFdJCK7VWkISZAQBUFSKCiIC7g+S+z1lySWIiiUReRBLzPAcabNsmOUsuAGje9hX6lGhmUD3Sp15Sa6lFb/W1gitIrRXLssSXw+u6ypACd4deeX78CyPfqKqQiHP7pZRDkIZycGshbbT7syCl2oj4d+cuJH2Q3H1//b0LPento0rWOWW2KrJ9/dpW/Qf6R28tOxvu8wAAAABJRU5ErkJggg==");
+		}
+
+		.button_hide_small{
+			width: 15px;
+			height: 15px;
+			float: left;
+			margin-top: 4px;
+		}
+
+		ul{
+			line-height: 1.5em;
+		}
+
+		p{
+			line-height: 1.5em;
+		}
+
+		h1, h2{
+			color: #003366;
+		}
+	</style>
+
+	<style> /* dark theme */
+		body{
+			background-color: gray;
+		}
+
+		.button_hide{
+			background-color: rgb(0,120,180);
+		}
+
+		.content_block_caption{
+			color: #004477;
+		}
+
+		.keyword{
+			background-color: #BBBBBB;
+		}
+
+		.example{
+			background-color: #7777dd;
+		}
+
+		.comment{
+			color: rgb(0,120,0);
+		}
+	</style>
+
+	<style> /* light theme */
+		body{
+			background-color: white;
+		}
+
+		.button_hide{
+			background-color: lightblue;
+		}
+
+		.content_block_caption{
+			color: cornflowerblue;
+		}
+
+		.keyword{
+			background-color: #dddddd;
+		}
+
+		.example{
+			background-color: #bbbbff;
+		}
+
+		.comment{
+			color: rgb(0,170,0);
+		}
+	</style>
+
+	<style> /* hardcore theme */
+		body{
+			background-color: black;
+			color: #00FF00;
+		}
+
+		.button_hide{
+			background-color: rgb(0,140,0);
+		}
+
+		h1, h2{
+			color: #005500;
+		}
+
+		.content_block_caption{
+			color: green;
+		}
+
+		.keyword{
+			background-color: #2A2A2A;
+		}
+
+		.example{
+			background-color: #002000;
+		}
+
+		.comment{
+			color: rgb(0,120,0);
+		}
+	</style>
+
+	<script>
+		var forceHide = false;
+
+		function toggleHide(ID)
+		{
+			var bElem = document.getElementById(ID + "_button");
+			var cElems = document.getElementsByClassName(ID + "_content");
+
+			var hide = cElems[0].style.display == "" || forceHide;
+
+			for(var i = 0; i < cElems.length; i++){
+				if(hide){
+					cElems[i].style.display = "none";
+				}else{
+					cElems[i].style.display = "";
+				}
+			}
+
+			if(hide){
+				bElem.firstChild.style.opacity = "1";
+				bElem.firstChild.style.transform = "rotate(90deg)";
+
+				bElem.childNodes[1].style.opacity = "0";
+				bElem.childNodes[1].style.transform = "rotate(90deg)";
+			}else{
+				bElem.firstChild.style.opacity = "0";
+				bElem.firstChild.style.transform = "";
+				
+				bElem.childNodes[1].style.opacity = "1";
+				bElem.childNodes[1].style.transform = "";
+			}
+		}
+
+		function minimizeAll()
+		{
+			forceHide = true;
+			var btns = document.getElementsByClassName("button_hide");
+			for(var i = 0; i < btns.length; i++){
+				btns[i].onclick();
+			}
+			forceHide = false;
+		}
+
+		curTheme = 1;
+		var themeNames = [
+			"",
+			"Dark",
+			"Light",
+			"Hardcore"
+		];
+		function updateBtnThemeSwitchText()
+		{
+			var nextTheme = curTheme + 1;
+			if(nextTheme >= document.styleSheets.length){
+				nextTheme = 1;
+			}
+			document.getElementById("btnThemeSwitch").innerHTML = themeNames[nextTheme];
+		}
+		function switchTheme()
+		{
+			document.getElementById('bd').style.backgroundImage = "";
+			document.styleSheets[curTheme].disabled = true;
+
+			curTheme++;
+			if(curTheme >= document.styleSheets.length){
+				curTheme = 1;
+			}
+
+			document.styleSheets[curTheme].disabled = false;
+			updateBtnThemeSwitchText();
+		}
+		for(var i = 1; i < document.styleSheets.length; i++){
+			if(i != curTheme){
+				document.styleSheets[i].disabled = true;
+			}
+		}
+	</script>
+</head>
+
+<body id="bd">
+	<div style="font-size: 11px">version from 05.02.2019, written by <span onclick="var a=document.getElementById('bd');a.style.transition='filter 60s linear';a.style.filter='blur(2px)';">AgentSmith</span></div>
+	<div style="right: 5px; top: 5px; position: fixed;">
+		<button id="btnThemeSwitch" onclick="switchTheme()">Light</button>
+		<button onclick="minimizeAll()">Minimize all</button>
+	</div>
+
+	<h1 id="ee" style="text-align: center; transition: transform 4s;" onclick="if(curTheme==3){document.getElementById('bd').style.backgroundImage = 'url(https://i.giphy.com/Q9aBxHn9fTqKs.gif)';}else{var a=document.getElementById('ee');if(a.style.transform != ''){a.style.transform='';}else{a.style.transform='rotate(4320deg)';}}">How to use WSE/LUA</h1>
+
+	<p>&nbsp;</p>
+	<p>&nbsp;</p>
+	<p>WSE/LUA uses a modified version of LuaJIT 2.0.4, which is based on and ABI compatible to Lua 5.1</p>
+	<p>LUA will run on top of module system code. That means you can add features to modules even if you don't have the source code.</p>
+	<p>This guide is solely a documentation of the provided WSE/Game API, to learn Lua itself there exist many tutorials online.</p>
+	<p>There is some example code at the end of this file that can help you to get started.</p>
+	<p>&nbsp;</p>
+	<h2><div id="setup_button" class="button_hide" onclick="toggleHide('setup')">&nbsp;</div><span>BASIC SETUP</span></h2>
+	<hr/>
+	<div class="setup_content">
+		<ul>
+			<li>Create "[warband_dir]\Modules\[module_name]\lua\", [module_name] should be e.g. Native</li>
+			<li>Create main.lua inside it. This file, if it exists, gets loaded and executed by WSE at startup, before any of the module system code.</li>
+			<p></p>
+			<li>Create "[warband_dir]\Modules\[module_name]\lua\msfiles\" (msfiles - "Module System files")</li>
+			<li>Copy header_operations.py to your msfiles folder. This is so that WSE can translate operation names to opcodes and is neccessary for calling module system operations from lua.</li>
+		</ul>
+		<h2>&nbsp;</h2>
+	</div>
+
+
+	<h2><div id="game_table_button" class="button_hide" onclick="toggleHide('game_table')">&nbsp;</div><span>THE "GAME" TABLE<br /></span></h2>
+	<hr/>
+	<div class="game_table_content">
+		<p style="margin-left: 20px;"><em>The game table is a predefined global table that allows you access to the game from lua.</em></p>
+		<div class="content_block">
+			<div class="content_block_caption">Operations</div>
+			<div>
+				<p>To call operations, use <span class="keyword">game.operation_name(arg1, arg2, ...)</span></p>
+				<p style="padding-left: 30px;">Example: <span style="margin-left:0px; line-height: 25px; display:inline; padding: 6px;" class="example">game.display_message("test string")</span></p>
+				<p>String and pos arguments are passed to the game via the games registers (overwritting them), starting from reg[128] and counting downwards.</p>
+				<p>Notice that the argument type matters. For example, if an operation expects an integer, you cannot pass a string that contains a number.</p>
+				<p>Return values are:</p>
+				<div class="example">
+					<div style="display: inline-block; margin-right: 5px;">
+						<p>boolDidNotFail, intError</p>
+						<p>intResult, intError</p>
+						<p>boolDidNotFail, intResult, intError</p>
+						<p>intError</p>
+					</div>
+					<div style="display: inline-block;">
+						<p>=&nbsp;&nbsp;game.cf_operation(arg1, arg2, ...) for can_fail operations</p>
+						<p>=&nbsp;&nbsp;game.lhs_operation(lhs_arg, arg1, arg2, ...) for lhs operations</p>
+						<p>=&nbsp;&nbsp;game.cf_lhs_operation(lhs_arg, arg1, arg2, ...) for operations which are both can_fail and lhs</p>
+						<p>=&nbsp;&nbsp;game.operation(arg1, arg2, ...) for all other operations</p>
+					</div>
+				</div>
+				<p>While most Lhs operations don't require an actual value for lhs_arg (in those cases it's strictly a return variable, for example player_get_gold), some (for example val_add) do, so you have to specify it anyway.</p>
+				<p>Real-world lhs_operation example:</p>
+				<div class="example">
+					local gold = game.player_get_gold(0, playerId)
+				</div>
+				<p>Note that in Lua, you don't have to assign all return values. For example, if you don't care about the error code, just omit the corresponding lhs var.</p>
+				<p>I'm not sure what the error code signalizes, however it should be 0 if there was no error.</p>
+			</div>
+		</div>
+
+
+		<div class="content_block">
+			<div class="content_block_caption">Registers</div>
+			<div>
+				<p>To access registers, use <span class="keyword">game.reg[n]</span> , <span class="keyword">game.sreg[n]</span> and <span class="keyword">game.preg[n]</span></p>
+				<p style="padding-left: 30px;">Example:</p>
+				<div class="example">
+					game.reg[0] = 123\n
+					local i = game.reg[0]\n
+					game.sreg[0] = "test string"\n
+					local s = game.sreg[0]\n
+					game.preg[0] = game.pos.new()\n
+					local pos = game.preg[0]\n
+				</div>
+				<p>As of the current version, registers are copied by value instead of by reference. So doing things like:</p>
+				<div class="example">
+					game.preg[0]:rotX(30)
+				</div>
+				<p>Does not change the actual game register. This is likely going to be improved in a future version. What you have to do instead for now is:</p>
+				<div class="example">
+					local p = game.preg[0]\n
+					p:rotX(30)\n
+					game.preg[0] = p\n
+				</div>
+			</div>
+		</div>
+
+		<div class="content_block">
+			<div class="content_block_caption">Constants</div>
+			<div>
+				<p>For every header_[name].py or ID_[name].py file you copied to your "msfiles" folder (except header_operations.py), a new table will be generated: <span class="keyword">game.const.[name]</span></p>
+				<p>This table will be filled with all the constants from that file.</p>
+				<p>As of the current version, only lines that match one of the two following regexes (regular expressions) will be accepted:</p>
+				<div class="example">
+					^(\w+)=(((-)?0x[\da-fA-F]+)|((-)?\d+(\.\d+)?))$\n
+					^(\w+)=(\w+)$\n
+				</div>
+				<p>This probably looks intimidating to you, but really all it says is that your constant must either be a number, a hex number, or another constant (from the same file, currently).</p>
+				<p>In other words: <span class="keyword">constant = num|hexNum|otherConstant</span>
+				<p>If the match fails, the line will be ignored and a warning message will be triggered which you can safely ignore.</p>
+				<p>You can omit the <span class="keyword">[name]</span> part in <span class="keyword">game.const.[name].[constant]</span>, in which case all tables in <span class="keyword">game.const</span> will be searched for your constant and the first result will be used.</p>
+				<p>So let's say you want to add a deathmatch trigger for <span class="keyword">ti_on_agent_hit</span>. Instead of this:</p>
+				<div class="example">
+					game.addTrigger("mst_multiplayer_dm", -28, 0, 0, condCB)\n
+				</div>
+				<p>You could copy header_triggers.py to your msfiles folder and do:</p>
+				<div class="example">
+					game.addTrigger("mst_multiplayer_dm", game.const.ti_on_agent_hit, 0, 0, condCB)\n
+					<span class="comment">--or if you like to be specific:</span>\n
+					game.addTrigger("mst_multiplayer_dm", game.const.triggers.ti_on_agent_hit, 0, 0, condCB)\n
+				</div>
+			</div>
+		</div>
+
+		<div class="content_block">
+			<div class="content_block_caption">Triggers</div>
+			<div>
+				<p>To add mission template triggers, use <span class="keyword">intTriggerNo = game.addTrigger(strTemplateId, numCheckTime, numDelayTime, numRearmTime, funcConditionsCallback, [funcConsequencesCallback])</span></p>
+				<p>These work exactly like module system triggers. Times can be float values or values from header_triggers.py (the numbers, string names are not supported yet), just like you would do it in the MS. If conditionsCallback returns false, consequencesCallback will not be executed. If it returns true or nothing, consequencesCallback will be executed.</p>
+				<p>This function is fairly expensive, as it involves copying the entire array of triggers and then adding the new one.</p>
+				<p style="padding-left: 30px;">Example:</p>
+				<div class="example">
+					function condCB()\n
+					<span class="tab">doStuff()</span>\n
+					<span class="tab">return true</span>\n
+					end\n
+					game.addTrigger("mst_multiplayer_dm", 1, 0, 0, condCB)\n
+				</div>
+				<p>addTrigger returns an integer that is the index of the added trigger.</p>
+				<p>You can also remove triggers by using <span class="keyword">game.removeTrigger(strTemplateId, intTriggerIndex)</span>. If intTriggerIndex is negative, the trigger with (numTriggers + intTriggerIndex) gets removed (e.g. to remove the last trigger, use -1).</p>
+				<p>&nbsp;</p>
+				<p>You can also add item triggers with <span class="keyword">intTriggerNo = game.addItemTrigger(strItemID|intItemNo, numTriggerInterval, funcCallback)</span></p>
+				<p style="padding-left: 30px;">Example:</p>
+				<div class="example">
+					game.addItemTrigger("itm_fighting_pick", game.const.ti_on_weapon_attack, function()\n
+					<span class="tab">print("agent no " .. game.store_trigger_param_1(0) .. " swinged a fighting pick")</span>\n
+					end)\n
+				</div>
+			</div>
+		</div>
+
+
+		<div class="content_block">
+			<div class="content_block_caption">Iterators</div>
+			<div>
+				<p>To use iterators (try_for_agents, try_for_players, ...), use the provided iterator functions <span class="keyword">game.partiesI, game.agentsI, game.propInstI, game.playersI</span></p>
+				<p>These work exactly like module system iterators and take the same arguments.</p>
+				<p style="padding-left: 30px;">Example:</p>
+				<div class="example">
+					for curPlayer in game.playersI(true) do <span class="comment">--skip server</span>\n
+					<span class="tab">foo(curPlayer)</span>\n
+					end\n
+				</div>
+			</div>
+		</div>
+
+		<div class="content_block">
+			<div class="content_block_caption">Positions</div>
+			<div>
+				<p>To work with positions, the following "classes" are provided: <span class="keyword">game.rotation, game.pos and vector3</span> (see under miscellaneous)</p>
+				<p>Keep in mind that these don't need the fixed point multiplier that the module system requires you to use.</p>
+				<p>The MS multiplier is essentially a way of specifying the current unit of length.</p>
+				<p style="padding-left: 30px;">MS Example:</p>
+				<div class="example">
+					set_fixed_point_multiplier(1),\n
+					position_get_x(":x", 0), <span class="comment">#get pos0_x in meters</span>\n
+					set_fixed_point_multiplier(100),\n
+					position_get_x(":x", 0), <span class="comment">#get pos0_x in centimeters</span>\n
+				</div>
+				<p>Consider the lua counterpart to "always have a fixed point multiplier of 1".</p>
+
+				<ul>
+					<li>
+						<p><span class="keyword">game.rotation</span></p>
+						<ul>
+							<li>
+								<p><span class="keyword">game.rotation.new([obj])</span> - constructor. obj can be used to specify initial values.</p>
+							</li>
+							<li>
+								<p><span class="keyword">game.rotation.prototype</span></p>
+								<div class="example">
+									s = vector3.new({x = 1}) <span class="comment">--x axis</span>\n
+									f = vector3.new({y = 1}) <span class="comment">--forwards/y axis</span>\n
+									u = vector3.new({z = 1})  <span class="comment">--up/z axis</span>\n
+									function getRot(self) <span class="comment">--returns vector3.new({z = yaw, x = pitch, y = roll})</span>\n
+									function rotX(self, angle) <span class="comment">--rotate around x axis, angle in degrees</span>\n
+									function rotY(self, angle) <span class="comment">--rotate around y axis, angle in degrees</span>\n
+									function rotZ(self, angle) <span class="comment">--rotate around z axis, angle in degrees</span>\n
+									function rotate(self, rotVec3) <span class="comment">--rotate around all axis, zxy order, angle in degrees</span>\n
+								</div>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<p><span class="keyword">game.pos</span></p>
+						<ul>
+							<li>
+								<p><span class="keyword">game.pos.new([obj])</span> - constructor. obj can be used to specify initial values.</p>
+							</li>
+							<li>
+								<p><span class="keyword">game.pos.prototype</span></p>
+								<div class="example">
+									o = vector3.new() <span class="comment">--position in the world</span>\n
+									rot = game.rotation.new() <span class="comment">--rotation, or heading of the pos if you like</span>\n
+									\n
+									<span class="comment">--see game.rotation.prototype for these</span>\n
+									function getRot(self)\n
+									function rotX(self, angle)\n
+									function rotY(self, angle)\n
+									function rotZ(self, angle)\n
+									function rotate(self, rotVec3)\n
+									function dist(self, pos2) <span class="comment">--returns distance between self.o and pos2.o</span>\n
+									function isBehind(self, pos2) <span class="comment">--returns true if self is behind pos2 (shorthand for game.position_is_behind_position)</span>\n
+								</div>
+							</li>
+						</ul>
+					</li>
+				</ul>
+
+				<p style="padding-left: 30px;">Example:</p>
+				<div class="example">
+					local pos0 = game.preg[0]\n
+					local newRot = game.rotation.new(pos0.rot)\n
+					local newPos = game.pos.new({rot = newRot})\n
+					newPos:rotX(45)\n
+					newPos:rotate({x = 90, z = 180})\n
+				</div>
+			</div>
+		</div>
+
+
+		<div class="content_block">
+			<div class="content_block_caption">Presentations</div>
+			<div>
+				<p>You can add presentations using <span class="keyword">game.addPrsnt(tablePrsnt)</span></p>
+				<p>tablePrsnt must have the following format</p>
+				<div class="example">
+					tablePrsnt = {\n
+						\tabid = strID,\n
+						\tab[flags] = {intFlag1, ...},\n
+						\tab[mesh] = intMesh,\n
+						\tabtriggers = {[numTriggerConst] = func, ...}\n
+					<p>}</p>
+				</div>
+				<p><span class="keyword">[flags]</span> can be omited and defaults to no flags at all. If you copied header_presentation.py to your msfiles folder, you can use the flags defined there.</p>
+				<p><span class="keyword">[mesh]</span> can be omited and defaults to 0. If you copied ID_meshes.py to your msfiles folder, you can use the mesh nos defined there.</p>
+				<p><span class="keyword">triggers</span> must have at least one element, the key being a number and the value being a function. If you copied header_triggers.py to your msfiles folder, you can use the trigger values defined there.</p>
+				<p>Basic example:</p>
+				<div class="example">
+					<span class="comment">--copy header_presentations.py, header_triggers.py and ID_meshes.py to your msfiles folder for this example.</span>\n
+					local index = game.addPrsnt({\n
+					\tabid = "myPrsnt",\n
+					\tabflags = {game.const.prsntf_read_only, game.const.prsntf_manual_end_only},\n
+					<span class="tab comment">--you can initialize an array like this, without keys - they don't matter here anyway.</span>\n
+					\tabmesh = game.const.mesh_cb_ui_main,\n
+					\tabtriggers = {\n
+						\tab2[game.const.ti_on_presentation_load] = function ()\n
+						<span class="tab2 comment">--The const inside the [] declares a number key, similar to keyName = 123 for string keys.</span>\n
+							\tab3game.presentation_set_duration(9999999)\n
+							\tab3local overlay = game.create_mesh_overlay(0, game.const.mesh_mp_ingame_menu)\n
+							\n
+							\tab3local position = game.pos.new()\n
+							\tab3position.o.x = 0.3\n
+							\tab3position.o.y = 0.3\n
+							\tab3game.overlay_set_position(overlay, position)\n
+							\n
+							\tab3position.o.x = 0.5\n
+							\tab3position.o.y = 0.8\n
+							\tab3game.overlay_set_size(overlay, position)\n
+						\tab2end\n
+					\tab}\n
+					})\n
+					game.start_presentation(index)\n
+				</div>
+			</div>
+		</div>
+
+		<div class="content_block">
+			<div class="content_block_caption">Module operation hooking</div>
+			<div>
+				<p>You can hook module operations using <span class="keyword">game.hookOperation(operation, funcCallback)</span>.</p>
+				<p>This means whenever the module system uses the operation, your callback will be executed <strong>first</strong>.</p>
+				<p><span class="keyword">operation</span> must be either the operation name as a string or an opcode.</p>
+				<p>&nbsp;</p>
+				<p>The return values of <span class="keyword">funcCallback</span> control further behaviour.</p>
+				<p>If it returns nothing or true, the module operation will be executed as usual.</p>
+				<p>If the first return value is false, the module operation will not be executed.</p>
+				<p>If the second return value is a bool, the module system will think it is executing a cf operation (so if the bool is false, it will break execution, like e.g. <span class="example" style="margin-left: 0;display: unset; padding: 3px;">(eq, 1, 0),</span>).</p>
+				<p>If the second return value is a number, the module system will think it is executing a lhs operation and try to set the return value</p>
+				<p>If the callback returns three values, the module system will think it is executing a cf/lhs operation. The 2nd return value must be the cf value and the 3rd the lhs value</p>
+				<p>In short, the variants are:</p>
+				<div class="example">
+					boolExecute\n
+					boolExecute, boolFail\n
+					boolExecute, numLhs\n
+					boolExecute, boolFail, numLhs\n
+				</div>
+				<p>The hook will not be triggered when calling operations from lua. However, this task can be achieved by overwritting the game metatable, which is defined as:</p>
+				<div class="example">
+					game.mt = {\n
+						\tab__index = function(table, key)\n
+							\tab2return function(...)\n
+								\tab3return game.execOperation(key,...)\n
+							\tab2end\n
+						\tabend\n
+					}\n
+				</div>
+				<p>One could, for example, do (NOT FINISHED YET):</p>
+				<div class="example">
+					game.mt = {\n
+						\tab__index = function(table, key)\n
+							\tab2If key == "player_get_gold" then\n
+								\tab3return myCustomGoldCalculation\n
+								\tab3<span class="comment">--return function that takes all args (...) and returns gold</span>\n
+								\tab3<span class="comment">--this function should, if neccessary, use game.execOperation("player_get_gold", args)</span>\n
+								\tab3<span class="comment">--instead of game.player_get_gold(args), for avoiding an infinite loop.</span>\n
+							\tab2end\n
+							\tab2return function(...)\n
+								\tab3return game.execOperation(key,...)\n
+							\tab2end\n
+						\tabend\n
+					}\n
+					setmetatable(game, game.mt)\n
+				</div>
+				<p>You could even go one step further and create a wrapper for <span class="keyword">game.hookOperation</span> that automates this process for you.</p>
+			</div>
+		</div>
+
+		<div class="content_block">
+			<div class="content_block_caption">Other functions:</div>
+			<div>
+				<ul>
+					<li>
+						<div>
+							<p style="padding-left: 20px;"><span class="keyword">game.getScriptNo(script_name)</span>, use in conjunction with game.call_script(scriptNo, ...)</p>
+							<p style="padding-left: 30px;">Example:</p>
+							<div class="example">
+								local no = game.getScriptNo("game_start")\n
+								game.call_script(no)\n
+							</div>
+						</div>
+					</li>
+					<li>
+						<div>
+							<p style="padding-left: 20px;"><span class="keyword">game.getCurTemplateId()</span>, returns the id/name of the current mission template. Note that no template will be loaded at the time main.lua is executed.</p>
+						</div>
+					</li>
+					<li>
+						<div>
+							<p style="padding-left: 20px;"><span class="keyword">game.OnRglLogWrite(str)</span>, this function, if it exists, gets called when something gets written to rgl_log.txt. It receives the log message as its parameter.\n
+							A bad idea is to use <span class="keyword">game.display_message</span> in this function, as it will easily cause an infinite loop. You can however use <span class="keyword">print()</span>.\n
+							Any error (which would normally trigger the event again, which would trigger the error, ...) caused by this function will be catched and logged safely.
+							</p>
+						</div>
+					</li>
+					<li>
+						<div>
+							<p style="padding-left: 20px;"><span class="keyword">game.fail()</span>, when used during a <span class="keyword">lua_call</span> operation it will make the MS code fail, like any other cf operation can do.</p>
+						</div>
+						<p style="padding-left: 30px;">Example:</p>
+						<div class="example">
+							(try_begin),\n
+								\tab(lua_push_int, 456),\n
+								\tab(lua_call, "@is123", 1),\n
+								\tab(display_message, "@Yes it is."),\n
+							(else_try),\n
+								\tab(display_message, "@Nah"),\n
+							(try_end),\n
+						</div>
+						<p></p>
+						<div class="example">
+							function is123(val)\n
+								\tabif val ~= 123 then\n
+									\tab2game.fail()\n
+								\tabend\n
+							end\n
+						</div>
+					</li>
+					<li>
+						<div>
+							<p style="padding-left: 20px;"><span class="keyword">game.OnChatMessageReceived(intPlayerNo, boolIsTeamChat, strMsg)</span>, this function, if it exists, gets called when a chat message is received (both client and server). It will be called after the corresponding module system script. If it returns a string the message will be overwritten, if it returns true the message will be supressed. Returning something will overwrite any action the module script may have taken.</p>
+						</div>
+					</li>
+				</ul>
+				<p>&nbsp;</p>
+				<p style="padding-left: 10px">Other WSE LUA API functions - these could be useful for advanced users, but you should get along fine without ever using them.</p>
+				<ul>
+					<li style="padding-left: 20px;"><p><span class="keyword">game.execOperation(strOperationName, arg1, arg2, ....)</span> - see operations</p></li>
+					<li style="padding-left: 20px;"><p><span class="keyword">game.getReg(intTypeId, intIndex)</span> typeIds are: 0 = int, 1 = str, 2 = pos</p></li>
+					<li style="padding-left: 20px;"><p><span class="keyword">game.setReg(intTypeId, intIndex, val)</span></p></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+
+	<h2><div id="miscellaneous_button" class="button_hide" onclick="toggleHide('miscellaneous')">&nbsp;</div><span>MISCELLANEOUS<br /></span></h2>
+	<hr />
+	<div class="miscellaneous_content">
+		<div class="content_block">
+			<div class="content_block_caption">Globals</div>
+			<div>
+				<ul>
+					<li style="padding-left: 20px;"><span class="keyword">tableShallowCopy(t, copyMetatable)</span> - returns a copy of table t, however any object items will still reference the same object. If copyMetatable ~= nil, the returned table will have the same metatable as t, as given by getmetatable(t).</li>
+					<li style="padding-left: 20px; padding-top: 10px;"><span class="keyword">tableRecursiveCopy(t, copyMetatable)</span> - returns a copy of table t. All table items in t and further down the "tree" will be actual copies by value instead of by reference. If copyMetatable ~= nil, all metatables will be copied (by value), as given by getmetatable(t).</li>
+					<li style="padding-left: 20px; padding-top: 10px;">vector3 - class for storing and manipulating 3D vectors
+						<ul>
+							<li>
+								<p style="padding-left: 20px; padding-top: 10px;"><span class="keyword">vector3.prototype</span></p>
+								<div class="example">
+									x = 0\n
+									y = 0\n
+									z = 0\n
+									function len(self) <span class="comment">--returns the length of the vector</span>\n
+									function dist(self, vec2) <span class="comment">--returns the distance between self and vec2</span>\n
+								</div>
+							</li>
+							<li>
+								<p style="padding-left: 20px; padding-top: 10px;"><span class="keyword">vector3.new([obj])</span> - constructor. obj; can be used to specify initial values.</p>
+							</li>
+							<li>
+								<p style="padding-left: 20px; padding-top: 10px;"><span class="keyword">vector3 operators</span> + - * ==</p>
+							</li>
+							<li>
+							<p style="padding-left: 20px;">Example:</p>
+								<div class="example">
+									local vecA = vector3.new({x = 60, y = 30})\n
+									local vecB = vector3.new()\n
+									\n
+									game.display_message(tostring(vecA:len())) <span class="comment">--67.08...</span>\n
+									\n
+									if vecA == vecB then\n
+									\tab<span class="comment">--will not happen</span>\n
+									end\n
+									\n
+									vecA = vecA * vecB <span class="comment">--{60*0, 30*0, 0*0}</span>\n
+									if vecA == vecB then\n
+									\tab<span class="comment">--will happen</span>\n
+									end\n
+								</div>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="content_block">
+			<div class="content_block_caption">Sandbox</div>
+			<div>
+				<p>Changes include:</p>
+				<ul>
+					<li>
+						<p>Disabled package.loadlib, package.cpath, io.popen. os.execute, os.getenv, os.tmpname, ffi library, loading bytecode (can be exploited)</p>
+					</li>
+					<li>
+						<p>Restrict dofile, loadfile and all IO operations to the lua directory</p>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="content_block">
+			<div class="content_block_caption">Settings (wse_settings.ini, add [lua] section)</div>
+			<div>
+				<ul>
+					<li>
+						<p><span class="keyword">disable_game_const_warnings</span> - disables all warnings during msfiles\ game constants scanning</p>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="content_block">
+			<div class="content_block_caption">Notice</div>
+			<div>
+				<p>The Lua/C stack (used to pass parameters and return values from modsys to lua and back) is automatically cleared when it reaches a size of 100. This is to prevent stack overflows.</p>
+			</div>
+			</div>
+		</div>
+	</div>
+
+	<h2><div id="examples_button" class="button_hide" onclick="toggleHide('examples')">&nbsp;</div><span>EXAMPLES</span></h2>
+	<hr/>
+	<div class="examples_content">
+		<div class="content_block">
+			<div class="content_block_caption">Simple custom log</div>
+			<div class="example example2">
+				myLog = io.open("custom_log.txt", "a")\n
+				myLog:write("Server started at " .. os.date("%Y.%m.%d, %X") .. "\\n")\n
+				myLog:flush()\n
+				\n
+				function getTriggerParam(index)\n
+					\tabreturn game.store_trigger_param(0, index)\n
+				end\n
+				\n
+				function playerJoinedCallback()\n
+					\tablocal playerNo = getTriggerParam(1)\n
+					\n
+					\tabgame.str_store_player_username(0, playerNo)\n
+					\tabgame.str_store_player_ip(1, playerNo)\n
+					\n
+					\tabmyLog:write(game.sreg[0] .. " joined with IP " .. game.sreg[1] ..\n
+							\tab2" at " .. os.date("%Y.%m.%d, %X") .. "\\n")\n
+					\tabmyLog:flush()\n
+					\tabreturn false\n
+				end\n
+				\n
+				templates = {\n
+					\tab"dm",\n
+					\tab"tdm",\n
+					\tab"cf", <span class="comment">--capture the flag</span>\n
+					\tab"sg", <span class="comment">--siege</span>\n
+					\tab"bt", <span class="comment">--battle</span>\n
+					\tab"fd", <span class="comment">--fight and destroy</span>\n
+					\tab"ccoop", <span class="comment">--invasion</span>\n
+					\tab"duel"\n
+				}\n
+				\n
+				<span class="comment">--add triggers to all multiplayer templates</span>\n
+				for k,v in pairs(templates) do\n
+				\tabgame.addTrigger("mst_multiplayer_" .. v, game.const.ti_server_player_joined, 0, 0, playerJoinedCallback)\n
+				end\n
+			</div>
+		</div>
+
+		<div class="content_block">
+			<div class="content_block_caption">Squad spawner</div>
+			<p>This function spawns agents in a square at the specified position.</p>
+			<div class="example example2">
+				function spawnSquad(troop, amount, position)\n
+					\tablocal sideLen = math.floor(math.sqrt(amount))\n
+					\tablocal leftovers = amount - sideLen * sideLen\n
+					\tabposition.o.x = position.o.x - math.floor(sideLen/2) * spawnSpreadDistance\n
+					\tabposition.o.y = position.o.y - math.floor(sideLen/2) * spawnSpreadDistance\n
+					\n
+					\tabfor i=1, sideLen do\n
+						\tab2for j=1, sideLen do\n
+							\tab3game.set_spawn_position(position)\n
+							\tab3game.spawn_agent(troop)\n
+							\tab3position.o.x = position.o.x + spawnSpreadDistance\n
+						\tab2end\n
+						\tab2position.o.x = position.o.x - spawnSpreadDistance * sideLen\n
+						\tab2position.o.y = position.o.y + spawnSpreadDistance\n
+					\tabend\n
+				end\n
+			</div>
+			<p>You could call it like:</p>
+			<div class="example example2">
+				local pos = game.pos.new({o = {x=100,y=100}})\n
+				spawnSquad(game.const.trp_bandit, 10, pos)\n
+			</div>
+		</div>
+
+		<div class="content_block">
+			<div class="content_block_caption">Quickly reload main.lua when typing "reloadMain" in server console</div>
+			<div class="example example2">
+				("wse_console_command_received", [ <span class="comment">#this is a script that WSE adds</span>\n
+					\tab(store_script_param, ":command_type", 1),\n
+					\n
+					\tab(str_equals, s0, "@reloadMain"),\n
+					\tab(lua_push_str, "@main.lua"),\n
+					\tab(lua_call, "@dofile", 1), <span class="comment">#one param, the string we pushed</span>\n
+					\tab(set_trigger_result, 1),\n
+				]),\n
+			</div>
+		</div>
+	</div>
+
+	<script>	
+		var contentCaptions = document.getElementsByClassName("content_block_caption");
+		for(var i = 0; i < contentCaptions.length; i++){
+			var nodeCount = 0;
+			for(var j = 0; j < contentCaptions[i].parentNode.childNodes.length; j++){
+
+				var curNode = contentCaptions[i].parentNode.childNodes[j];
+				if(curNode.nodeType == 1){
+					nodeCount++;
+					if(nodeCount >= 2){
+						if(curNode.className != ""){
+							curNode.className += " ";
+						}
+						curNode.className += "content_block_" + i + "_content";
+					}
+				}
+			}
+
+			var caption = contentCaptions[i].innerHTML;
+			contentCaptions[i].innerHTML = "<div id='content_block_" + i + "_button'" 
+				+ " class='button_hide button_hide_small' onclick='toggleHide(" + '"content_block_' + i + '")'
+				+ "'>&nbsp;</div>" 
+				+ caption;
+		}
+
+		var hideBtns = document.getElementsByClassName("button_hide");
+		for(var i = 0; i < hideBtns.length; i++){
+			hideBtns[i].innerHTML = "</div><div class='button_hide_inner button_hide_plus'></div><div class='button_hide_inner button_hide_minus'>";
+		}
+
+		updateBtnThemeSwitchText();
+
+		for(var i = 1; i <= 10; i++){
+			var className = "tab"
+			if(i > 1){
+				className += i;
+			}
+
+			var insert = "";
+			for(var j = 0; j < i; j++){
+				insert += "&emsp;&emsp;";
+			}
+
+			var tabbedElems = document.getElementsByClassName(className);
+			for(var j = 0; j < tabbedElems.length; j++){
+				tabbedElems[j].innerHTML = insert + tabbedElems[j].innerHTML;
+			}
+		}
+
+		var bd = document.getElementById("bd");
+		bd.innerHTML = bd.innerHTML.replace(/\\+n/g, function(x){
+			if(x == "\\n"){
+				return "<br>";
+			}else{
+				return "\\n";
+			}
+		}).replace(/\\+tab\d*/g, function(x){
+			var deTab = x.match(/^\\\\tab\d*$/);
+			if(deTab){
+				return x[0];
+			}
+
+			var num = x.match(/\d+/);
+			if(!num){
+				num = 1;
+			}else{
+				num = num[0];
+			}
+
+			var insert = "";
+			for(var i = 0; i < num; i++){
+				insert += "&emsp;&emsp;";
+			}
+
+			return insert;
+		})
+	</script>
+</body>
