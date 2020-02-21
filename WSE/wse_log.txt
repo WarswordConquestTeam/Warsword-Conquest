@@ -1,6 +1,6 @@
-[19:52:27] WSE v4.7.4 by cmpxchg8b, K700, AgentSmith (Build date: Oct 24 2019 17:11:01)
-[19:52:27] WSE path: D:\Mount&Blade Warband\Modules\Warsword-Conquest\WSE\
-[19:52:27] WSE netcode version: 9
-[19:52:27] Warband version: vanilla
-[20:03:48] WARNING: Unable to map WSE script code: wse_savegame_loaded
-[20:03:48] WARNING: Unable to map WSE script code: wse_get_server_info
+[22:35:46] WSE v4.7.4 by cmpxchg8b, K700, AgentSmith (Build date: Oct 24 2019 17:11:01)
+[22:35:46] WSE path: D:\Games\Mount&Blade Warband\Modules\Warsword Conquest Current Diplomacy\WSE\
+[22:35:46] WSE netcode version: 9
+[22:35:46] Warband version: vanilla
+[22:37:24] WARNING: Unable to map WSE script code: wse_savegame_loaded
+[22:37:24] WARNING: Unable to map WSE script code: wse_get_server_info
