@@ -1,0 +1,65 @@
+﻿qst_deliver_message|送 信 给 {s13}
+qst_deliver_message_to_enemy_lord|送 信 给 {s13}
+qst_raise_troops|培 养 {reg1}名 {s14}
+qst_escort_lady|护 送 {s13}去 {s14}
+qst_deal_with_bandits_at_lords_village|从 强 盗 手 里 解 救 {s15}村 
+qst_collect_taxes|到 {s3}征 税 
+qst_hunt_down_fugitive|抓 捕 {s4}
+qst_kill_local_merchant|杀 掉 {s3}的 地 方 商 人 
+qst_bring_back_runaway_serfs|追 回 逃 跑 的 农 奴 
+qst_follow_spy|跟 踪 准 备 去 碰 头 的 间 谍 
+qst_capture_enemy_hero|抓 捕 在 {s13}的 一 个 领 主 
+qst_lend_companion|把 你 的 同 伴 {s3}借 给 {s9}
+qst_collect_debt|讨 要 {s3}欠 {s9}的 借 款 
+qst_incriminate_loyal_commander|控 告 {s13}的 忠 心 指 挥 官 {s16}
+qst_meet_spy_in_enemy_town|与 在 {s13}的 间 谍 碰 头 
+qst_capture_prisoners|抓 捕 {reg1}个 {s3}俘 虏 
+qst_lend_surgeon|把 你 的 外 科 医 生 {s3}借 给 {s1}
+qst_follow_army|跟 随 {s9}的 部 队 
+qst_report_to_army|向 {s13}的 部 队 指 挥 官 报 告 情 况 
+qst_deliver_cattle_to_army|把 {reg3}头 牛 赶 到 {s13}
+qst_join_siege_with_army|参 加 {s14}的 围 城 战 
+qst_screen_army|掩 护 {s13}的 军 队 前 进 
+qst_scout_waypoints|侦 察 {s13}， {s14}和 {s15}
+qst_rescue_lord_by_replace|从 {s14}解 救 {s13}
+qst_deliver_message_to_prisoner_lord|送 信 给 {s14}的 {s13}
+qst_duel_for_lady|与 {s13}决 斗 
+qst_duel_courtship_rival|与 {s13}决 斗 （ 可 选 择 ） 
+qst_duel_avenge_insult|与 {s13}决 斗 
+qst_move_cattle_herd|赶 牛 到 {s13}
+qst_escort_merchant_caravan|护 送 商 队 去 {s8}
+qst_deliver_wine|捎 带 {reg5}单 位 的 {s6}到 {s4}
+qst_troublesome_bandits|解 决 难 对 付 的 强 盗 
+qst_kidnapped_girl|从 强 盗 那 儿 赎 回 女 孩 
+qst_persuade_lords_to_make_peace|确 保 两 个 领 主 不 反 对 和 平 
+qst_deal_with_looters|解 决 劫 匪 
+qst_deal_with_night_bandits|解 决 暗 夜 强 盗 
+qst_deliver_grain|筹 集 小 麦 给 {s3}
+qst_deliver_cattle|筹 集 {reg5}头 牛 给 {s3}
+qst_train_peasants_against_bandits|训 练 农 民 以 对 抗 在 {s13}的 强 盗 
+qst_eliminate_bandits_infesting_village|从 强 盗 手 里 解 救 {s7}村 
+qst_visit_lady|拜 访 女 士 
+qst_formal_marriage_proposal|正 式 求 婚 提 案 
+qst_obtain_liege_blessing|正 式 求 婚 提 案 
+qst_wed_betrothed|和 你 的 未 婚 妻 成 婚 
+qst_wed_betrothed_female|和 你 的 未 婚 妻 成 婚 
+qst_join_faction|宣 誓 效 忠 于 {s1}
+qst_rebel_against_kingdom|帮 助 {s13}取 得 {s14}的 王 位 
+qst_consult_with_minister|和 首 席 大 臣 商 议 
+qst_organize_feast|组 织 宴 会 
+qst_resolve_dispute|解 决 争 端 
+qst_offer_gift|获 取 礼 物 
+qst_denounce_lord|指 控 领 主 
+qst_intrigue_against_lord|密 谋 反 对 领 主 
+qst_track_down_bandits|追 捕 强 盗 
+qst_track_down_provocateurs|追 捕 奸 细 
+qst_retaliate_for_border_incident|报 复 边 境 事 件 
+qst_raid_caravan_to_start_war|攻 击 中 立 国 商 队 来 挑 起 战 争 
+qst_cause_provocation|挑 拔 一 个 国 家 攻 打 别 的 国 家 
+qst_rescue_prisoner|营 救 或 赎 回 一 名 俘 虏 
+qst_destroy_bandit_lair|摧 毁 强 盗 老 巢 
+qst_collect_men|召 集 五 名 手 下 
+qst_learn_where_merchant_brother_is|打 听 人 质 被 藏 在 哪 里 了。 
+qst_save_relative_of_merchant|攻 打 强 盗 老 巢 
+qst_save_town_from_bandits|从 强 盗 手 中 拯 救 城 镇 
+qst_quests_end|Quests End 

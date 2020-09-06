@@ -1,0 +1,85 @@
+﻿lockitver|DO NOT DELETE THIS LINE! 2896
+skl_trade|Handel
+skl_trade_desc|Jede Stufe dieser Fertigkeit reduziert Eure Handelsabzüge um 5%%. (Trupp-Fertigkeit)
+skl_leadership|Anführerschaft
+skl_leadership_desc|Jeder Punkt erhöht die Maximalzahl der Soldaten, die Ihr befehligen könnt, um 5, erhöht Eure Trupp-Moral und reduziert die Solde um 5%%. (Anführer-Fertigkeit)
+skl_prisoner_management|Gefangenen-Handhabung
+skl_prisoner_management_desc|Jede Stufe dieser Fertigkeit erhöht die Maximalzahl der Gefangenen um %d. (Anführer-Fertigkeit)
+skl_reserved_1|Reservierte Fertigkeit 1
+skl_reserved_1_desc|Dies ist eine reservierte Fertigkeit.
+skl_reserved_2|Reservierte Fertigkeit 2
+skl_reserved_2_desc|Dies ist eine reservierte Fertigkeit.
+skl_reserved_3|Reservierte Fertigkeit 3
+skl_reserved_3_desc|Dies ist eine reservierte Fertigkeit.
+skl_reserved_4|Reservierte Fertigkeit 4
+skl_reserved_4_desc|Dies ist eine reservierte Fertigkeit.
+skl_persuasion|Überzeugungskraft
+skl_persuasion_desc|Diese Fertigkeit lässt andere Leute Euren Standpunkt einsehen. (Persönliche Fertigkeit)
+skl_engineer|Konstrukteur
+skl_engineer_desc|Diese Fertigkeit hilft Euch beim Bau von Belagerungsmaschinen und Verbesserungen von Lehen. (Trupp-Fertigkeit)
+skl_first_aid|Erste Hilfe
+skl_first_aid_desc|Helden erhalten pro Fertigkeitsstufe 5%% von bei Missionen verlorenen Trefferpunkten wieder. (Trupp-Fertigkeit)
+skl_surgery|Chirurgie
+skl_surgery_desc|Jeder Punkt dieser Fertigkeit ermöglicht eine 4%% Chance, dass ein tödlich verwundetes Truppmitglied nur verwundet statt getötet wird. (Trupp-Fertigkeit)
+skl_wound_treatment|Wundbehandlung
+skl_wound_treatment_desc|Die Heilungsgeschwindigkeit des Trupps wird um 20%% pro Fertigkeitsstufe erhöht. (Trupp-Fertigkeit)
+skl_inventory_management|Inventarverwaltung
+skl_inventory_management_desc|Erhöht das Aufnahmevermögen des Inventars um +6 pro Fertigkeitsstufe. (Anführer-Fertigkeit)
+skl_spotting|Aufklärung
+skl_spotting_desc|Die Sichtweite des Trupps wird 10%% pro Fertigkeitsstufe erhöht. (Trupp-Fertigkeit)
+skl_pathfinding|Wegfindung
+skl_pathfinding_desc|Die Kartengeschwindigkeit des Trupps wird um 3%% pro Fertigkeitsstufe erhöht. (Trupp-Fertigkeit)
+skl_tactics|Taktiken
+skl_tactics_desc|Jeweils zwei Stufen dieser Fertigkeit erhöhen den Kampfbeginnsvorteil um 1. (Trupp-Fertigkeit)
+skl_tracking|Spurensuche
+skl_tracking_desc|Spuren werden informativer. (Trupp-Fertigkeit)
+skl_trainer|Ausbilder
+skl_trainer_desc|Jeden Tag verleiht jeder Held mit dieser Fertigkeit jedem anderen Truppmitglied mit geringerer Stufe ein bisschen Erfahrung. Die Erfahrung wächst wie folgt : {0,4,10,16,23,30,38,46,55,65,80}. (Persönliche Fertigkeit)
+skl_reserved_5|Reservierte Fertigkeit 5
+skl_reserved_5_desc|Dies ist eine reservierte Fertigkeit.
+skl_reserved_6|Reservierte Fertigkeit 6
+skl_reserved_6_desc|Dies ist eine reservierte Fertigkeit.
+skl_reserved_7|Reservierte Fertigkeit 7
+skl_reserved_7_desc|Dies ist eine reservierte Fertigkeit.
+skl_reserved_8|Reservierte Fertigkeit 8
+skl_reserved_8_desc|Dies ist eine reservierte Fertigkeit.
+skl_looting|Plündern
+skl_looting_desc|Diese Fertigkeit erhöht die Menge des erhaltenen Plünderguts um 10%% pro Fertigkeitsstufe. (Trupp-Fertigkeit)
+skl_horse_archery|Berittenes Bogenschießen
+skl_horse_archery_desc|Reduziert Schadens- und Genauigkeitsabzüge für Bogenschießen und Stürze vom Pferd. (Persönliche Fertigkeit)
+skl_riding|Reiten
+skl_riding_desc|Erlaubt Euch, Pferde höherer Schwierigkeitsstufen zu reiten und erhöht Eure Reitgeschwindigkeit und Manövrierfähigkeit. (Persönliche Fertigkeit)
+skl_athletics|Athletik
+skl_athletics_desc|Erhöht Eure Laufgeschwindigkeit. (Persönliche Fertigkeit)
+skl_shield|Schild
+skl_shield_desc|Reduziert den Schaden an Schilden (um 8%% pro Fertigkeitsstufe) und verbessert die Schildgeschwindigkeit und Deckfläche. (Persönliche Fertigkeit)
+skl_weapon_master|Waffenmeister
+skl_weapon_master_desc|Erhöht die Grenzen der Waffenfertigkeiten. Die Beschränkungen sehen wie folgt aus: 60, 100, 140, 180, 220, 260, 300, 340, 380, 420. (Persönliche Fertigkeit)
+skl_reserved_9|Reservierte Fertigkeit 9
+skl_reserved_9_desc|Dies ist eine reservierte Fertigkeit.
+skl_reserved_10|Reservierte Fertigkeit 10
+skl_reserved_10_desc|Dies ist eine reservierte Fertigkeit.
+skl_reserved_11|Reservierte Fertigkeit 11
+skl_reserved_11_desc|Dies ist eine reservierte Fertigkeit.
+skl_reserved_12|Reservierte Fertigkeit 12
+skl_reserved_12_desc|Dies ist eine reservierte Fertigkeit.
+skl_reserved_13|Reservierte Fertigkeit 13
+skl_reserved_13_desc|Dies ist eine reservierte Fertigkeit.
+skl_power_draw|Bogenzugkraft
+skl_power_draw_desc|Lässt die Figur stärkere Bögen benutzen. Jeder zusätzliche Punkt dieser Fertigkeit (bis zu vier plus Spannwert-Anforderung für den Bogen) erhöht den vom Bogen angerichteten Schaden um 12%%. (Persönliche Fertigkeit)
+skl_power_throw|Wurfkraft
+skl_power_throw_desc|Jeder zusätzliche Punkt dieser Fertigkeit erhöht den Wurfschaden um 10%%. (Persönliche Fertigkeit)
+skl_power_strike|Schlagkraft
+skl_power_strike_desc|Jeder zusätzliche Punkt dieser Fertigkeit erhöht den Nahkampfschaden um 8%%. (Persönliche Fertigkeit)
+skl_ironflesh|Eisenschwarte
+skl_ironflesh_desc|Jeder zusätzliche Punkt dieser Fertigkeit erhöht Trefferpunkte um +2. (Persönliche Fertigkeit)
+skl_reserved_14|Reservierte Fertigkeit 14
+skl_reserved_14_desc|Dies ist eine reservierte Fertigkeit.
+skl_reserved_15|Reservierte Fertigkeit 15
+skl_reserved_15_desc|Dies ist eine reservierte Fertigkeit.
+skl_reserved_16|Reservierte Fertigkeit 16
+skl_reserved_16_desc|Dies ist eine reservierte Fertigkeit.
+skl_reserved_17|Reservierte Fertigkeit 17
+skl_reserved_17_desc|Dies ist eine reservierte Fertigkeit.
+skl_reserved_18|Reservierte Fertigkeit 18
+skl_reserved_18_desc|Dies ist eine reservierte Fertigkeit.

@@ -1,0 +1,9 @@
+WSE Loader by cmpxchg8b, K700, AgentSmith (Build date: Apr 11 2019 21:01:59)
+OS version: 6.1.7601 SP 1.0
+Command line:
+WSE path: D:\Games\Mount&Blade Warband\Modules\Warsword Conquest Current Diplomacy\WSE\
+Game executable origin: registry
+Game executable path: D:\Games\Mount&Blade Warband\mb_warband.exe
+Game executable checksum: 2BFDC11C
+You are running an unsupported version of Warband (WSE only supports version 1.174).
+Please update or download the full game from https://www.taleworlds.com/en/Games/Warband/Download.
