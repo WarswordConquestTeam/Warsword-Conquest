@@ -2999,7 +2999,7 @@ itemsfile version 3
  40
 0
 
- itm_blood_lance Blood_Lance Blood_Lance 1  great_lance3 0  3359965188 9007199456067840 407 8202 2.750000 100 0 0 0 10 0 73 0 225 0 282 512
+ itm_blood_lance Blood_Lance Blood_Lance 1  great_lance3 0  3359965188 27021597965549824 407 8202 2.750000 100 0 0 0 10 0 73 0 225 0 282 512
  1
  43
 0
@@ -3983,9 +3983,9 @@ itemsfile version 3
  0
 0
 
- itm_javelin Javelins Javelins 2  javelin 0  javelins_quiver_new 3458764513820540928  541130762 36507484160 300 4398046781448 4.000000 100 0 0 0 1 0 91 25 75 10 290 0
+ itm_javelin Javelins Javelins 2  javelin 0  javelins_quiver_new 3458764513820540928  541130762 36507484160 300 4398046782464 4.000000 100 0 0 0 1 0 91 25 75 10 290 0
  3
- 31 41 33
+ 31 33 41
 0
 
  itm_javelin_melee Javelin Javelin 1  javelin 0  2251799818141700 4222124851990272 300 8202 1.000000 100 0 0 0 0 12288 95 0 75 0 270 12
@@ -4183,7 +4183,7 @@ itemsfile version 3
  29 44
 0
 
- itm_elven_warbow Asrai_War_Bow Asrai_War_Bow 2  war_bow 0  war_bow_carry 3458764513820540928  6357000 5905584128 1250 655370 1.750000 100 0 0 0 4 0 85 60 0 0 283 0
+ itm_elven_warbow Asrai_War_Bow Asrai_War_Bow 2  war_bow 0  war_bow_carry 3458764513820540928  6357000 5905584128 1250 655370 1.750000 100 0 0 0 4 0 85 60 0 0 284 0
  2
  29 44
 0
@@ -4286,7 +4286,7 @@ itemsfile version 3
  38
 0
 
- itm_darkelf_crossbow2 Dark_Elf_Repeater_Crossbow Dark_Elf_Repeater_Crossbow 1  NPC_DE_Crossbow_02 0  6357001 5637160960 620 131082 3.000000 120 0 0 0 0 0 28 55 0 3 321 0
+ itm_darkelf_crossbow2 Dark_Elf_Repeater_Crossbow Dark_Elf_Repeater_Crossbow 1  NPC_DE_Crossbow_02 0  6357001 5637160960 620 131082 3.000000 120 0 0 0 0 0 28 55 0 3 326 0
  1
  38
 0
@@ -14025,7 +14025,7 @@ itemsfile version 3
  32
 0
 
- itm_tomb_axe Tomb_Axe Tomb_Axe 1  NPC_TK_Axe_2H_01 0  73728003 9223635923965575392 750 262164 4.500000 100 0 0 0 12 48128 89 0 120 0 256 47
+ itm_tomb_axe Tomb_Axe Tomb_Axe 1  NPC_TK_Axe_2H_01 0  2251799887413251 9223635923965575392 750 262160 4.500000 100 0 0 0 12 48128 89 0 120 0 256 47
  1
  32
 0
@@ -14048,37 +14048,37 @@ itemsfile version 3
  0
 0
 
- itm_tomb_axe4 Mummy_King_Axe Mummy_King_Axe 1  NPC_TK_Axe_2H_03 0  73728003 9223635923965575392 800 262164 4.750000 100 0 0 0 13 53248 87 0 140 0 256 52
+ itm_tomb_axe4 Mummy_King_Axe Mummy_King_Axe 1  NPC_TK_Axe_2H_03 0  2251799887413251 9223635923965575392 800 262164 4.750000 100 0 0 0 13 53248 87 0 140 0 256 52
  1
  32
 0
 
- itm_tomb_halberd Tomb_Halberd Tomb_Halberd 1  TK_Halberd_02 0  342163460 6375342848 1415 8202 5.000000 100 0 0 0 14 50176 80 0 175 0 275 49
+ itm_tomb_halberd Tomb_Halberd Tomb_Halberd 1  TK_Halberd_02 0  2251800155848708 6375345920 1415 139264 5.000000 100 0 0 0 14 50176 80 0 175 0 275 49
  1
  32
 0
 
- itm_tomb_spear Tomb_Spear Tomb_Spear 1  NPC_TK_Spear_01 0  2251801026166788 4222131026005760 380 8202 3.500000 120 0 0 0 0 20480 93 0 203 0 291 20
+ itm_tomb_spear Tomb_Spear Tomb_Spear 1  NPC_TK_Spear_01 0  2251800891949060 31243728790228224 380 9216 3.500000 120 0 0 0 0 20480 93 0 203 0 291 20
  1
  32
 0
 
- itm_tomb_spear2 Tomb_Spear Tomb_Spear 1  NPC_TK_Spear_02 0  2251801026166788 4222131026005760 380 8202 3.500000 120 0 0 0 0 20480 93 0 203 0 291 20
+ itm_tomb_spear2 Tomb_Spear Tomb_Spear 1  NPC_TK_Spear_02 0  2251800891949060 31243728790228224 380 9216 3.500000 120 0 0 0 0 20480 93 0 203 0 291 20
  1
  32
 0
 
- itm_tomb_spear3 Tomb_Spear Tomb_Spear 1  NPC_TK_Spear_03 0  2251801026166788 4222131026005760 380 8202 3.500000 120 0 0 0 0 20480 93 0 203 0 291 20
+ itm_tomb_spear3 Tomb_Spear Tomb_Spear 1  NPC_TK_Spear_03 0  2251800891949060 31243728790228224 380 9216 3.500000 120 0 0 0 0 20480 93 0 203 0 291 20
  1
  32
 0
 
- itm_house_axe Sylvanian_Poleaxe Sylvanian_Poleaxe 1  mortis_axe_1 0  1080360964 201327360 274 8202 4.500000 100 0 0 0 13 45056 78 0 180 0 531 44
+ itm_house_axe Sylvanian_Poleaxe Sylvanian_Poleaxe 1  mortis_axe_1 0  2251800894046212 201330432 274 9224 4.500000 100 0 0 0 13 45056 78 0 180 0 531 44
  1
  43
 0
 
- itm_house_axe2 Sylvanian_Poleaxe Sylvanian_Poleaxe 1  vampire_axe 0  1080360964 201327360 315 8202 4.500000 100 0 0 0 13 47104 81 0 170 0 531 46
+ itm_house_axe2 Sylvanian_Poleaxe Sylvanian_Poleaxe 1  vampire_axe 0  2251800894046212 201330432 315 9216 4.500000 100 0 0 0 13 47104 81 0 170 0 531 46
  1
  43
 0
@@ -14325,7 +14325,7 @@ itemsfile version 3
 1
 -50.000000  9 527 3 1224979098644774912 288230376151714796 126 4 0 31 2 1224979098644774912 1 1955 3 0 55 0 1965 1 1008806316530991189 1965 1 1008806316530991147 1950 3 255 178 51 1960 2 10 30 3 0 
 
- itm_gotrek_runic_axe Gotrek's_Runic_Axe Gotrek's_Runic_Axe 1  gotrek_axe 0  73666563 9223635923965575392 500 262164 4.500000 100 0 0 0 32 6144 99 0 100 0 256 70
+ itm_gotrek_runic_axe Gotrek's_Runic_Axe Gotrek's_Runic_Axe 1  gotrek_axe 0  4368633859 9223635923965575392 500 0 4.500000 100 0 0 0 32 6144 99 0 100 0 256 70
  0
 0
 
@@ -14422,7 +14422,7 @@ itemsfile version 3
  0
 0
 
- itm_orcaxe4 Mighty_Cleava Mighty_Cleava 1  GS_Axe_2H_TE_02 0  73728003 9223635923965575392 821 262164 5.000000 100 0 0 0 13 53248 85 0 145 0 256 52
+ itm_orcaxe4 Mighty_Cleava Mighty_Cleava 1  GS_Axe_2H_TE_02 0  2251799887413252 9223635923965575392 821 401424 5.000000 100 0 0 0 13 53248 85 0 145 0 256 52
  1
  36
 0
@@ -14432,17 +14432,17 @@ itemsfile version 3
  36
 0
 
- itm_orc_spear Orc_Stabba Orc_Stabba 1  GS_Spear_TE_02 0  9007200467222532 4222131026005760 180 8202 2.750000 120 0 0 0 0 23552 90 0 190 0 285 23
+ itm_orc_spear Orc_Stabba Orc_Stabba 1  GS_Spear_TE_02 0  2251800891949060 31243728790228224 180 9224 2.750000 120 0 0 0 0 23552 90 0 190 0 285 23
  1
  36
 0
 
- itm_orc_spear2 Orc_Stabba Orc_Stabba 1  GS_Spear_TE_01 0  9007200467222532 4222131026005760 220 8202 2.750000 120 0 0 0 0 25600 89 0 198 0 289 25
+ itm_orc_spear2 Orc_Stabba Orc_Stabba 1  GS_Spear_TE_01 0  2251800891949060 4222131026005760 220 9224 2.750000 120 0 0 0 0 25600 89 0 198 0 289 25
  1
  36
 0
 
- itm_orc_spear3 Orc_Stabba Orc_Stabba 1  GS_Spear_2H_T3_01 0  9007200467222532 4222131026005760 220 8202 2.750000 120 0 0 0 0 18432 89 0 208 0 293 18
+ itm_orc_spear3 Orc_Stabba Orc_Stabba 1  GS_Spear_2H_T3_01 0  2251800891949060 4222131026005760 220 8200 2.750000 120 0 0 0 0 18432 89 0 208 0 293 18
  1
  36
 0
@@ -14536,7 +14536,7 @@ itemsfile version 3
  41
 0
 
- itm_beastmen_spear Beastman_Spear Beastman_Spear 1  orc_simple_spear 0  2251799952424964 4222131026005760 76 8202 1.500000 100 0 0 0 0 18432 90 0 152 0 284 18
+ itm_beastmen_spear Beastman_Spear Beastman_Spear 1  orc_simple_spear 0  2251799818207236 13229330280746752 76 8202 1.500000 100 0 0 0 0 18432 90 0 152 0 284 18
  1
  41
 0
@@ -14775,12 +14775,12 @@ itemsfile version 3
  31
 0
 
- itm_marauder_war_spear War_Spear War_Spear 1  SpearC_ERaider_A 0  9007200332939268 4222131026005760 200 8202 2.500000 100 0 0 0 0 20480 95 0 182 0 290 532
+ itm_marauder_war_spear War_Spear War_Spear 1  SpearC_ERaider_A 0  2251800891883524 4222131026005760 200 8202 2.500000 100 0 0 0 0 20480 95 0 182 0 290 532
  1
  31
 0
 
- itm_trident Chaos_Trident Chaos_Trident 1  SpearC_trident 0  2251800891949060 4222131026005760 320 8202 2.250000 100 0 0 0 0 20480 97 0 175 0 294 532
+ itm_trident Chaos_Trident Chaos_Trident 1  SpearC_trident 0  2251800891949060 31243728790228224 320 8202 2.250000 100 0 0 0 0 20480 97 0 175 0 294 532
  1
  31
 0
@@ -14886,7 +14886,7 @@ itemsfile version 3
  31
 0
 
- itm_thrud_axe Thrud_Axe Thrud_Axe 1  thrud_axe 0  34433400835 9223635923965575392 2560 262164 5.500000 100 0 0 0 40 61440 86 0 130 0 256 60
+ itm_thrud_axe Thrud_Axe Thrud_Axe 1  thrud_axe 0  38728368131 9223635923965575392 2560 0 5.500000 100 0 0 0 40 61440 86 0 130 0 256 60
  0
 0
 
@@ -14940,32 +14940,32 @@ itemsfile version 3
  31
 0
 
- itm_crusher_halberd1 Chaos_Heavy_Halberd Chaos_Heavy_Halberd 1  GreatHalberd_Crusher_A_01 0  342163460 6375342848 1655 8202 6.500000 100 0 0 0 14 48128 76 0 250 0 266 47
+ itm_crusher_halberd1 Chaos_Heavy_Halberd Chaos_Heavy_Halberd 1  GreatHalberd_Crusher_A_01 0  2251800155848708 6375345920 1655 139272 6.500000 100 0 0 0 14 48128 76 0 250 0 276 47
  1
  31
 0
 
- itm_crusher_halberd2 Chaos_Heavy_Halberd Chaos_Heavy_Halberd 1  Greatmace_Elite_Crusher_B_01 0  342163460 6375342848 1655 8202 7.500000 100 0 0 0 18 39936 74 0 210 0 266 295
+ itm_crusher_halberd2 Chaos_Heavy_Halberd Chaos_Heavy_Halberd 1  Greatmace_Elite_Crusher_B_01 0  2251800155848708 6375345920 1655 139272 7.500000 100 0 0 0 18 39936 74 0 210 0 276 295
  1
  31
 0
 
- itm_crusher_halberd3 Chaos_Heavy_Halberd Chaos_Heavy_Halberd 1  Scythe_Crusher_A_01 0  342163460 6375342848 1655 8202 7.000000 100 0 0 0 16 44032 73 0 190 0 266 43
+ itm_crusher_halberd3 Chaos_Heavy_Halberd Chaos_Heavy_Halberd 1  Scythe_Crusher_A_01 0  2251800155848708 6375345920 1655 8202 7.000000 100 0 0 0 16 44032 73 0 190 0 271 43
  1
  31
 0
 
- itm_pit_mace Pit_Mace Pit_Mace 1  BigMace_Crusher_A_01 0  342163460 4222131026005760 1655 8202 7.250000 100 0 0 0 15 37888 76 0 190 0 271 293
+ itm_pit_mace Pit_Mace Pit_Mace 1  BigMace_Crusher_A_01 0  2251800155848708 4222131026005760 1655 8192 7.250000 100 0 0 0 15 37888 76 0 190 0 271 549
  1
  31
 0
 
- itm_chaos_lance Chaos_Lance Chaos_Lance 1  GreatNaginata_Elite_Crusher_B_01 0  2251803173650436 9254615759470988544 660 8202 2.750000 100 0 0 0 10 25600 75 0 210 0 286 25
+ itm_chaos_lance Chaos_Lance Chaos_Lance 1  GreatNaginata_Elite_Crusher_B_01 0  2251803039432708 9236601360961507072 660 8202 2.750000 100 0 0 0 10 25600 75 0 210 0 286 30
  1
  31
 0
 
- itm_chaos_heavy_lance Chaos_Heavy_Lance Chaos_Heavy_Lance 1  Naginata_Elite_Crusher_B_01 0  2251803173650436 9254615759470988544 860 8202 2.750000 100 0 0 0 10 20480 72 0 215 0 291 20
+ itm_chaos_heavy_lance Chaos_Heavy_Lance Chaos_Heavy_Lance 1  Naginata_Elite_Crusher_B_01 0  2251803039432708 9254615759470988544 860 8202 2.750000 100 0 0 0 10 20480 72 0 215 0 291 35
  1
  31
 0
@@ -15199,7 +15199,7 @@ itemsfile version 3
  29
 0
 
- itm_sunfang Sunfang Sunfang 1  new_HighElvetwohander 0  4198403 9223635919670608127 870 155668 2.500000 100 0 0 0 11 39936 98 0 115 0 285 39
+ itm_sunfang Sunfang Sunfang 1  new_HighElvetwohander 0  4198403 9223635919670608127 870 131072 2.500000 100 0 0 0 11 39936 98 0 115 0 285 45
  0
 1
 -50.000000  5 1955 3 0 80 0 1965 1 1008806316530991189 1965 1 1008806316530991147 1950 3 255 178 51 1960 2 10 30 
@@ -15234,7 +15234,7 @@ itemsfile version 3
  29
 0
 
- itm_elf_poleaxe Phoenix_Poleaxe Phoenix_Poleaxe 1  HE_phoenixguard_halberd 0  1080360964 9254615759470988544 784 8202 6.500000 100 0 0 0 13 38912 86 0 190 0 281 38
+ itm_elf_poleaxe Phoenix_Poleaxe Phoenix_Poleaxe 1  HE_phoenixguard_halberd 0  2251800894046212 4222124851990272 784 140296 4.500000 100 0 0 0 13 38912 90 0 190 0 281 42
  1
  29
 0
@@ -15244,7 +15244,7 @@ itemsfile version 3
  29
 0
 
- itm_caradryn Phoenix_Blade Phoenix_Blade 1  elfpole_ax 0  1080299524 4222124851990272 784 8202 6.500000 100 0 0 0 13 61440 86 0 190 0 281 60
+ itm_caradryn Phoenix_Blade Phoenix_Blade 1  elfpole_ax 0  2251800893984772 4222124851990272 784 0 6.500000 100 0 0 0 13 61440 86 0 190 0 281 60
  1
  29
 0
@@ -15274,27 +15274,27 @@ itemsfile version 3
  29
 0
 
- itm_elven_dagger Elven_Dagger Elven_Dagger 1  WELF_weapon_Dagger_T1 0  12664834 9223372037685248015 35 155668 0.750000 100 0 0 0 0 22528 112 0 60 0 276 22
+ itm_elven_dagger Makaira Makaira 1  WELF_weapon_Dagger_T1 0  12648450 9223388530359664655 90 155664 0.750000 100 0 0 0 0 22528 112 0 60 0 278 24
  1
  44
 0
 
- itm_elven_dagger2 Elven_Dagger Elven_Dagger 1  WELF_weapon_Dagger_T2 0  12664834 9223372037685248015 45 155668 0.750000 100 0 0 0 0 22528 113 0 60 0 278 22
+ itm_elven_dagger2 Glade_Makaira Glade_Makaira 1  WELF_weapon_Dagger_T2 0  12648450 9223388530359664655 150 155668 0.750000 100 0 0 0 0 22528 113 0 60 0 281 28
  1
  44
 0
 
- itm_elven_dagger3 Elven_Dagger Elven_Dagger 1  WELF_weapon_Dagger_T3 0  12664834 9223372037685248015 84 155668 0.750000 100 0 0 0 0 25600 115 0 60 0 281 25
+ itm_elven_dagger3 Aspect_Makaira Aspect_Makaira 1  WELF_weapon_Dagger_T3 0  12648450 9223388530359664655 200 155664 0.750000 100 0 0 0 0 25600 115 0 60 0 284 32
  1
  44
 0
 
- itm_elven_spear Elven_Spear Elven_Spear 1  WELF_weapon_Spear_T1 0  9007199259262980 9254615765645004032 140 8202 2.500000 100 0 0 0 0 20480 96 0 150 0 286 532
+ itm_elven_spear Elven_Spear Elven_Spear 1  WELF_weapon_Spear_T1 0  2251799818207236 9254615765645004032 140 8202 2.500000 100 0 0 0 0 20480 96 0 150 0 286 532
  1
  44
 0
 
- itm_elven_spear2 Elven_Spear Elven_Spear 1  WELF_weapon_Spear_T2 0  9007199259262980 9254615765645004032 220 8202 2.500000 100 0 0 0 0 20480 96 0 150 0 289 532
+ itm_elven_spear2 Elven_Spear Elven_Spear 1  WELF_weapon_Spear_T2 0  2251799818207236 9254615765645004032 220 8200 2.500000 100 0 0 0 0 20480 96 0 150 0 289 532
  1
  44
 0
@@ -15339,7 +15339,7 @@ itemsfile version 3
  44
 0
 
- itm_elven_lance Elven_Lance Elven_Lance 1  WELF_weapon_Spear_T3 0  2286223364 9007199456067840 300 8202 4.000000 100 0 0 0 0 0 89 0 150 0 282 512
+ itm_elven_lance Asrai_Lance Asrai_Lance 1  WELF_weapon_Spear_T3 0  2251801965690884 9007199456071424 600 8200 4.000000 100 0 0 0 0 0 89 0 150 0 292 542
  1
  44
 0
@@ -15374,7 +15374,7 @@ itemsfile version 3
  44
 0
 
- itm_glade_lance Glade_Lance Glade_Lance 1  WELF_weapon_Spear_T3 0  2152005636 9254615759470985472 350 8202 2.500000 100 0 0 0 10 20480 93 0 150 0 285 532
+ itm_glade_lance Glade_Lance Glade_Lance 1  WELF_weapon_Spear_T3 0  2251801965690884 9254615759470988544 450 8200 2.500000 100 0 0 0 10 20480 93 0 150 0 291 532
  1
  44
 0
@@ -15448,17 +15448,17 @@ itemsfile version 3
  42
 0
 
- itm_gekokujo_fukuro_yari_3 Samurai_Lance Samurai_Lance 1  gekokujo_fukuro_yari_3 0  3359965188 4222131026002176 210 8202 2.500000 100 0 0 0 0 19456 80 0 210 0 280 531
+ itm_gekokujo_fukuro_yari_3 Samurai_Lance Samurai_Lance 1  gekokujo_fukuro_yari_3 0  3359965188 31243728790225152 210 8200 2.500000 100 0 0 0 0 19456 80 0 210 0 281 532
  1
  42
 0
 
- itm_gekokujo_yari_3 Samurai_Yari Samurai_Yari 1  gekokujo_su_yari_3 0  3359965188 4222131026005760 580 8202 2.750000 90 0 0 0 8 20480 77 0 235 0 283 532
+ itm_gekokujo_yari_3 Samurai_Yari Samurai_Yari 1  gekokujo_su_yari_3 0  3359965188 13229330280746240 580 8200 2.750000 90 0 0 0 8 20480 77 0 235 0 285 532
  1
  42
 0
 
- itm_gekokujo_katakama_yari_1 Great_Guard_Yari Great_Guard_Yari 1  gekokujo_katakama_yari_1 0  3359965188 13229330280746752 700 8202 2.500000 90 0 0 0 0 22528 85 0 210 0 286 534
+ itm_gekokujo_katakama_yari_1 Great_Guard_Yari Great_Guard_Yari 1  gekokujo_katakama_yari_1 0  3225747460 4222131026005760 700 139272 2.500000 90 0 0 0 0 22528 85 0 210 0 286 294
  1
  42
 0
@@ -15468,7 +15468,7 @@ itemsfile version 3
  42
 0
 
- itm_gekokujo_ninjato_1 Ninjato Ninjato 2  gekokujo_ninjato_1 0  gekokujo_ninjato_1_scabbard 3458764513820540928  4259842 9223388568477499407 382 155668 1.500000 90 0 0 0 0 23552 120 0 50 0 276 23
+ itm_gekokujo_ninjato_1 Ninjato Ninjato 2  gekokujo_ninjato_1 0  gekokujo_ninjato_1_scabbard 3458764513820540928  4259842 9223388568477499407 382 155648 1.500000 90 0 0 0 0 23552 120 0 50 0 276 23
  1
  42
 0
@@ -15688,32 +15688,32 @@ itemsfile version 3
  27
 0
 
- itm_empire_halberd1 Empire_Heavy_Halberd Empire_Heavy_Halberd 1  Halberd_Heavy_D_01 0  342163460 6375342848 605 8202 3.250000 100 0 0 0 8 40960 86 0 160 0 276 40
+ itm_empire_halberd1 Empire_Heavy_Halberd Empire_Heavy_Halberd 1  Halberd_Heavy_D_01 0  342163460 6375345920 605 139272 3.250000 100 0 0 0 8 40960 86 0 160 0 281 40
  1
  27
 0
 
- itm_empire_halberd2 Empire_Heavy_Halberd Empire_Heavy_Halberd 1  Halberd_Heavy_B_01 0  342163460 6375342848 655 8202 3.000000 100 0 0 0 8 40960 87 0 160 0 276 40
+ itm_empire_halberd2 Empire_Heavy_Halberd Empire_Heavy_Halberd 1  Halberd_Heavy_B_01 0  342163460 6375345920 655 8202 3.000000 100 0 0 0 8 40960 87 0 160 0 281 40
  1
  27
 0
 
- itm_empire_halberd3 Empire_Heavy_Halberd Empire_Heavy_Halberd 1  Halberd_Light_D_01 0  342163460 6375342848 655 8202 3.000000 100 0 0 0 8 40960 87 0 160 0 276 40
+ itm_empire_halberd3 Empire_Heavy_Halberd Empire_Heavy_Halberd 1  Halberd_Light_D_01 0  342163460 6375345920 655 140288 3.000000 100 0 0 0 8 40960 87 0 160 0 281 40
  1
  27
 0
 
- itm_helhunten_halberd Helhunten_Halberd Helhunten_Halberd 1  helhunten_halberd 0  342163460 6375342848 745 8202 3.250000 100 0 0 0 9 44032 85 0 180 0 276 43
+ itm_helhunten_halberd Helhunten_Halberd Helhunten_Halberd 1  helhunten_halberd 0  342163460 6375345920 745 8202 3.250000 100 0 0 0 9 44032 85 0 180 0 276 43
  1
  27
 0
 
- itm_empire_boar_spear_1 Imperial_Spear Imperial_Spear 1  Spear_Light_B_01 0  2251799952424964 4222131026005760 76 8202 2.000000 100 0 0 0 0 16384 93 0 178 0 283 528
+ itm_empire_boar_spear_1 Imperial_Spear Imperial_Spear 1  Spear_Light_B_01 0  2251799818207236 31243728790228224 76 8200 2.000000 100 0 0 0 0 16384 93 0 178 0 286 532
  1
  27
 0
 
- itm_empire_boar_spear_2 Imperial_Spear Imperial_Spear 1  Spear_Light_A_01 0  2251799952424964 4222131026005760 76 8202 2.000000 100 0 0 0 0 16384 93 0 170 0 283 528
+ itm_empire_boar_spear_2 Imperial_Spear Imperial_Spear 1  Spear_Light_A_01 0  2251799818207236 31243728790228224 76 8200 2.000000 100 0 0 0 0 16384 93 0 170 0 286 532
  1
  27
 0
@@ -15766,12 +15766,12 @@ itemsfile version 3
  42
 0
 
- itm_yari Ashigaru_Yari Ashigaru_Yari 1  gekokujo_su_yari_6 0  1212481540 4222131026005760 350 8202 2.500000 80 0 0 0 0 20480 90 0 170 0 286 532
+ itm_yari Ashigaru_Yari Ashigaru_Yari 1  gekokujo_su_yari_6 0  1078263812 13229330280746240 350 8200 2.500000 80 0 0 0 0 20480 90 0 170 0 286 532
  1
  42
 0
 
- itm_gunso_yari Gunso_Yari Gunso_Yari 1  gekokujo_omi_yari_1 0  1212481540 4222131026005760 550 8202 3.000000 80 0 0 0 9 36864 75 0 282 0 284 36
+ itm_gunso_yari Gunso_Yari Gunso_Yari 1  gekokujo_omi_yari_1 0  1078263812 31243728790228224 550 8200 3.000000 80 0 0 0 9 36864 75 0 282 0 284 36
  1
  42
 0
@@ -15816,17 +15816,17 @@ itemsfile version 3
  0
 0
 
- itm_darkelf_poleaxe Dark_Elf_Poleaxe Dark_Elf_Poleaxe 1  WAoRStaffE 0  1080360964 4222131026005760 650 8202 4.500000 120 0 0 0 0 40960 85 0 170 0 276 40
+ itm_darkelf_poleaxe Dark_Elf_Poleaxe Dark_Elf_Poleaxe 1  WAoRStaffE 0  1080360964 4222131026005760 650 8202 4.500000 120 0 0 0 0 40960 92 0 170 0 276 40
  1
  38
 0
 
- itm_darkelf_poleaxe2 _Dark_Elf_Poleaxe _Dark_Elf_Poleaxe 1  DE_Glaive_TE_02 0  1080360964 4222124851990272 484 8202 4.500000 100 0 0 0 13 48128 85 0 170 0 281 47
+ itm_darkelf_poleaxe2 _Dark_Elf_Poleaxe _Dark_Elf_Poleaxe 1  DE_Glaive_TE_02 0  1080360964 4222124851990272 484 8202 4.500000 100 0 0 0 13 48128 89 0 170 0 281 47
  1
  38
 0
 
- itm_darkelf_lance Dark_Elf_Lance Dark_Elf_Lance 1  WAoRStaffB 0  2286223364 9007199456067840 410 8202 5.000000 100 0 0 0 11 0 55 0 240 0 277 0
+ itm_darkelf_lance Dark_Elf_Lance Dark_Elf_Lance 1  WAoRStaffB 0  2251801965690884 9007199456067840 410 8202 5.000000 100 0 0 0 11 0 75 0 240 0 277 0
  1
  38
 0
@@ -15841,17 +15841,17 @@ itemsfile version 3
  38
 0
 
- itm_darkelf_spear Dark_Elf_Spear Dark_Elf_Spear 1  WAoRStaffC 0  1212481540 4222131026005760 185 8202 2.500000 100 0 0 0 0 21504 90 0 170 0 284 21
+ itm_darkelf_spear Dark_Elf_Spear Dark_Elf_Spear 1  WAoRStaffC 0  2251800891949060 31243728790228224 185 139272 2.500000 100 0 0 0 0 21504 95 0 170 0 288 24
  1
  38
 0
 
- itm_darkelf_spear2 Dark_Elf_Glaive Dark_Elf_Glaive 1  DE_Glaive_T1_02 0  1212481540 4222131026005760 385 8202 3.500000 100 0 0 0 0 37888 87 0 163 0 276 37
+ itm_darkelf_spear2 Dark_Elf_Glaive Dark_Elf_Glaive 1  DE_Glaive_T1_02 0  1212481540 4222131026005760 385 8202 3.500000 100 0 0 0 0 37888 91 0 163 0 280 37
  1
  38
 0
 
- itm_darkelf_spear3 Dark_Elf_Glaive Dark_Elf_Glaive 1  DE_Glaive_TE_01 0  1212481540 4222131026005760 385 8202 3.500000 100 0 0 0 0 37888 87 0 175 0 276 37
+ itm_darkelf_spear3 Dark_Elf_Glaive Dark_Elf_Glaive 1  DE_Glaive_TE_01 0  1212481540 4222131026005760 385 8202 3.500000 100 0 0 0 0 37888 89 0 175 0 280 39
  1
  38
 0
@@ -15876,12 +15876,12 @@ itemsfile version 3
  38
 0
 
- itm_darkelf_flamberge Executioner_Sword Executioner_Sword 1  DE_sword_2H_01 0  6356995 9223635924301119728 1310 155668 2.750000 120 0 0 0 10 43008 93 0 125 0 266 42
+ itm_darkelf_flamberge Executioner_Sword Executioner_Sword 1  DE_sword_2H_01 0  6356995 9223635924301119728 1310 155668 2.750000 120 0 0 0 10 43008 93 0 125 0 276 42
  1
  38
 0
 
- itm_dark_coldsword Dark_Elf_Bastard_Sword Dark_Elf_Bastard_Sword 1  DE_Sword_T3_02 0  4259843 9223635924234010879 594 155668 2.000000 100 0 0 0 9 38912 98 0 110 0 282 38
+ itm_dark_coldsword Dark_Elf_Bastard_Sword Dark_Elf_Bastard_Sword 1  DE_Sword_T3_02 0  4259843 9223635924234010879 594 155668 2.000000 100 0 0 0 9 38912 100 0 110 0 282 38
  1
  38
 0
@@ -15891,7 +15891,7 @@ itemsfile version 3
  38
 0
 
- itm_darkelf_two_handed Dread_Sword Dread_Sword 1  DE_Sword_T3_02 0  6356995 9223635924234010879 850 155668 2.250000 100 0 0 0 10 40960 97 0 110 0 266 40
+ itm_darkelf_two_handed Dread_Sword Dread_Sword 1  DE_Sword_T3_02 0  6356995 9223635924234010879 850 155668 2.250000 100 0 0 0 10 40960 97 0 110 0 276 40
  1
  38
 0
@@ -15906,7 +15906,7 @@ itemsfile version 3
  38
 0
 
- itm_malekith_two_handed Destroyer Destroyer 1  DE_Sword_T4_03 0  4198402 9223388534117761039 2500 155668 2.500000 100 0 0 0 10 51200 99 0 114 0 286 50
+ itm_malekith_two_handed Destroyer Destroyer 1  DE_Sword_T4_03 0  4198402 9223388534117761039 2500 155668 2.500000 100 0 0 0 10 51200 110 0 114 0 286 50
  1
  38
 0
@@ -16069,7 +16069,7 @@ itemsfile version 3
  35
 0
 
- itm_araby_spear Arabian_Spear Arabian_Spear 1  saracin_spears_a 0  2251801026166788 4222131026005760 80 8202 2.750000 100 0 0 0 0 15360 92 0 175 0 279 527
+ itm_araby_spear Arabian_Spear Arabian_Spear 1  saracin_spears_a 0  2251800891949060 31243728790228224 80 8200 2.750000 100 0 0 0 0 15360 92 0 175 0 286 527
  1
  35
 0
@@ -16246,7 +16246,7 @@ itemsfile version 3
  0
 0
 
- itm_dragons_claw Dragon_Tooth_Katana Dragon_Tooth_Katana 2  katanadragon02 0  katanadragon02_scabbard 3458764513820540928  14684163 9223635962888716543 17883 24596 2.000000 60 0 0 0 12 51200 105 0 105 0 274 50
+ itm_dragons_claw Dragon_Tooth_Katana Dragon_Tooth_Katana 2  katanadragon02 0  katanadragon02_scabbard 3458764513820540928  14684163 9223635958593749247 17883 24596 2.000000 60 0 0 0 12 51200 105 0 105 0 274 50
  0
 0
 
@@ -16267,7 +16267,7 @@ itemsfile version 3
  0
 0
 
- itm_deamonsword Deamonsword Deamonsword 1  WAoRSwordA 0  6295555 9223635924301119728 25500 155668 2.500000 100 0 0 0 17 46080 120 0 120 0 286 45
+ itm_deamonsword Deamonsword Deamonsword 1  WAoRSwordA 0  4198403 9223635924234010879 25500 155668 2.500000 100 0 0 0 17 46080 120 0 120 0 286 45
  0
 0
 
@@ -16281,7 +16281,7 @@ itemsfile version 3
  28
 0
 
- itm_runic_blunderbus Runic_blunderbus Runic_blunderbus 1  blunderbus 0  339808273 549756338176 5200 0 10.500000 100 0 0 90 0 0 10 48 0 1 426 0
+ itm_runic_blunderbus Runic_blunderbus Runic_blunderbus 1  blunderbus 0  71372817 549756338176 5200 0 10.500000 100 0 0 90 0 0 10 48 0 1 426 0
  1
  28
 1
@@ -16303,7 +16303,7 @@ itemsfile version 3
  0
 0
 
- itm_destroyer Destroyer_Of_Eternities Destroyer_Of_Eternities 1  tombeternities 0  6295555 9223635924301119728 16500 155668 2.750000 100 0 0 0 15 44032 95 0 132 0 271 43
+ itm_destroyer Destroyer_Of_Eternities Destroyer_Of_Eternities 1  tombeternities 0  4198403 9223635924301119743 16500 155668 2.750000 100 0 0 0 15 44032 95 0 132 0 271 43
  0
 0
 
@@ -16317,7 +16317,7 @@ itemsfile version 3
 1
 -50.000000  5 1955 3 0 100 0 1965 1 1008806316530991189 1965 1 1008806316530991147 1950 3 255 178 51 1960 2 10 30 
 
- itm_weeping_blade Weeping_Blade Weeping_Blade 1  assassinblade 0  4198402 9223388529822793743 37000 155668 2.000000 100 0 0 0 0 40960 110 0 78 0 256 40
+ itm_weeping_blade Weeping_Blade Weeping_Blade 1  assassinblade 0  4198402 9223388529822793742 37000 155668 2.000000 100 0 0 0 0 40960 110 0 78 0 256 40
  1
  39
 0
