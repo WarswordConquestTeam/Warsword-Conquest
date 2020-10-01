@@ -334,13 +334,13 @@
  unequip_pistol_front_left 0 184549446  1
   0.200000 equip_arms 254 250 1 0 0.0 0.0 0.0 0.0 
  equip_katana 0 184549446  1
-  0.800000 anim_human 20030 20045 1 0 0.0 0.0 0.0 0.0 
+  0.600000 defend_right_onehanded 17 27 1 0 0.0 0.0 0.0 0.0 
  unequip_katana 0 184549446  1
-  0.300000 anim_human 20010 20000 1 0 0.0 0.0 0.0 0.0 
+  0.300000 equip_sword 6 0 1 0 0.0 0.0 0.0 0.0 
  equip_wakizashi 0 184549446  1
-  0.800000 anim_human 20030 20045 1 0 0.0 0.0 0.0 0.0 
+  0.800000 equip_arms 253 276 1 0 0.0 0.0 0.0 0.0 
  unequip_wakizashi 0 184549446  1
-  0.300000 anim_human 20010 20000 1 0 0.0 0.0 0.0 0.0 
+  0.200000 equip_arms 254 250 1 0 0.0 0.0 0.0 0.0 
  equip_shield 0 184549446  1
   0.800000 equip_arms 68 84 1 0 0.0 0.0 0.0 0.0 
  unequip_shield 0 184549446  1
@@ -402,7 +402,7 @@
  release_musket 1678770176 572534794  1
   0.200000 anim_human 21330 21331 2 0 0.0 0.0 0.0 0.0 
  reload_musket 0 35651644  1
-  2.000000 anim_human 22650 22860 9 0 0.0 0.0 0.0 0.0 
+  2.500000 musket_reload_new 0 173 9 0 0.0 0.0 0.0 0.0 
  ready_swingright_fist 0 606105610  1
   0.350000 right_swing 0 15 7 0 0.0 0.0 0.0 0.0 
  release_swingright_fist 0 35680266  1

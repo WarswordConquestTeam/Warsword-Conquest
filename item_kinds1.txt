@@ -2367,7 +2367,7 @@ itemsfile version 3
  32
 0
 
- itm_arrows Arrows Arrows 3  arrow 0  arrow_flying 2305843009213693952  quiver 3458764513820540928  65541 2147483648 72 4398046511112 3.000000 160 0 0 0 0 0 0 0 95 30 257 0
+ itm_arrows Arrows Arrows 3  arrow 0  arrow_flying 2305843009213693952  quiver 3458764513820540928  65541 2147483648 160 4398046511112 3.000000 160 0 0 0 0 0 0 0 95 40 257 0
  9
  29 32 34 36 37 40 41 42 44
 0
@@ -2377,7 +2377,7 @@ itemsfile version 3
  35
 0
 
- itm_khergit_arrows Arabian_Janissary_Arrows Arabian_Janissary_Arrows 3  arrow_tyrk_b 0  barbed_arrow_flying 2305843009213693952  kolchan_tyrk_b 3458764513820540928  65541 1610612736 410 4398046511112 3.500000 60 0 0 0 0 0 0 0 95 30 259 0
+ itm_khergit_arrows Arabian_Janissary_Arrows Arabian_Janissary_Arrows 3  arrow_tyrk_b 0  barbed_arrow_flying 2305843009213693952  kolchan_tyrk_b 3458764513820540928  65541 1610612736 500 4398046511112 3.500000 60 0 0 0 0 0 0 0 95 30 261 0
  1
  35
 0
@@ -2387,12 +2387,12 @@ itemsfile version 3
  35
 0
 
- itm_barbed_arrows Barbed_Arrows Barbed_Arrows 3  barbed_arrow 0  barbed_arrow_flying 2305843009213693952  quiver_d 3458764513820540928  65541 1610612736 124 4398046511112 3.000000 70 0 0 0 0 0 0 0 95 30 258 0
+ itm_barbed_arrows Barbed_Arrows Barbed_Arrows 3  barbed_arrow 0  barbed_arrow_flying 2305843009213693952  quiver_d 3458764513820540928  65541 1610612736 170 4398046511112 3.000000 70 0 0 0 0 0 0 0 95 38 258 0
  8
  29 32 34 36 37 40 41 42
 0
 
- itm_bodkin_arrows Bodkin_Arrows Bodkin_Arrows 3  piercing_arrow 0  piercing_arrow_flying 2305843009213693952  quiver_c 3458764513820540928  65541 1610612736 350 4398046511112 3.000000 50 0 0 0 0 0 0 0 91 28 259 0
+ itm_bodkin_arrows Bodkin_Arrows Bodkin_Arrows 3  piercing_arrow 0  piercing_arrow_flying 2305843009213693952  quiver_c 3458764513820540928  65541 1610612736 350 4398046511112 3.000000 50 0 0 0 0 0 0 0 91 34 259 0
  9
  29 32 34 36 37 40 41 42 44
 0
@@ -2406,7 +2406,7 @@ itemsfile version 3
  0
 0
 
- itm_elf_arrows High_Elven_Arrows High_Elven_Arrows 3  new1_arrow 0  arrow_b_flying 2305843009213693952  new1 3458764513820540928  65541 1610612736 124 4398046511112 3.000000 70 0 0 0 0 0 0 0 95 30 258 0
+ itm_elf_arrows High_Elven_Arrows High_Elven_Arrows 3  new1_arrow 0  arrow_b_flying 2305843009213693952  new1 3458764513820540928  65541 1610612736 124 4398046511112 3.000000 70 0 0 0 0 0 0 0 95 32 260 0
  1
  29
 0
@@ -2429,12 +2429,12 @@ itemsfile version 3
 -101.000000  6 1955 3 0 100 0 1965 1 1008806316530991322 1965 1 1008806316530991324 1965 1 1008806316530991325 1950 3 150 130 70 1960 2 10 30 
 -50.000000  6 1955 3 0 100 0 1965 1 1008806316530991322 1965 1 1008806316530991324 1965 1 1008806316530991325 1950 3 150 130 70 1960 2 10 30 
 
- itm_bolts Bolts Bolts 4  bolt 0  bolt_flying 2305843009213693952  bolt_bag 3458764513820540928  bolt_bag_b 3458768911867052032  16842758 1879048192 64 4398046511112 2.250000 90 0 0 0 0 0 0 0 63 29 257 0
+ itm_bolts Bolts Bolts 4  bolt 0  bolt_flying 2305843009213693952  bolt_bag 3458764513820540928  bolt_bag_b 3458768911867052032  16842758 1879048192 200 4398046511112 2.250000 90 0 0 0 0 0 0 0 63 40 257 0
  4
  27 28 38 43
 0
 
- itm_steel_bolts Steel_Bolts Steel_Bolts 3  bolt 0  bolt_flying 2305843009213693952  bolt_bag_c 3458764513820540928  16842758 1879048192 210 4398046511112 2.500000 20 0 0 0 0 0 0 0 63 29 258 0
+ itm_steel_bolts Steel_Bolts Steel_Bolts 3  bolt 0  bolt_flying 2305843009213693952  bolt_bag_c 3458764513820540928  16842758 1879048192 400 4398046511112 2.500000 20 0 0 0 0 0 0 0 63 36 258 0
  4
  27 28 38 43
 0
@@ -2454,7 +2454,7 @@ itemsfile version 3
  33
 0
 
- itm_small_bolts Crossbow_Pistol_Bolts Crossbow_Pistol_Bolts 4  bolt_crossbowpistol 0  flying_missile 2305843009213693952  bolt_bag 3458764513820540928  bolt_bag_b 3458768911867052032  65542 1879048192 64 4398046511112 2.250000 90 0 0 0 0 0 0 0 30 27 257 0
+ itm_small_bolts Crossbow_Pistol_Bolts Crossbow_Pistol_Bolts 4  bolt_crossbowpistol 0  flying_missile 2305843009213693952  bolt_bag 3458764513820540928  bolt_bag_b 3458768911867052032  65542 1879048192 200 4398046511104 2.000000 90 0 0 0 0 0 0 0 30 45 257 0
  1
  38
 0
@@ -4088,7 +4088,7 @@ itemsfile version 3
  39
 0
 
- itm_poisoned_globes2 Poisoned_Wind_Globes Poisoned_Wind_Globes 1  skavenglobe 0  274882105354 65536 1 4398046511104 4.000000 100 0 0 0 0 0 97 30 8 12 336 0
+ itm_poisoned_globes2 Poisoned_Wind_Globes Poisoned_Wind_Globes 1  skavenglobe 0  274882105354 65536 1 4398046511104 4.000000 100 0 0 0 0 0 97 30 8 12 296 0
  0
 0
 
@@ -4096,7 +4096,7 @@ itemsfile version 3
  0
 0
 
- itm_gekokujo_shuriken Shuriken Shuriken 2  gekokujo_shuriken 0  gekokujo_shuriken 2305843009213693952  12648458 131072 93 4398046781448 2.000000 100 0 0 0 0 0 120 24 0 10 35 0
+ itm_gekokujo_shuriken Shuriken Shuriken 2  gekokujo_shuriken 0  gekokujo_shuriken 2305843009213693952  12648458 131072 93 4398046781440 2.000000 100 0 0 0 0 0 120 24 0 20 35 0
  1
  42
 0
@@ -4256,7 +4256,7 @@ itemsfile version 3
  27 28
 0
 
- itm_sniper_crossbow Siege_Crossbow Siege_Crossbow 1  heavy_crossbow 0  341901321 5637160960 683 131082 3.750000 100 0 0 0 10 0 37 74 0 1 356 0
+ itm_sniper_crossbow Siege_Crossbow Siege_Crossbow 1  crossbow_c 0  341901321 5637160960 4683 132104 3.750000 100 0 0 0 14 0 37 80 0 1 356 0
  2
  27 28
 0
@@ -4286,7 +4286,7 @@ itemsfile version 3
  38
 0
 
- itm_darkelf_crossbow2 Dark_Elf_Repeater_Crossbow Dark_Elf_Repeater_Crossbow 1  NPC_DE_Crossbow_02 0  6357001 5637160960 620 131082 3.000000 120 0 0 0 0 0 28 55 0 3 326 0
+ itm_darkelf_crossbow2 Dark_Elf_Repeater_Crossbow Dark_Elf_Repeater_Crossbow 1  NPC_DE_Crossbow_02 0  6357001 5637160960 820 132096 3.000000 100 0 0 0 0 0 28 65 0 3 326 0
  1
  38
 0
@@ -8454,7 +8454,7 @@ itemsfile version 3
  38
 0
 
- itm_darkelf_black_armour Black_Guard_Armour Black_Guard_Armour 1  DE_blackguard 0  16842765 0 2600 704643236 20.000000 100 0 47 16 8 0 0 0 0 0 0 0
+ itm_darkelf_black_armour Black_Guard_Armour Black_Guard_Armour 1  DE_blackguard 0  16842765 0 2600 704643236 20.000000 100 2 53 16 8 0 0 0 0 0 0 0
  1
  38
 0
@@ -8559,42 +8559,42 @@ itemsfile version 3
  38
 0
 
- itm_darkelf_warrior_helmet Dark_Elf_Helmet Dark_Elf_Helmet 1  darkelfhelm1 0  65548 0 270 704643238 2.000000 120 33 0 0 6 0 0 0 0 0 0 0
+ itm_darkelf_warrior_helmet Dark_Elf_Helmet Dark_Elf_Helmet 1  darkelfhelm1 0  65548 0 270 704643238 1.500000 120 34 0 0 6 0 0 0 0 0 0 0
  1
  38
 0
 
- itm_darkelf_helmet Dark_Elf_Helmet Dark_Elf_Helmet 1  de_spearman_helmet 0  65548 0 350 704643238 2.000000 120 37 0 0 6 0 0 0 0 0 0 0
+ itm_darkelf_helmet Dark_Elf_Helmet Dark_Elf_Helmet 1  de_spearman_helmet 0  65548 0 350 704643238 1.800000 120 38 0 0 6 0 0 0 0 0 0 0
  1
  38
 0
 
- itm_darkelf_helmet_two Dark_Elf_Guard_Helm Dark_Elf_Guard_Helm 1  darkelfhelm3 0  65548 0 430 704643238 2.500000 120 40 0 0 6 0 0 0 0 0 0 0
+ itm_darkelf_helmet_two Dark_Elf_Guard_Helm Dark_Elf_Guard_Helm 1  darkelfhelm3 0  65548 0 430 704643238 2.000000 120 40 0 0 6 0 0 0 0 0 0 0
  1
  38
 0
 
- itm_darkelf_corsair_helm Dark_Elf_Corsair_Helm Dark_Elf_Corsair_Helm 1  DE_Corsair_Helm 0  65548 0 400 704643238 2.500000 120 36 0 0 6 0 0 0 0 0 0 0
+ itm_darkelf_corsair_helm Dark_Elf_Corsair_Helm Dark_Elf_Corsair_Helm 1  DE_Corsair_Helm 0  65548 0 400 704643238 2.000000 120 42 0 0 6 0 0 0 0 0 0 0
  1
  38
 0
 
- itm_darkelf_helmet_three Executioner_Helm Executioner_Helm 1  DE_executioner_helm 0  65548 0 530 704643238 2.500000 120 41 0 0 7 0 0 0 0 0 0 0
+ itm_darkelf_helmet_three Executioner_Helm Executioner_Helm 1  DE_executioner_helm 0  65548 0 530 704643238 2.000000 120 41 0 0 7 0 0 0 0 0 0 0
  1
  38
 0
 
- itm_darkelf_black_helm Black_Guard_Helm Black_Guard_Helm 1  DE_blackguard_helm 0  65548 0 900 704643238 2.750000 100 45 0 0 8 0 0 0 0 0 0 0
+ itm_darkelf_black_helm Black_Guard_Helm Black_Guard_Helm 1  DE_blackguard_helm 0  65548 0 900 704643238 2.750000 100 53 0 0 8 0 0 0 0 0 0 0
  1
  38
 0
 
- itm_darkelf_deadeye_helmet Deadeye_Helm Deadeye_Helm 1  darkelfhelm4 0  65548 0 900 704643238 2.750000 100 45 0 0 8 0 0 0 0 0 0 0
+ itm_darkelf_deadeye_helmet Deadeye_Helm Deadeye_Helm 1  darkelfhelm4 0  65548 0 900 704643238 2.500000 100 48 0 0 8 0 0 0 0 0 0 0
  1
  38
 0
 
- itm_darkcoldhelm Coldone_Knight_Helm Coldone_Knight_Helm 1  darkelfhelm6 0  65548 0 1050 704643238 2.750000 100 48 0 0 9 0 0 0 0 0 0 0
+ itm_darkcoldhelm Coldone_Knight_Helm Coldone_Knight_Helm 1  darkelfhelm6 0  65548 0 1050 704643238 2.750000 100 50 0 0 9 0 0 0 0 0 0 0
  1
  38
 0
@@ -8624,17 +8624,17 @@ itemsfile version 3
  38
 0
 
- itm_darkknight Coldone_Knight_Armour Coldone_Knight_Armour 1  cold_knight 0  16842765 0 5200 704643236 26.000000 120 0 52 18 9 0 0 0 0 0 0 0
+ itm_darkknight Coldone_Knight_Armour Coldone_Knight_Armour 1  cold_knight 0  16842765 0 5200 704643236 21.000000 120 0 52 18 9 0 0 0 0 0 0 0
  1
  38
 0
 
- itm_dreadknight Dread_Knight_Armour Dread_Knight_Armour 1  dread_knight 0  16842765 0 7500 704643236 28.000000 100 0 55 20 10 0 0 0 0 0 0 0
+ itm_dreadknight Dread_Knight_Armour Dread_Knight_Armour 1  dread_knight 0  16842765 0 7500 704643236 22.000000 100 0 55 20 10 0 0 0 0 0 0 0
  1
  38
 0
 
- itm_darklord_armour Dreadlord_Armour Dreadlord_Armour 1  darklord_armour 0  16842765 0 12800 704643236 28.000000 50 0 58 22 10 0 0 0 0 0 0 0
+ itm_darklord_armour Dreadlord_Armour Dreadlord_Armour 1  darklord_armour 0  16842765 0 12800 704643236 23.000000 50 0 59 22 10 0 0 0 0 0 0 0
  1
  38
 0
@@ -8649,12 +8649,12 @@ itemsfile version 3
  38
 0
 
- itm_executioner_greaves Executioner_Greaves Executioner_Greaves 1  DE_executioner_boots 0  69390 0 1770 704643236 3.500000 100 0 0 33 9 0 0 0 0 0 0 0
+ itm_executioner_greaves Executioner_Greaves Executioner_Greaves 1  DE_executioner_boots 0  69390 0 1770 704643328 3.300000 100 0 0 33 9 0 0 0 0 0 0 0
  1
  38
 0
 
- itm_guard_greaves Black_Guard_Greaves Black_Guard_Greaves 1  DE_blackguard_boots 0  69390 0 1310 704643236 3.500000 100 0 0 30 9 0 0 0 0 0 0 0
+ itm_guard_greaves Black_Guard_Greaves Black_Guard_Greaves 1  DE_blackguard_boots 0  69390 0 1310 704643236 3.000000 100 0 0 30 9 0 0 0 0 0 0 0
  1
  38
 0
@@ -8714,12 +8714,12 @@ itemsfile version 3
  38
 0
 
- itm_darklord_armour2 Dreadlord_Armour Dreadlord_Armour 1  darklord_armour2 0  16842765 0 12800 704643236 28.000000 50 0 58 22 10 0 0 0 0 0 0 0
+ itm_darklord_armour2 Dreadlord_Armour Dreadlord_Armour 1  darklord_armour2 0  16842765 0 12800 704643236 23.000000 50 0 59 22 10 0 0 0 0 0 0 0
  1
  38
 0
 
- itm_darklord_greaves2 Dreadlord_Greaves Dreadlord_Greaves 1  darkplate_boots2 0  69390 0 1770 704643236 3.500000 50 0 0 33 9 0 0 0 0 0 0 0
+ itm_darklord_greaves2 Dreadlord_Greaves Dreadlord_Greaves 1  darkplate_boots2 0  69390 0 1770 704643236 3.500000 50 0 0 35 9 0 0 0 0 0 0 0
  1
  38
 0
@@ -8729,12 +8729,12 @@ itemsfile version 3
  38
 0
 
- itm_malus_armour Malus_Armour Malus_Armour 1  darklord_armour4 0  16781325 0 14200 704643236 28.000000 100 0 61 24 10 0 0 0 0 0 0 0
+ itm_malus_armour Malus_Armour Malus_Armour 1  darklord_armour4 0  16781325 0 14200 704643236 23.000000 100 0 62 24 10 0 0 0 0 0 0 0
  1
  38
 0
 
- itm_malus_greaves Malus_Greaves Malus_Greaves 1  darkplate_boots4 0  7950 0 1970 704643236 3.500000 100 0 0 35 9 0 0 0 0 0 0 0
+ itm_malus_greaves Malus_Greaves Malus_Greaves 1  darkplate_boots4 0  7950 0 1970 704643236 3.000000 100 0 0 35 9 0 0 0 0 0 0 0
  1
  38
 0
@@ -8744,7 +8744,7 @@ itemsfile version 3
  38
 0
 
- itm_malekith_armour Malekith_Armour Malekith_Armour 1  darklord_armour3 0  553652237 0 15800 704643236 28.000000 100 0 65 25 10 0 0 0 0 0 0 0
+ itm_malekith_armour Malekith_Armour Malekith_Armour 1  darklord_armour3 0  553652237 0 15800 704643236 24.000000 100 0 65 25 10 0 0 0 0 0 0 0
  1
  38
 0
@@ -8769,12 +8769,12 @@ itemsfile version 3
  38
 0
 
- itm_dreadmaster_armour Dreadmaster_Armour Dreadmaster_Armour 1  darklord_armour5 0  16842765 0 12800 704643236 28.000000 50 0 58 22 10 0 0 0 0 0 0 0
+ itm_dreadmaster_armour Dreadmaster_Armour Dreadmaster_Armour 1  darklord_armour5 0  16842765 0 12800 704643236 23.000000 50 0 59 22 10 0 0 0 0 0 0 0
  1
  38
 0
 
- itm_dreadmaster_greaves Dreadmaster_Greaves Dreadmaster_Greaves 1  darkplate_boots5 0  69390 0 1770 704643236 3.500000 100 0 0 33 9 0 0 0 0 0 0 0
+ itm_dreadmaster_greaves Dreadmaster_Greaves Dreadmaster_Greaves 1  darkplate_boots5 0  69390 0 1770 704643236 3.000000 100 0 0 33 9 0 0 0 0 0 0 0
  1
  38
 0
@@ -9028,27 +9028,27 @@ itemsfile version 3
  0
 0
 
- itm_zealot1 Zealot_Cloth Zealot_Cloth 1  Zealot_Grey_Armor_Light_01 0  553648141 0 90 123731968 5.000000 100 0 3 11 0 0 0 0 0 0 0 0
+ itm_zealot1 Zealot_Cloth Zealot_Cloth 1  Zealot_Grey_Armor_Light_01 0  553648141 0 90 117440512 5.000000 100 0 3 11 0 0 0 0 0 0 0 0
  0
 0
 
- itm_zealot2 Zealot_Cloth Zealot_Cloth 1  Zealot_Khorne_Armor_Light_01 0  553648141 0 90 123731968 5.000000 100 0 7 13 0 0 0 0 0 0 0 0
+ itm_zealot2 Zealot_Cloth Zealot_Cloth 1  Zealot_Khorne_Armor_Light_01 0  553648141 0 90 117440512 5.000000 100 0 7 13 0 0 0 0 0 0 0 0
  0
 0
 
- itm_zealot3 Zealot_Cloth Zealot_Cloth 1  Zealot_Nurgle_Armor_Light_01 0  553648141 0 90 123731968 5.000000 100 0 3 11 0 0 0 0 0 0 0 0
+ itm_zealot3 Zealot_Cloth Zealot_Cloth 1  Zealot_Nurgle_Armor_Light_01 0  553648141 0 90 117440512 5.000000 100 0 3 11 0 0 0 0 0 0 0 0
  0
 0
 
- itm_zealot_armour1 Zealot_Armour Zealot_Armour 1  Zealot_Grey_Armor_01 0  553648141 0 150 123731968 3.000000 100 0 8 11 0 0 0 0 0 0 0 0
+ itm_zealot_armour1 Zealot_Armour Zealot_Armour 1  Zealot_Grey_Armor_01 0  553648141 0 150 117440512 3.000000 100 0 8 11 0 0 0 0 0 0 0 0
  0
 0
 
- itm_zealot_armour2 Zealot_Armour Zealot_Armour 1  Zealot_Khorne_Armor_01 0  553648141 0 150 123731968 3.000000 100 0 10 12 0 0 0 0 0 0 0 0
+ itm_zealot_armour2 Zealot_Armour Zealot_Armour 1  Zealot_Khorne_Armor_01 0  553648141 0 150 117440512 3.000000 100 0 10 12 0 0 0 0 0 0 0 0
  0
 0
 
- itm_zealot_armour3 Zealot_Armour Zealot_Armour 1  Zealot_Nurgle_Armor_01 0  553648141 0 150 123731968 3.000000 100 0 10 12 0 0 0 0 0 0 0 0
+ itm_zealot_armour3 Zealot_Armour Zealot_Armour 1  Zealot_Nurgle_Armor_01 0  553648141 0 150 117440512 3.000000 100 0 10 12 0 0 0 0 0 0 0 0
  0
 0
 
@@ -10432,7 +10432,7 @@ itemsfile version 3
  28
 0
 
- itm_dwarf_boots_3 Dwarven_Splinted_Boots Dwarven_Splinted_Boots 1  DW_Warrior_Boots 0  536940302 0 853 704643236 2.000000 100 0 0 26 0 0 0 0 0 0 0 0
+ itm_dwarf_boots_3 Dwarven_Splinted_Boots Dwarven_Splinted_Boots 1  dwarf_boots4 0  536940302 0 853 704643236 2.000000 100 0 0 26 0 0 0 0 0 0 0 0
  1
  28
 0
@@ -14920,7 +14920,7 @@ itemsfile version 3
 1
 -50.000000  5 1955 3 0 1 0 1965 1 1008806316530991189 1965 1 1008806316530991147 1950 3 255 178 51 1960 2 10 30 
 
- itm_zealot_sword Zealot_Sword Zealot_Sword 1  zealotsword 0  137443147778 9223388529822793743 250 24596 1.750000 100 0 0 0 0 31744 96 0 97 0 276 31
+ itm_zealot_sword Zealot_Sword Zealot_Sword 1  zealotsword 0  137443147778 9223388529822793743 300 74752 1.750000 100 0 0 0 0 31744 96 0 87 0 276 21
  1
  31
 0
@@ -15174,17 +15174,17 @@ itemsfile version 3
  29
 0
 
- itm_shadow_sword Shadow_Sword Shadow_Sword 1  HE_shadowwalker_sword 0  4259842 9223388529822793743 334 155668 1.250000 100 0 0 0 0 29696 101 0 93 0 277 29
+ itm_shadow_sword Shadow_Sword Shadow_Sword 1  HE_shadowwalker_sword 0  4259842 9223388529822793743 1334 155664 1.250000 100 0 0 0 0 29696 101 0 93 0 285 32
  1
  29
 0
 
- itm_elf_two_handed_sword High_Elf_Two_Handed_Sword High_Elf_Two_Handed_Sword 1  HE_swordmaster_sword 0  6356995 9223635924301119728 830 155668 2.750000 100 0 0 0 11 40960 99 0 120 0 281 40
+ itm_elf_two_handed_sword High_Elf_Two_Handed_Sword High_Elf_Two_Handed_Sword 1  HE_swordmaster_sword 0  6356995 9223635924301119728 830 155664 2.750000 100 0 0 0 11 40960 99 0 120 0 281 40
  1
  29
 0
 
- itm_bladelord_sword Bladelord_Sword Bladelord_Sword 1  HE_dragonguard_sword 0  6356995 9223635924301119728 910 155668 2.750000 100 0 0 0 11 44032 97 0 120 0 281 43
+ itm_bladelord_sword Bladelord_Sword Bladelord_Sword 1  HE_dragonguard_sword 0  6356995 9223635924301119728 1610 155664 2.750000 100 0 0 0 11 44032 97 0 120 0 286 43
  1
  29
 0
@@ -15334,7 +15334,7 @@ itemsfile version 3
  44
 0
 
- itm_wardancer_two_handed Bladesinger_Sword Bladesinger_Sword 1  WELF_weapon_Sword2H_T3 0  6356995 9223635924301119728 920 155668 2.750000 100 0 0 0 11 43008 97 0 130 0 281 42
+ itm_wardancer_two_handed Bladesinger_Sword Bladesinger_Sword 1  WELF_weapon_Sword2H_T3 0  6356995 9223635924301119728 1400 155664 2.750000 100 0 0 0 11 43008 97 0 130 0 286 42
  1
  44
 0
@@ -15388,22 +15388,22 @@ itemsfile version 3
  42
 0
 
- itm_gekokujo_nodachi_4 Nodachi Nodachi 2  gekokujo_nodachi_4 0  gekokujo_nodachi_4_scabbard 3458764513820540928  6356995 9223635958593749216 1140 155668 2.000000 70 0 0 0 8 40960 99 0 109 0 276 40
+ itm_gekokujo_nodachi_4 Nodachi Nodachi 2  gekokujo_nodachi_4 0  gekokujo_nodachi_4_scabbard 3458764513820540928  6356995 9223635958593749216 1140 155664 2.000000 70 0 0 0 8 40960 99 0 109 0 281 40
  1
  42
 0
 
- itm_gekokujo_nodachi_1 Nodachi Nodachi 2  gekokujo_nodachi_1 0  gekokujo_nodachi_1_scabbard 3458764513820540928  6356995 9223635958593749216 1140 155668 2.000000 70 0 0 0 8 40960 99 0 109 0 276 40
+ itm_gekokujo_nodachi_1 Nodachi Nodachi 2  gekokujo_nodachi_1 0  gekokujo_nodachi_1_scabbard 3458764513820540928  6356995 9223635958593749216 1140 155664 2.000000 70 0 0 0 8 40960 99 0 109 0 281 40
  1
  42
 0
 
- itm_gekokujo_nodachi_10 Nodachi Nodachi 2  gekokujo_nodachi_10 0  gekokujo_nodachi_10_scabbard 3458764513820540928  6356995 9223635958593749216 1350 155668 2.000000 70 0 0 0 8 43008 99 0 109 0 276 42
+ itm_gekokujo_nodachi_10 Nodachi Nodachi 2  gekokujo_nodachi_10 0  gekokujo_nodachi_10_scabbard 3458764513820540928  6356995 9223635958593749216 1850 155664 2.000000 70 0 0 0 8 43008 99 0 109 0 286 42
  1
  42
 0
 
- itm_gekokujo_nodachi_5 Nodachi Nodachi 2  gekokujo_nodachi_5 0  gekokujo_nodachi_5_scabbard 3458764513820540928  6356995 9223635958593749216 1350 155668 2.000000 60 0 0 0 9 43008 99 0 109 0 276 42
+ itm_gekokujo_nodachi_5 Nodachi Nodachi 2  gekokujo_nodachi_5 0  gekokujo_nodachi_5_scabbard 3458764513820540928  6356995 9223635958593749216 1850 155664 2.000000 60 0 0 0 9 43008 99 0 109 0 286 42
  1
  42
 0
@@ -15718,11 +15718,11 @@ itemsfile version 3
  27
 0
 
- itm_vanklumpf_falchion Vanklumpf_Falchion Vanklumpf_Falchion 1  vanklumpf_falchion 0  4198402 9223388529822793742 245 24596 2.500000 100 0 0 0 8 31744 96 0 80 0 266 31
+ itm_vanklumpf_falchion Vanklumpf_Falchion Vanklumpf_Falchion 1  vanklumpf_falchion 0  4198402 9223388529822793742 400 24576 2.500000 100 0 0 0 8 31744 96 0 88 0 266 31
  0
 0
 
- itm_paladin_sword Paladin_Sword Paladin_Sword 2  templar_sword 0  templar_sword_scrab 3458764513820540928  4259842 9223388564182532111 2410 155668 1.750000 100 0 0 0 10 35840 99 0 95 0 280 35
+ itm_paladin_sword Paladin_Sword Paladin_Sword 2  templar_sword 0  templar_sword_scrab 3458764513820540928  4259842 9223388564182532111 2410 155664 1.750000 100 0 0 0 10 35840 99 0 95 0 286 35
  1
  37
 0
@@ -15821,7 +15821,7 @@ itemsfile version 3
  38
 0
 
- itm_darkelf_poleaxe2 _Dark_Elf_Poleaxe _Dark_Elf_Poleaxe 1  DE_Glaive_TE_02 0  1080360964 4222124851990272 484 8202 4.500000 100 0 0 0 13 48128 89 0 170 0 281 47
+ itm_darkelf_poleaxe2 _Dark_Elf_Poleaxe _Dark_Elf_Poleaxe 1  DE_Glaive_TE_02 0  1080360964 4222124851990272 868 8202 4.500000 100 0 0 0 13 48128 89 0 170 0 286 48
  1
  38
 0
@@ -15876,7 +15876,7 @@ itemsfile version 3
  38
 0
 
- itm_darkelf_flamberge Executioner_Sword Executioner_Sword 1  DE_sword_2H_01 0  6356995 9223635924301119728 1310 155668 2.750000 120 0 0 0 10 43008 93 0 125 0 276 42
+ itm_darkelf_flamberge Draich Executioner_Sword 1  DE_sword_2H_01 0  6356995 9223635924301119728 1310 155664 2.750000 120 0 0 0 10 43008 93 0 125 0 284 45
  1
  38
 0
@@ -15911,7 +15911,7 @@ itemsfile version 3
  38
 0
 
- itm_dreadknight_mace Dreadknight_Mace Dreadknight_Mace 1  DE_knight_mace_02 0  275419299842 9223388532775583758 600 262164 2.750000 100 0 0 0 8 29696 97 0 100 0 256 541
+ itm_dreadknight_mace Dreadknight_Mace Dreadknight_Mace 1  DE_knight_mace_02 0  275419299842 9223388532775583758 600 262164 2.750000 100 0 0 0 8 29696 97 0 100 0 256 542
  1
  38
 0
