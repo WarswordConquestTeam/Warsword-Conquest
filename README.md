@@ -19,38 +19,13 @@ Patch 1.12:
 - Added an escort of 8 maiden adventurers to the caravan
 - Increased settra's Charisma 5>25
 
-Previous patches:
-
-- Added Custom camera
-- Dhar changes and fixes
-- Added Burspa menu
-- Added war modes (allowing free for all war and team based)
-- World map performance optimisations
-- Stop troops carrying flaming weapons on back
-- Added more merchanise and quality scales with town prosperity
-- Added a way to find current location of travelling wizards
-- Altered school of light and added effects from Arsakes
-- Minor visual changes to magic
-- Goblin magic overhaul
-- Added Freelancer with warsword alterations
-- Added a companion champion mode: talk to companions to fight as them in battle
-- Modified war/peace script
-- Added new faction specific music when entering factions territory
-- Magic battle performance optimisations
-- Optimised sounds (all to .wav)
-- Opitmised texures (altered large textures or not to power of 2)
-- Removed log info on magic missle attacks
-
 Marshal optimization pack for July 2020 Winter heat update
 - added new female sounds
 - various kislev items has been revised and inproved, also added a new armor set for the sons of ursun
-- optimazed props from You1_buildings which are used all arround the mod, inproving the loading times for some scenes, especially orcs
+- optimazed from You1 which are use all arround the mod, some scenes should load faster now (orcs)
 - Rebalanced araby armor and weight values.
-- added a new model for the Hashassin helmet and black leather boots.
-- added new models for the the roman helm and skull mask from the amazons.
-- added new models to the Halfling goats and hounds, which now actually resemble such animals.
-- modified the Vampire head mesh and the pirates bandanas to remove the "clipping" potencial
-- added a remake for the Dark elf light armor and their basic helmets.
+- Rebalanced D-elf armor and weight values, also added a new model for the Hashassin helmet.
+- Replaced the roman helmet from the amazons for a greek helm
 
 * [Warsword Conquest](https://github.com/WarswordConquestTeam/Warsword-Conquest/wiki)
 * [How to Install the mod](https://github.com/WarswordConquestTeam/Warsword-Conquest/wiki/How-to-install-the-mod)
