@@ -63,7 +63,10 @@ maldorndk- chaos dwarf banners
 iboltax improved faces
 vasili s for scenery base
 jbvw for potion icons
+
 Arsakes for Hysh effect and models
+khamukkamu for camera osp
+leonion for hotkey prisoners
 
 Music:
 antti martikainen https://anttimartikainen.com/ for music
@@ -80,6 +83,7 @@ Death Valley- Anton Shilo Music Link: https://youtu.be/zHDSWT7j8u0
 Till the Last Breath- Anton Shilo Music Link: https://youtu.be/2e5Uvdvj4Cs
 Battle Song - Anton Shilo Music Link: https://youtu.be/cuADEIdpMlE
 Hirokazu Akiyama http://www.hmix.net/
+Jalrick- for mainmenu music.
 
 Contributors and all those who have worked with me on Warsword or Warsword Conquest in the past or helped us out.
 
