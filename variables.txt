@@ -1220,6 +1220,7 @@ g_ccoop_currently_dropping_item
 chaosdwarfquest
 diplomacy_var
 champion
+can_change_champion
 g_player_culture
 diplomacy_var2
 g_player_chancellor
@@ -1296,6 +1297,9 @@ high_elf
 wood_elf
 dark_elf
 companion_temp3
+current_dungeon
+wsq_dungeon_difficulty_modifier
+wsq_dungeon_room
 pool_troop
 dplmc_return_menu
 inventory_menu_offset
@@ -1379,7 +1383,6 @@ kill_counter
 missile_cast
 bliss
 lifeleech
-championhealth
 spell_cast
 willpower_focus
 willpower_boost
@@ -1584,6 +1587,7 @@ g_presentation_obj_coop_companion_class_1
 teleported
 fellblade_equipped
 doomboltglobal
+wsq_dungeon_level
 musicculture
 musicculture2
 magiccountdown1

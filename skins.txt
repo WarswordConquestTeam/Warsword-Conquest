@@ -316,14 +316,15 @@ goblin 0
 
 skaven 0
  ratman_body rat_calf_l rat_handL
- rat_head 9 skinkey_face_width 10 0 -0.500000 1.500000 Face_Width skinkey_mouth_size 30 0 -0.150000 2.500000 Mouth_Size skinkey_eye_size 50 0 -0.150000 1.000000 Eye_Size skinkey_jaw_position 70 0 -0.500000 1.500000 Jaw_Position skinkey_nose_position 90 0 -0.500000 1.000000 Nose_Position skinkey_eyebrow_position 110 0 -0.500000 1.500000 Eyebrow_Position skinkey_ear_size 130 0 -0.500000 1.500000 Ear_Size skinkey_neck_size 150 0 -0.150000 1.500000 Neck_Size skinkey_post_edit 280 0 0.000000 0.000000 Post-Edit 
-0
+ krag_skav_head_half 9 skinkey_face_width 10 0 -0.500000 1.500000 Face_Width skinkey_mouth_size 30 0 -0.150000 2.500000 Mouth_Size skinkey_eye_size 50 0 -0.150000 1.000000 Eye_Size skinkey_jaw_position 70 0 -0.500000 1.500000 Jaw_Position skinkey_nose_position 90 0 -0.500000 1.000000 Nose_Position skinkey_eyebrow_position 110 0 -0.500000 1.500000 Eyebrow_Position skinkey_ear_size 130 0 -0.500000 1.500000 Ear_Size skinkey_neck_size 150 0 -0.150000 1.500000 Neck_Size skinkey_post_edit 280 0 0.000000 0.000000 Post-Edit 
+1
+ krag_skav_head_fur_cards_01 
+ 1
+  krag_skav_beard_fur_cards_01
 
- 0
-
- 1  hair_black 
- 1  hair_black 
- 1  rathead 4294967295 1 1  hair_black  4294967295 
+ 3  hair_brown_skav  hair_burspa  CD_hair_black_02 
+ 3  hair_brown_skav  hair_burspa  CD_hair_black_02 
+ 4  krag_skav_face_brown 4294967295 1 1  hair_brown_skav  4294967295  krag_skav_face_black 4294967295 1 1  CD_hair_black_02  4294967295  krag_skav_face_white 4294967295 1 2  hair_burspa  4294967295  4287927444  krag_skav_face_bald 4294967295 1 1  hair_brown_skav  4294967295 
  6  0 snd_skaven_die  1 snd_skaven_hit  2 snd_skaven_grunt  3 snd_skaven_grunt_long  5 snd_skaven_warcry  6 snd_skaven_victory 
  skel_human 0.870000 
 1 2
