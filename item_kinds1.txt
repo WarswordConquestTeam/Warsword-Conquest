@@ -13997,7 +13997,7 @@ itemsfile version 3
  39
 0
 
- itm_rat_greaves3 Skaven_Greaves Skaven_Greaves 1  krag_skaven_greaves_1_rough_1_L 0  536936462 0 100 123731968 1.250000 100 0 0 15 0 0 0 0 0 0 0 0
+ itm_rat_greaves3 Skaven_Greaves Skaven_Greaves 1  krag_skaven_greaves_rough_1_L 0  536936462 0 100 123731968 1.250000 100 0 0 15 0 0 0 0 0 0 0 0
  1
  39
 0
@@ -16590,17 +16590,17 @@ itemsfile version 3
  39
 0
 
- itm_warlock_staff Lesser_Warlock_Staff Lesser_Warlock_Staff 1  skaven_staff_left hand 0  20743 4831838208 3000 167772194 5.500000 100 0 1 0 0 20 95 0 120 0 0 0
+ itm_warlock_staff Lesser_Warlock_Staff Lesser_Warlock_Staff 1  skaven_staff_left_hand 0  20743 4831838208 3000 167772194 5.500000 100 0 1 0 0 20 95 0 120 0 0 0
  1
  39
 0
 
- itm_warlock_staff2 Greater_Warlock_Staff Greater_Warlock_Staff 1  skaven_staff_left hand 0  20743 4831838208 7000 167772194 5.500000 100 0 1 0 0 20 95 0 120 0 0 0
+ itm_warlock_staff2 Greater_Warlock_Staff Greater_Warlock_Staff 1  skaven_staff_left_hand 0  20743 4831838208 7000 167772194 5.500000 100 0 1 0 0 20 95 0 120 0 0 0
  1
  39
 0
 
- itm_warlock_staff3 Master_Warlock_Staff Master_Warlock_Staff 1  skaven_staff_left hand 0  20743 4831838208 12000 167772194 5.500000 100 0 1 0 0 20 95 0 120 0 0 0
+ itm_warlock_staff3 Master_Warlock_Staff Master_Warlock_Staff 1  skaven_staff_left_hand 0  20743 4831838208 12000 167772194 5.500000 100 0 1 0 0 20 95 0 120 0 0 0
  1
  39
 0
@@ -16654,19 +16654,19 @@ itemsfile version 3
  1
  31
 1
--50.000000  5 1955 3 15 25 12 1965 1 1008806316530991189 1965 1 1008806316530991147 1950 3 255 178 51 1960 2 10 30 
+-50.000000  5 1955 3 0 50 0 1965 1 1008806316530991189 1965 1 1008806316530991147 1950 3 255 178 51 1960 2 10 30 
 
  itm_fire_staff2 Greater_Bright_Staff Greater_Bright_Staff 1  krag_fire_staff_left_hand 0  20743 4831838208 7000 167772194 5.500000 100 0 1 0 0 20 95 0 120 0 0 0
  1
  31
 1
--50.000000  5 1955 3 15 25 12 1965 1 1008806316530991189 1965 1 1008806316530991147 1950 3 255 178 51 1960 2 10 30 
+-50.000000  5 1955 3 0 50 0 1965 1 1008806316530991189 1965 1 1008806316530991147 1950 3 255 178 51 1960 2 10 30 
 
  itm_fire_staff3 Master_Bright_Staff Master_Bright_Staff 1  krag_fire_staff_left_hand 0  20743 4831838208 12000 167772194 5.500000 100 0 1 0 0 20 95 0 120 0 0 0
  1
  31
 1
--50.000000  5 1955 3 15 25 12 1965 1 1008806316530991189 1965 1 1008806316530991147 1950 3 255 178 51 1960 2 10 30 
+-50.000000  5 1955 3 0 50 0 1965 1 1008806316530991189 1965 1 1008806316530991147 1950 3 255 178 51 1960 2 10 30 
 
  itm_liche_staff Lesser_Liche_Staff Lesser_Liche_Staff 1  tomestaff2_left_hand 0  20743 4831838208 3000 167772194 5.500000 100 0 1 0 0 20 95 0 120 0 0 0
  1
