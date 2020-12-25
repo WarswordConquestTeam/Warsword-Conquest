@@ -1,6 +1,8 @@
-[22:08:28] WSE v4.7.4 by cmpxchg8b, K700, AgentSmith (Build date: Oct 24 2019 17:11:01)
-[22:08:28] WSE path: C:\Users\Revgooner\Documents\GitHub\Warsword-Conquest\WSE\
-[22:08:28] WSE netcode version: 9
-[22:08:28] Warband version: vanilla
-[22:10:05] WARNING: Unable to map WSE script code: wse_savegame_loaded
-[22:10:05] WARNING: Unable to map WSE script code: wse_get_server_info
+[23:28:56] WSE v4.7.4 by cmpxchg8b, K700, AgentSmith (Build date: Oct 24 2019 17:11:01)
+[23:28:56] WSE path: C:\Users\Revgooner\Documents\GitHub\Warsword-Conquest\WSE\
+[23:28:56] WSE netcode version: 9
+[23:28:56] Warband version: vanilla
+[23:30:33] WARNING: Unable to map WSE script code: wse_savegame_loaded
+[23:30:33] WARNING: Unable to map WSE script code: wse_get_server_info
+[23:41:07] WARNING: Unable to map WSE script code: wse_savegame_loaded
+[23:41:07] WARNING: Unable to map WSE script code: wse_get_server_info
