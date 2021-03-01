@@ -2449,22 +2449,22 @@ itemsfile version 3
 -101.000000  6 1955 3 0 100 0 1965 1 1008806316530991328 1965 1 1008806316530991330 1965 1 1008806316530991331 1950 3 150 130 70 1960 2 10 30 
 -50.000000  6 1955 3 0 100 0 1965 1 1008806316530991328 1965 1 1008806316530991330 1965 1 1008806316530991331 1950 3 150 130 70 1960 2 10 30 
 
- itm_bolts Bolts Bolts 4  bolt 0  bolt_flying 2305843009213693952  bolt_bag 3458764513820540928  bolt_bag_b 3458768911867052032  16842758 1879048192 64 4398046511112 2.250000 90 0 0 0 0 0 0 0 63 29 257 0
+ itm_bolts Bolts Bolts 4  bolt 0  bolt_flying 2305843009213693952  bolt_bag 3458764513820540928  bolt_bag_b 3458768911867052032  16842758 1879048192 64 4398046511112 2.250000 90 0 0 0 0 0 0 0 63 40 257 0
  4
  27 28 38 43
 0
 
- itm_steel_bolts Steel_Bolts Steel_Bolts 3  bolt 0  bolt_flying 2305843009213693952  bolt_bag_c 3458764513820540928  16842758 1879048192 210 4398046511112 2.500000 20 0 0 0 0 0 0 0 63 29 258 0
+ itm_steel_bolts Steel_Bolts Steel_Bolts 3  bolt 0  bolt_flying 2305843009213693952  bolt_bag_c 3458764513820540928  16842758 1879048192 210 4398046511112 2.500000 20 0 0 0 0 0 0 0 63 36 258 0
  4
  27 28 38 43
 0
 
- itm_cartridges Cartridges Cartridges 1  cartridge_a 0  16842770 0 41 4398046511112 2.250000 100 0 0 0 0 0 0 0 3 30 257 0
+ itm_cartridges Cartridges Cartridges 1  cartridge_a 0  16842770 0 41 4398046511112 2.250000 100 0 0 0 0 0 0 0 3 26 257 0
  6
  27 28 30 39 40 42
 0
 
- itm_warp_cartridges Warpstone_Cartridges Warpstone_Cartridges 2  cartridge_a 0  flying_missile_warp 2305843009213693952  16842770 0 41 4398046511112 2.250000 100 0 0 0 0 0 0 0 3 30 257 0
+ itm_warp_cartridges Warpstone_Cartridges Warpstone_Cartridges 2  cartridge_a 0  flying_missile_warp 2305843009213693952  16842770 0 41 4398046511112 2.250000 100 0 0 0 0 0 0 0 3 24 257 0
  1
  39
 0
@@ -2867,7 +2867,7 @@ itemsfile version 3
  31
 0
 
- itm_magic_placeholder Great_Sword Great_Sword 1  sword_two_handed_a 0  6295555 9223635924301119728 99999 155668 2.750000 100 0 0 0 10 43008 96 0 120 0 285 42
+ itm_magic_placeholder Meme_Sword Meme_Sword 1  sword_two_handed_a 0  6295555 9223635924301119728 99999 155668 2.750000 100 0 0 0 10 43008 96 0 120 0 285 42
  0
 0
 
@@ -4304,7 +4304,7 @@ itemsfile version 3
  38
 0
 
- itm_darkelf_crossbow2 Dark_Elf_Repeater_Crossbow Dark_Elf_Repeater_Crossbow 1  NPC_DE_Crossbow_02 0  6357001 5637160960 620 131082 3.000000 120 0 0 0 0 0 28 55 0 3 321 0
+ itm_darkelf_crossbow2 Dark_Elf_Repeater_Crossbow Dark_Elf_Repeater_Crossbow 1  NPC_DE_Crossbow_02 0  6357001 5637160960 620 131082 3.000000 120 0 0 0 0 0 28 65 0 3 326 0
  1
  38
 0
@@ -8603,12 +8603,12 @@ itemsfile version 3
  38
 0
 
- itm_darkelf_helmet_three Executioner_Helm Executioner_Helm 1  DE_executioner_helm 0  65548 0 530 704643238 2.500000 120 41 0 0 7 0 0 0 0 0 0 0
+ itm_darkelf_helmet_three Executioner_Mask Executioner_Mask 2  DE_executioner_mask 0  DE_executioner_helm_inv 1152921504606846976  2147553036 0 530 704643362 1.500000 120 41 0 0 7 0 0 0 0 0 0 0
  1
  38
 0
 
- itm_darkelf_black_helm Black_Guard_Helm Black_Guard_Helm 1  DE_blackguard_helm 0  65548 0 900 704643238 2.750000 100 45 0 0 8 0 0 0 0 0 0 0
+ itm_darkelf_black_helm Black_Guard_Helm Black_Guard_Helm 1  DE_blackguard_helm 0  65548 0 900 704643238 2.500000 100 53 0 0 8 0 0 0 0 0 0 0
  1
  38
 0
@@ -14998,6 +14998,7 @@ itemsfile version 3
 1
 -50.000000  5 1955 3 0 100 0 1965 1 1008806316530991189 1965 1 1008806316530991147 1950 3 255 178 51 1960 2 10 30 
 
+
  itm_plaguebearer_sword _plaguebearer_Sword _plaguebearer_Sword 1  plaguebearersword 0  137445249027 9223635924301119728 1920 155668 2.750000 100 0 0 0 12 40960 96 0 105 0 287 40
  1
  31
@@ -15943,7 +15944,7 @@ itemsfile version 3
  38
 0
 
- itm_darkelf_poleaxe2 _Dark_Elf_Poleaxe _Dark_Elf_Poleaxe 1  DE_Glaive_TE_02 0  1080360964 4222124851990272 484 8202 4.500000 100 0 0 0 13 48128 85 0 170 0 281 47
+ itm_darkelf_poleaxe2 _Dark_Elf_Halberd _Dark_Elf_Halberd 1  DE_Glaive_TE_02 0  1080360964 4222124851990272 484 8202 4.500000 100 0 0 0 13 48128 89 0 170 0 288 48
  1
  38
 0
@@ -15963,7 +15964,7 @@ itemsfile version 3
  38
 0
 
- itm_darkelf_spear Dark_Elf_Spear Dark_Elf_Spear 1  WAoRStaffC 0  2251801026166788 9254615765645004032 185 8202 2.500000 100 0 0 0 0 21504 90 0 170 0 284 21
+ itm_darkelf_spear Dark_Elf_Spear Dark_Elf_Spear 1  WAoRStaffC 0  2251801026166788 9254615765645004032 185 8202 2.500000 100 0 0 0 0 21504 95 0 160 0 288 28
  1
  38
 0
@@ -15998,7 +15999,7 @@ itemsfile version 3
  38
 0
 
- itm_darkelf_flamberge Executioner_Sword Executioner_Sword 1  DE_sword_2H_01 0  6356995 9223635924301119728 1310 155668 2.750000 120 0 0 0 10 43008 93 0 125 0 266 42
+ itm_darkelf_flamberge Draich Executioner_Sword 1  DE_sword_2H_01 0  6356995 9223635924301119728 1310 155668 2.750000 120 0 0 0 10 43008 93 0 125 0 284 44
  1
  38
 0
@@ -16033,7 +16034,7 @@ itemsfile version 3
  38
 0
 
- itm_dreadknight_mace Dreadknight_Mace Dreadknight_Mace 1  DE_knight_mace_02 0  275419299842 9223388532775583758 600 262164 2.750000 100 0 0 0 8 29696 97 0 100 0 256 541
+ itm_dreadknight_mace Dreadknight_Mace Dreadknight_Mace 1  DE_knight_mace_02 0  275419299842 9223388532775583758 600 262164 2.750000 100 0 0 0 8 29696 97 0 100 0 256 542
  1
  38
 0
@@ -16652,21 +16653,18 @@ itemsfile version 3
 
  itm_fire_staff Lesser_Bright_Staff Lesser_Bright_Staff 1  krag_fire_staff_left_hand 0  20743 4831838208 3000 167772194 5.500000 100 0 1 0 0 20 95 0 120 0 0 0
  1
- 31
-1
--50.000000  5 1955 3 0 50 0 1965 1 1008806316530991189 1965 1 1008806316530991147 1950 3 255 178 51 1960 2 10 30 
+ 39
+0
 
  itm_fire_staff2 Greater_Bright_Staff Greater_Bright_Staff 1  krag_fire_staff_left_hand 0  20743 4831838208 7000 167772194 5.500000 100 0 1 0 0 20 95 0 120 0 0 0
  1
- 31
-1
--50.000000  5 1955 3 0 50 0 1965 1 1008806316530991189 1965 1 1008806316530991147 1950 3 255 178 51 1960 2 10 30 
+ 39
+0
 
  itm_fire_staff3 Master_Bright_Staff Master_Bright_Staff 1  krag_fire_staff_left_hand 0  20743 4831838208 12000 167772194 5.500000 100 0 1 0 0 20 95 0 120 0 0 0
  1
- 31
-1
--50.000000  5 1955 3 0 50 0 1965 1 1008806316530991189 1965 1 1008806316530991147 1950 3 255 178 51 1960 2 10 30 
+ 39
+0
 
  itm_liche_staff Lesser_Liche_Staff Lesser_Liche_Staff 1  tomestaff2_left_hand 0  20743 4831838208 3000 167772194 5.500000 100 0 1 0 0 20 95 0 120 0 0 0
  1

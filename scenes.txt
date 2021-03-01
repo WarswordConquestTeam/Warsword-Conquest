@@ -692,17 +692,17 @@ scn_town_38_castle town_38_castle 256 none none 0.000000 0.000000 100.000000 100
   1  100000 
   1  1820 
  outer_terrain_plain 
-scn_town_39_castle town_39_castle 1 interior_castle_g_square_keep bo_interior_castle_g_square_keep -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_town_39_castle town_39_castle 1 gekokujo_interior_palace bo_gekokujo_interior_palace -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
-  1  1821 
+  1  1030 
  0 
-scn_town_40_castle town_40_castle 1 interior_castle_g_square_keep bo_interior_castle_g_square_keep -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_town_40_castle town_40_castle 1 gekokujo_interior_mansion bo_gekokujo_interior_mansion -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
-  1  1822 
+  1  1043 
  0 
-scn_town_41_castle town_41_castle 1 none none -100.000000 -100.000000 100.000000 100.000000 -100.000000 0x00000007300005000002308c00004a840000624700004fda 
+scn_town_41_castle town_41_castle 1 gekokujo_interior_mansion bo_gekokujo_interior_mansion -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
-  1  1823 
+  1  1043 
  0 
 scn_town_42_castle town_42_castle 1 castle_h_interior_a bo_castle_h_interior_a -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
@@ -832,7 +832,7 @@ scn_town_23_tavern town_23_tavern 1 interior_tavern_b bo_interior_tavern_b -100.
   1  100000 
   0 
  0 
-scn_town_24_tavern town_24_tavern 1 interior_tavern_g bo_interior_tavern_g -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_town_24_tavern town_24_tavern 1 interior_tavern_d bo_interior_tavern_d -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   0 
  0 
@@ -1292,18 +1292,18 @@ scn_town_38_arena town_38_arena 256 none none 0.000000 0.000000 100.000000 100.0
   0 
   0 
  outer_terrain_plain 
-scn_town_39_arena town_39_arena 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002200005000005f57b00005885000046bd00006d9c 
-  0 
-  0 
- outer_terrain_steppe 
-scn_town_40_arena town_40_arena 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002200005000005f57b00005885000046bd00006d9c 
-  0 
+scn_town_39_arena town_39_arena 1 gekokujo_interior_dojo bo_gekokujo_interior_dojo -200.000000 -200.000000 200.000000 200.000000 -100.000000 0 
+  1  100000 
   0 
  0 
-scn_town_41_arena town_41_arena 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000002200005000005f57b00005885000046bd00006d9c 
+scn_town_40_arena town_40_arena 1 gekokujo_interior_dojo bo_gekokujo_interior_dojo -200.000000 -200.000000 200.000000 200.000000 -100.000000 0 
+  1  100000 
   0 
+ 0 
+scn_town_41_arena town_41_arena 1 gekokujo_interior_dojo bo_gekokujo_interior_dojo -200.000000 -200.000000 200.000000 200.000000 -100.000000 0 
+  1  100000 
   0 
- outer_terrain_steppe 
+ 0 
 scn_town_42_arena town_42_arena 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0xa0001d9300031ccb0000156f000048ba0000361c 
   0 
   0 
