@@ -1,5 +1,8 @@
 # Warsword Conquest
 
+Official site:
+https://warswordconquest.burstonsoftware.com/
+
 Patch 1.13:
 
 - Readded Arsakes robes for light
@@ -26,6 +29,8 @@ Marshal optimization pack for July 2020 Winter heat update
 - Rebalanced araby armor and weight values.
 - Rebalanced D-elf armor and weight values, also added a new model for the Hashassin helmet.
 - Replaced the roman helmet from the amazons for a greek helm
+
+
 
 * [Warsword Conquest](https://github.com/WarswordConquestTeam/Warsword-Conquest/wiki)
 * [How to Install the mod](https://github.com/WarswordConquestTeam/Warsword-Conquest/wiki/How-to-install-the-mod)
