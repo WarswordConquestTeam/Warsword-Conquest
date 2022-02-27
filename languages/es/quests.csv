@@ -1,0 +1,72 @@
+qst_deliver_message|Entregad el mensaje a {s13}
+qst_deliver_message_to_enemy_lord|Entregad el mensaje a {s13}
+qst_raise_troops|Reunid {reg1} {s14}
+qst_escort_lady|Escoltad a {s13} a {s14}
+qst_deal_with_bandits_at_lords_village|Salvad a la aldea de {s15} de los Bandidos Merodeadores
+qst_collect_taxes|Recaudad los impuestos de {s3}
+qst_hunt_down_fugitive|Dad caza a {s4}.
+qst_kill_local_merchant|Asesinad a un mercader local en {s3}.
+qst_bring_back_runaway_serfs|Capturad a los siervos fugitivos.
+qst_follow_spy|Seguid al espía.
+qst_capture_enemy_hero|Capturad a un Señor de {s13}.
+qst_lend_companion|Prestad a vuestro compañero {s3} a {s9}.
+qst_collect_debt|Recaudad la deuda que {s3} debe a {s9}
+qst_incriminate_loyal_commander|Incriminad al Comandante leal de {s13}, {s16}.
+qst_meet_spy_in_enemy_town|Encontraos con el espía en {s13}.
+qst_capture_prisoners|Traed {reg1} prisioneros {s3}.
+qst_lend_surgeon|Prestad a vuestro cirujano, {s3}, a {s1}.
+qst_follow_army|Seguid al ejército de {s9}.
+qst_report_to_army|Reportad ante {s13}, el Mariscal.
+qst_deliver_cattle_to_army|Entregad {reg3} cabezas de ganado a {s13}.
+qst_join_siege_with_army|Uníos al asedio de {s14}.
+qst_screen_army|Investigad el avance del ejército de {s13}.
+qst_scout_waypoints|Explorad {s13}, {s14} y {s15}.
+qst_rescue_lord_by_replace|Rescatad a {s13} de {s14}.
+qst_deliver_message_to_prisoner_lord|Entregad el mensaje de {s13} en {s14}.
+qst_duel_for_lady|Retad a {s13} a un Juicio de Armas.
+qst_duel_courtship_rival|Retad a {s13} a un Juicio de Armas (opcional)
+qst_duel_avenge_insult|Retad a {s13} a un Juicio de Armas
+qst_move_cattle_herd|Trasladad el rebaño de ganado a {s13}.
+qst_escort_merchant_caravan|Escoltad la caravana de mercancías hasta {s8}.
+qst_deliver_wine|Entregad {reg5} unidades de {s6} a {s4}.
+qst_troublesome_bandits|Dad caza a los bandidos problemáticos.
+qst_kidnapped_girl|Pagad a los bandidos por el rescate de la doncella. 
+qst_persuade_lords_to_make_peace|Aseguraos de que los Señores no impidan la paz.
+qst_deal_with_looters|Ocupaos de los saqueadores.
+qst_deal_with_night_bandits|Ocupaos de los bandidos nocturnos.
+qst_deliver_grain|Llevad trigo a {s3}.
+qst_deliver_cattle|Entregad {reg5} cabezas de ganado en {s3}
+qst_train_peasants_against_bandits|Entrenad a los campesinos de {s13} para defenderse contra los bandidos.
+qst_eliminate_bandits_infesting_village|Rescatad a la aldea de {s7} de los bandidos merodeadores.
+qst_visit_lady|Visitad a la dama
+qst_formal_marriage_proposal|Propuesta formal de matrimonio
+qst_obtain_liege_blessing|Propuesta formal de matrimonio
+qst_wed_betrothed|Desposad a vuestro prometido
+qst_wed_betrothed_female|Desposad a vuestra prometida
+qst_join_faction|Jurad lealtad a {s1}.
+qst_rebel_against_kingdom|Ayudad a {s13} a reclamar el trono de {s14}.
+qst_consult_with_minister|Consulta con el administrador
+qst_organize_feast|Organizad el banquete
+qst_resolve_dispute|Resolved la disputa
+qst_offer_gift|Procurad un regalo
+qst_denounce_lord|Denunciad a un Señor
+qst_intrigue_against_lord|Tramad contra un Señor
+qst_track_down_bandits|Rastread a los bandidos
+qst_track_down_provocateurs|Rastread a los provocadores
+qst_retaliate_for_border_incident|Tomad represalias por el incidente fronterizo
+qst_raid_caravan_to_start_war|Atacad a una caravana neutral para provocar una guerra
+qst_cause_provocation|Provocad a un reino para que ataque a otro
+qst_rescue_prisoner|Rescatad o pagad el rescate de un prisionero
+qst_destroy_bandit_lair|Destruid la guarida de los bandidos
+qst_chaos_dwarf|Destroy Chaos Dwarf Sorceror Targrim
+qst_chaos_dwarf_text|Josef Fleisch tasked you with destroying Sorceror Targrim and releasing his brother from his spell. He is waiting on the island of Albion
+qst_rescue_maldrex|Rescue Maldrex from Sir Chevalier.
+qst_rescue_maldrex_text|Maldrex is being held by Sir Chevalier near the Bretonnian coast. Rescue him and await Klass Jorgensson
+qst_collect_men|Reclutad cinco hombres
+qst_learn_where_merchant_brother_is|Descubrid la localización de los rehenes.
+qst_save_relative_of_merchant|Atacad la guarida de los bandidos
+qst_save_town_from_bandits|Salvad a la ciudad de los bandidos
+qst_freelancer_enlisted|Enlisted in the Party of {s13}
+qst_freelancer_vacation|Enlisted: On Leave
+qst_freelancer_captured|Enlisted: Captured
+qst_quests_end|Fin de las misiones.

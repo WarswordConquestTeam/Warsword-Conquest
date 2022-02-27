@@ -1,6 +1,7 @@
-112
+121
 cant_find_this.ogg 0 0
 Jalrick/Warsword_Main_Creation_Character_Menu_Theme_MASTER.mp3 4194432 4727424
+Jalrick/Battle_in_the_Old_World_MASTER.mp3 2048 2111
 arena_1.ogg 131072 131072
 capture.ogg 256 256
 defeated_by_neutral.ogg 33024 33024
@@ -24,6 +25,11 @@ victorious_vaegir.ogg 8388866 8388866
 victorious_vaegir_2.ogg 8388866 8388866
 wedding.ogg 256 256
 coronation.ogg 256 256
+Jalrick/Dungeon_3_MASTER.mp3 128 128
+Jalrick/Dungeon_2_MASTER.mp3 128 128
+Jalrick/Dungeon_1_MASTER.mp3 128 128
+Jalrick/Lizardmen_Theme_MASTER.mp3 268435456 269033984
+Jalrick/The_Ulricsberg_MASTER.mp3 268435456 269033984
 no_mer.ogg 268440576 268440576
 forg_in.ogg 268440576 268440576
 blac_spi.ogg 268440576 268440576
@@ -74,13 +80,15 @@ antti/antti_hymn_seas.mp3 268500992 269033984
 antti/antti_oath_abyss.mp3 268500992 269033984
 antti/antti_powers_beyond.mp3 268500992 269033984
 antti/antti_reclaim_earth.mp3 268500992 269033984
+Jalrick/Lizardmen_Theme_MASTER.mp3 268500992 269033984
 antti/antti_symphony_forest.mp3 268500992 269033984
 antti/antti_valhalla.mp3 268500992 269033984
+Jalrick/The_Fall_of_Karaz_Ankor_MASTER.mp3 268500992 269033984
 antti/antti_way_north.mp3 268500992 269033984
 antti/antti_the_walls_of_tintagel.mp3 268500992 269033984
 antti/antti_wonders_below.mp3 268500992 269033984
 antti/antti_chosen_by_the_sword.mp3 268500992 269033984
-antti/antti_across_the_evergreen.mp3 268500992 269033984
+misc/nighthawk_forest.mp3 268500992 269033984
 antti/antti_spellborn.mp3 268500992 269033984
 antti/antti_ride_with_dragons.mp3 268500992 269033984
 curtis/curtis_dance_desert.mp3 268435456 268968448
@@ -95,6 +103,7 @@ misc/golden_age.mp3 268435456 268968448
 misc/soviet.mp3 268435456 268968448
 misc/magic_place.mp3 268435456 268968448
 misc/orc_capital.mp3 268435456 268968448
+Jalrick/Da_Immortulz_Orcs_Theme.mp3 268500992 269033984
 misc/when_good_prevailsl.mp3 268435456 268968448
 misc/the_legion.mp3 268435456 268968448
 misc/drums_of_fury.mp3 268435456 268968448

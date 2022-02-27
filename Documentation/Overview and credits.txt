@@ -23,6 +23,33 @@ Community manager: Polloio
 
 Credit for latest release: 
 
+Crypticguy: Many new models including lizardmen and chaos and lizardmen town scene
+
+Jalrick: 7 new music tracks including 3 for dungeons
+
+Kraggrim: undead pirates, scene fixes, map icons and ui tweaks
+
+Marshal: Elven improvements, new scenes and banner tweaks. Model fixes and lizardmen helms.
+
+Morgul: New user interface
+
+Nameless Warrior: Code
+
+La grandmaster for lustria scene props
+Hidole555 for text tweaks
+Dajimo for great work on finding new scenes.
+Akathir for Waldenhof
+WFAS and Gekokujo teams for new taverns
+Michadr and the Perisno team for Miragliano
+barf waterfall prop
+TLD team for archer fix
+Rubik and Tingyun: Loot fix
+
+
+
+
+Dungeons:
+
 Kraggrim for a wealth of quality models including chaos (both original and ammendments of the Grim age models), chaos dwarf, beastmen, trolls, ogres, hobgoblins, chaos scenes, main menu image and many more throughout the mod. Without his time and dedication this release would not have been possible.
 
 Burspa (Paul Burston) for making the multitude of special effects for the magic system as well as some models. 
@@ -63,10 +90,7 @@ maldorndk- chaos dwarf banners
 iboltax improved faces
 vasili s for scenery base
 jbvw for potion icons
-
 Arsakes for Hysh effect and models
-khamukkamu for camera osp
-leonion for hotkey prisoners
 
 Music:
 antti martikainen https://anttimartikainen.com/ for music
@@ -82,8 +106,6 @@ The Warlock (Ikit Claw Theme - Warhammer Fan-made Music) Composed by Tyler Cunni
 Death Valley- Anton Shilo Music Link: https://youtu.be/zHDSWT7j8u0
 Till the Last Breath- Anton Shilo Music Link: https://youtu.be/2e5Uvdvj4Cs
 Battle Song - Anton Shilo Music Link: https://youtu.be/cuADEIdpMlE
-Hirokazu Akiyama http://www.hmix.net/
-Jalrick- for mainmenu music.
 
 Contributors and all those who have worked with me on Warsword or Warsword Conquest in the past or helped us out.
 

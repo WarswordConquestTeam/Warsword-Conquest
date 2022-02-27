@@ -1,5 +1,5 @@
 soundsfile version 3
-995
+996
  drum_3.wav 769
  tutorial_1.wav 1793
  tutorial_2.wav 1793
@@ -978,6 +978,7 @@ soundsfile version 3
  pestilent_breath.wav 1872
  freeze_blast.wav 1616
  frozen_skin.wav 1616
+ sfx_phoenix_bulkward.wav 2640
  sea_seaside.wav 1158
  sea_seagulls.wav 1686
  thunder.wav 4000
@@ -995,7 +996,7 @@ soundsfile version 3
  segelsetzung.wav 3088
  harte_fahrt.wav 1554
  schiff_liegt.wav 1554
-332
+333
 snd_click 769 1 0 0 
 snd_tutorial_1 1793 1 1 0 
 snd_tutorial_2 1793 1 2 0 
@@ -1309,22 +1310,23 @@ snd_crack 1872 1 974 0
 snd_pestilent 1872 1 975 0 
 snd_freeze_blast 1616 1 976 0 
 snd_frozen_skin 1616 1 977 0 
-snd_seaside 1158 1 978 0 
-snd_seagulls 1686 1 979 0 
-snd_thunder 4000 1 980 0 
-snd_neutral_forest_loop 1414 1 981 0 
-snd_cavern_loop 1670 1 982 0 
-snd_empty_and_dead_loop 1926 1 983 0 
-snd_factory_loop 1926 1 984 0 
-snd_port_loop 1670 1 985 0 
-snd_dwarf_men_loop 1670 1 986 0 
-snd_workshop_loop 1670 1 987 0 
-snd_waterfall 1174 1 988 0 
-snd_water_wavesplash_source 1174 1 989 0 
-snd_water_waves_source 1174 1 990 0 
-snd_water_splash_source 1174 1 991 0 
-snd_set_sail 3088 1 992 0 
-snd_ship_drive 1554 1 993 0 
-snd_ship_stay 1554 1 994 0 
+snd_phoenix 2640 1 978 0 
+snd_seaside 1158 1 979 0 
+snd_seagulls 1686 1 980 0 
+snd_thunder 4000 1 981 0 
+snd_neutral_forest_loop 1414 1 982 0 
+snd_cavern_loop 1670 1 983 0 
+snd_empty_and_dead_loop 1926 1 984 0 
+snd_factory_loop 1926 1 985 0 
+snd_port_loop 1670 1 986 0 
+snd_dwarf_men_loop 1670 1 987 0 
+snd_workshop_loop 1670 1 988 0 
+snd_waterfall 1174 1 989 0 
+snd_water_wavesplash_source 1174 1 990 0 
+snd_water_waves_source 1174 1 991 0 
+snd_water_splash_source 1174 1 992 0 
+snd_set_sail 3088 1 993 0 
+snd_ship_drive 1554 1 994 0 
+snd_ship_stay 1554 1 995 0 
 snd_front_water 2064 1 48 0 
 snd_crash 3856 1 0 0 

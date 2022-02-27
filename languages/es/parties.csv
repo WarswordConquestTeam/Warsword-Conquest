@@ -1,0 +1,469 @@
+p_zendar|Zendar
+p_town_1|Fortaleza del rey pirata
+p_town_2|Puertofrío
+p_town_3|Marienburgo
+p_town_4|Tlax
+p_town_5|Pico de Grom
+p_town_6|Mousillon
+p_town_7|Tlanxla
+p_town_8|Karak-Kadrin
+p_town_9|Karaz-A-Karak
+p_town_10|Cuernozangre
+p_town_11|Karak-Hirn
+p_town_12|Miragliano
+p_town_13|Nuln
+p_town_14|Karak-Azgal
+p_town_15|Brionne
+p_town_16|Clar Karond
+p_town_17|Roca de Hierro
+p_town_18|Plagaskaven
+p_town_19|Khemri
+p_town_20|Zandri
+p_town_21|Ka-Sabar
+p_town_22|Martek
+p_town_23|Talabheim
+p_town_24|Altdorf
+p_town_25|Middenheim
+p_town_26|Tor Yvresse
+p_town_27|Lothern
+p_town_28|Tor Anlec
+p_town_29|Goslor
+p_town_30|Couronne
+p_town_31|Monte Vanir
+p_town_32|Lashiek
+p_town_33|Cabopútrido
+p_town_34|Kislev
+p_town_35|Askreved
+p_town_36|Naggarond
+p_town_37|Praag
+p_town_38|Cuernogrande
+p_town_39|Kyominato
+p_town_40|Nadasaki
+p_town_41|Fukushami
+p_town_42|Puño Poderozo
+p_town_43|Campo de calaveras
+p_town_44|Drakenhof
+p_town_45|Waldenhof
+p_town_46|Claro del Rey
+p_town_47|Claro del Rayo de Luna Eterno
+p_town_48|Bechafen
+p_town_49|Gran Ogham
+p_town_50|Nave de la Perdición
+p_castle_1|Parravon
+p_castle_2|Guarida Garranegra
+p_castle_3|Fuerte Vulchaz
+p_castle_4|Luccini
+p_castle_5|Varieno
+p_castle_6|Xahutec
+p_castle_7|Karak-Norn
+p_castle_8|Castillo de Salzenmund
+p_castle_9|Castillo de L'Anguille
+p_castle_10|Fortaleza de Arnheim
+p_castle_11|Har Ganeth
+p_castle_12|Averheim
+p_castle_13|Setque
+p_castle_14|Castillo de Kleitborg
+p_castle_15|Wolfenburgo
+p_castle_16|Castillo de Gisoreux
+p_castle_17|Fuerte Colmillotorzido
+p_castle_18|Karak-Izor
+p_castle_19|Karak-Azul
+p_castle_20|Castillo Reikguard
+p_castle_21|Montfort
+p_castle_22|Karag Dromar
+p_castle_23|Hellspawn
+p_castle_24|Pahuax
+p_castle_25|Chupayotl
+p_castle_26|Colmillojabalí
+p_castle_27|Tlaxtlan
+p_castle_28|Fuerte Oberstyre
+p_castle_29|Karag Dromar
+p_castle_30|Fuerte Garganta de Deff
+p_castle_31|Zhufbar
+p_castle_32|Barak Varr
+p_castle_33|Castillo de Bastonne
+p_castle_34|Castillo Dientedragón
+p_castle_35|Peñasco Negro
+p_castle_36|Athel Alar
+p_castle_37|Columna de Hotek
+p_castle_38|Fuerte Luna Torcida
+p_castle_39|Karak-Ocho-Picos
+p_castle_40|Karak-Gantuk
+p_castle_41|Torre Negra
+p_castle_42|Numas
+p_castle_43|Quatar
+p_castle_44|Fortaleza El-Shamab
+p_castle_45|Copher
+p_castle_46|Fortaleza de Kasabar
+p_castle_47|Fortaleza de Bel Aliad
+p_castle_48|Tanis
+p_castle_49|Castillo de Bergbres
+p_castle_50|Ciudadela de Ambarloce
+p_castle_51|Torre de Hoeth
+p_castle_52|Palacio de la Reina Eterna
+p_castle_53|Tor Elyr
+p_castle_54|Castillo de Suderholm
+p_castle_55|Castillo de Halkild
+p_castle_56|Clavo Amargo
+p_castle_57|Pico Fétido
+p_castle_58|Fortaleza Negra
+p_castle_59|Volkolamsk
+p_castle_60|Ereagrad
+p_castle_61|Barranco de la Perdición
+p_castle_62|Roca de la Manada
+p_castle_63|Gorespite
+p_castle_64|Yokoya
+p_castle_65|Aoiyumi
+p_castle_66|Sakaya
+p_castle_67|Yamashinato
+p_castle_68|Kato
+p_castle_69|Vanhaldenschlosse
+p_castle_70|Templehof
+p_castle_71|Tefelheim
+p_castle_72|Mikalsdorf
+p_castle_73|Castillo de Drakenhof
+p_castle_74|Yunque de Vaul
+p_castle_75|Tal Amere
+p_castle_76|Claro de la Medianoche Eterna
+p_castle_77|Torre del Bosque Eterno
+p_castle_78|Claro de los perdidos
+p_castle_79|Salones de Anacreth
+p_castle_80|Quenelles
+p_castle_81|Castillo de Carcassonne
+p_castle_82|Castillo de Artois
+p_castle_83|Castillo de Tancred
+p_castle_84|Tor Sethai
+p_castle_85|Heffengen
+p_castle_86|Bergenholt
+p_castle_87|Biersalhof
+p_castle_88|Blutdorf
+p_castle_89|Grenzstadt
+p_castle_90|Selthis Lyst
+p_castle_91|Stromstaad
+p_castle_92|Thorshafn
+p_castle_93|Shraevold
+p_castle_94|Thorkavik
+p_castle_95|Stavgard
+p_castle_96|Gotland
+p_castle_97|Fuerte Straghov
+p_castle_98|Skuggabjorg
+p_castle_99|Fuerte Ostrock
+p_castle_100|Zvlenilev
+p_castle_101|Salones de la Tormenta
+p_castle_102|Viento de Plaga
+p_castle_103|Cámara de la Pestilencia
+p_castle_104|Garras Torcidas
+p_castle_105|Pozo Supurante
+p_castle_106|Zona de Muerte
+p_castle_107|Cubil de la Crueldad
+p_castle_108|Estampida
+p_castle_109|Santuario Oscuro
+p_castle_110|Ciudadela de Plomo
+p_castle_111|Torre de Llanog
+p_village_1|Huezali
+p_village_2|Ojonegro
+p_village_3|Delberz
+p_village_4|Texcolo
+p_village_5|Lockrafurt
+p_village_6|Lengenfeld
+p_village_7|Da Houlaz
+p_village_8|Sartosa
+p_village_9|Larret
+p_village_10|Capelli
+p_village_11|Dienterroto
+p_village_12|Bugmans
+p_village_13|Skull Crag
+p_village_14|Khazid Somjek
+p_village_15|Tehga
+p_village_16|Picoalto
+p_village_17|Grung Grom
+p_village_18|Picoeterno
+p_village_19|Karaz-Stromgorl
+p_village_20|Kazad-Urkbavak
+p_village_21|Kazad-Barangaz
+p_village_22|Khazid-Aldum
+p_village_23|Alencon
+p_village_24|Torpin
+p_village_25|Hex
+p_village_26|Bordeleaux
+p_village_27|Chateau D'Epeé
+p_village_28|Garrahierro
+p_village_29|Wuppertal
+p_village_30|Vercuso
+p_village_31|Sokh
+p_village_32|Narizrrota
+p_village_33|Ghrond
+p_village_34|Rabidis
+p_village_35|Middenstag
+p_village_36|Roba
+p_village_37|Spiteful
+p_village_38|Khazid Hafakz
+p_village_39|Derrevin Libre
+p_village_40|Martel
+p_village_41|Teef Snatchaz
+p_village_42|Stinkinz
+p_village_43|Dagaoxidada
+p_village_44|Axotla
+p_village_45|Urbimo
+p_village_46|Hautmont
+p_village_47|Hochpointe
+p_village_48|Weissbruck
+p_village_49|Grung Ikree
+p_village_50|Karaz Dron
+p_village_51|Wrath
+p_village_52|Colmilloroca
+p_village_53|Bernloch
+p_village_54|Dorog
+p_village_55|Ojotorcido
+p_village_56|Perdición
+p_village_57|Risco Wyverz
+p_village_58|Kemperbad
+p_village_59|Worden
+p_village_60|Xholani
+p_village_61|Carroburg
+p_village_62|Viadaza
+p_village_63|Kroakpec
+p_village_64|Rennesse
+p_village_65|Alxan
+p_village_66|Grung Rakadan
+p_village_67|Ezcudorojo
+p_village_68|Erguy
+p_village_69|Puerta de la bruja
+p_village_70|Yremy
+p_village_71|Tsxilan
+p_village_72|Heideck
+p_village_73|Poussene
+p_village_74|Monoliths
+p_village_75|Karaz Grimstok
+p_village_76|Ravola
+p_village_77|Obelheim
+p_village_78|Chambonnay
+p_village_79|Ravenstein
+p_village_80|Caragio
+p_village_81|Gaean Vale
+p_village_82|Xolani
+p_village_83|Maselhof
+p_village_84|Claroscuro
+p_village_85|Khazid Gentaz
+p_village_86|Amontonacalaberz
+p_village_87|Grung Gandaz
+p_village_88|Ojoroñoso
+p_village_89|Chiccotta
+p_village_90|Agujero cenagoso
+p_village_91|Ayn
+p_village_92|Murzuk
+p_village_93|Qalyut
+p_village_94|Mazigh
+p_village_95|Thebes
+p_village_96|Safi
+p_village_97|Stachir
+p_village_98|Top Knotz
+p_village_99|Jabel
+p_village_100|Damer
+p_village_101|Tao
+p_village_102|Oasis
+p_village_103|Argigil
+p_village_104|Hihalla
+p_village_105|Babids
+p_village_106|Al Haikk
+p_village_107|Maharek
+p_village_108|Korti
+p_village_109|Suakin
+p_village_110|Bel Alladin
+p_village_111|Athel Urwalunce
+p_village_112|Tathren
+p_village_113|Ar Yvraine
+p_village_114|Ar Ninglor
+p_village_115|Santuatio de Asuryan
+p_village_116|Ar Londe
+p_village_117|Tamarha
+p_village_118|Yelmo de Vaul
+p_village_119|Athel Giroh
+p_village_120|Tiaonna
+p_village_121|Stromstaad
+p_village_122|Kalevanvik
+p_village_123|Birka
+p_village_124|Skorlm
+p_village_125|Aarvik
+p_village_126|Heaorot
+p_village_127|Iskvard
+p_village_128|Stavgard
+p_village_129|Trollbo
+p_village_130|Agujeroplaga
+p_village_131|Pozo Negro
+p_village_132|Swarm Lair
+p_village_133|Gnawings
+p_village_134|Estacarasgada
+p_village_135|Madriguera Alta
+p_village_136|Madriguera Baja
+p_village_137|Malice
+p_village_138|Abyss
+p_village_139|Vologda
+p_village_140|Ostrody
+p_village_141|Deghov
+p_village_142|Thorshafn
+p_village_143|Holmsteinn
+p_village_144|Shraevold
+p_village_145|Tarantula
+p_village_146|Scorplax
+p_village_147|Avon
+p_village_148|Fénix
+p_village_149|Guardia Norte
+p_village_150|Har Graef
+p_village_151|Aguasfrías
+p_village_152|Bolgasgrad
+p_village_153|Mooste
+p_village_154|Sepukzy
+p_village_155|Velsk
+p_village_156|Petragrad
+p_village_157|Targorth
+p_village_158|Murgor
+p_village_159|Northgor
+p_village_160|Barbclaw
+p_village_161|Furgorn
+p_village_162|Pezuñasangre
+p_village_163|Morito
+p_village_164|Numakata
+p_village_165|Juku Zaki
+p_village_166|Shiroiki
+p_village_167|Doyayo
+p_village_168|Oheiya
+p_village_169|Hamajuku
+p_village_170|Kasamudo
+p_village_171|Ishiba
+p_village_172|Awuza
+p_village_173|Nikkobashi
+p_village_174|Gujo
+p_village_175|Obama
+p_village_176|Onomi
+p_village_177|Pasillo Snotling
+p_village_178|Paso Jabalí
+p_village_179|Gutspike
+p_village_180|Pozosalvaje
+p_village_181|Nuevaluna
+p_village_182|Regrakof
+p_village_183|Pfaffbach
+p_village_184|Nachtafen
+p_village_185|Hundham
+p_village_186|Thyrnau
+p_village_187|Egling
+p_village_188|Naubonum
+p_village_189|Eisigurt
+p_village_190|Grim Moor
+p_village_191|Reqiuem
+p_village_192|Tumbaclamorosa
+p_village_193|Tal Cullan
+p_village_194|Tal Eth Ayr
+p_village_195|Puerta de Druthandor
+p_village_196|Delliandra
+p_village_197|Salones de la Danza Guerrera
+p_village_198|Tal Silvoch
+p_village_199|Tal Dovar
+p_village_200|Coeth Mara
+p_village_201|Tal Draicha
+p_village_202|Tal Stornos
+p_village_203|Tal Enda Varian
+p_village_204|Tal Brianda
+p_village_205|Perrache
+p_village_206|Laguiller
+p_village_207|Vesin
+p_village_208|Túmulo de Landel
+p_village_209|Camino de los Sueños
+p_village_210|Muckenhof
+p_village_211|Rugenbuttle
+p_village_212|Gerdowen
+p_village_213|Elbing
+p_village_214|Fitchebal
+p_village_215|Leszken
+p_village_216|Kircham
+p_village_217|Hochsleben
+p_village_218|Pirainvernal
+p_village_219|Cuevas de la Decadencia
+p_village_220|Emplazamiento Impío
+p_village_221|Oss
+p_village_222|Hvarf
+p_village_223|Holmkelsa
+p_village_224|Ulfenwyr
+p_village_225|Mostyr
+p_village_226|Dhazhyn
+p_village_227|Gaular
+p_village_228|Iaryn
+p_village_229|Sveddra
+p_village_230|Squeek
+p_village_231|Fuego de Disformidad
+p_village_232|Nido Negro
+p_village_233|Hediondo
+p_village_234|Victoria
+p_village_235|Laberinto
+p_village_236|La Reunión
+p_village_237|Salón de la Furia
+p_village_238|Cabestrillo
+p_village_239|Mires
+p_village_240|Pillar of Og Agog
+p_village_241|Great Hogg
+p_village_242|Forge of the Old Ones
+p_village_243|Great Marsh
+p_village_244|Oldenlitz
+p_salt_mine|Mina de sal
+p_four_ways_inn|Four Ways Inn
+p_test_scene|test scene
+p_battlefields|battlefields
+p_dhorak_keep|Dhorak Keep
+p_training_ground|Campo de entrenamiento
+p_training_ground_1|Campo de entrenamiento
+p_training_ground_2|Campo de entrenamiento
+p_training_ground_3|Campo de entrenamiento
+p_training_ground_4|Campo de entrenamiento
+p_training_ground_5|Campo de entrenamiento
+p_looter_spawn_point|looter sp
+p_steppe_bandit_spawn_point|los no-muertos
+p_goblin_bandit_spawn_point4|Goblin Chokta camp
+p_goblin_bandit_spawn_point3|Pirate camp
+p_goblin_bandit_spawn_point6|goblin Sarka camp
+p_sea_raider_spawn_point|Chaos Dwarf camp
+p_desert_bandit2_spawn_point|Desert Reavers camp
+p_amazon_bandit_spawn_point|amazon wilds
+p_hunter_bandit_spawn_point|hunter wilds
+p_desert_bandit_spawn_point|goblin camp
+p_goblin_bandit_spawn_point|goblin army camp
+p_taiga_bandit_spawn_point|los asaltantes
+p_sea_raider2_spawn_point|another Chaos Dwarf camp
+p_goblin_bandit_spawn_point5|goblin Arapo camp
+p_mountain_bandit_spawn_point|the troll
+p_beastmen_bandit_spawn_point|Chaos Dwarf army
+p_nippon_bandit_spawn_point|the ninjas
+p_goblin_bandit_spawn_point2|goblin Totna camp
+p_amazon_hunters_spawn_point|Amazon hunters camp
+p_demon_army_spawn_point|army 1
+p_demon_army2_spawn_point|army 7
+p_nurgle_army_spawn_point|army 2
+p_khorne_army_spawn_point|army 3
+p_khorne_army2_spawn_point|army 8
+p_chaos_dwarf_army_spawn_point|army 4
+p_chaos_dwarf_army2_spawn_point|army 9
+p_ogre_army_spawn_point|army 5
+p_ninja_army_spawn_point|army 6
+p_ninja_army2_spawn_point|army 10
+p_ship_raider_spawn_point_1|the ocean
+p_raider_spawn_point_1|the oceantwo
+p_ship_pirate_spawn_point_1|the oceanthree
+p_mercenary_band_1_spawn_point|mercenary band 1 sp
+p_mercenary_band_2_spawn_point|mercenary band 2 sp
+p_mercenary_band_3_spawn_point|mercenary band 3 sp
+p_mercenary_band_4_spawn_point|mercenary band 4 sp
+p_mercenary_band_5_spawn_point|mercenary band 5 sp
+p_mercenary_band_6_spawn_point|mercenary band 6 sp
+p_mercenary_band_7_spawn_point|mercenary band 7 sp
+p_mercenary_band_8_spawn_point|mercenary band 8 sp
+p_mercenary_band_9_spawn_point|mercenary band 9 sp
+p_mercenary_band_10_spawn_point|mercenary band 10 sp
+p_mercenary_band_11_spawn_point|mercenary band 11 sp
+p_mercenary_band_12_spawn_point|mercenary band 12 sp
+p_mercenary_band_13_spawn_point|mercenary band 13 sp
+p_mercenary_band_14_spawn_point|mercenary band 14 sp
+p_mercenary_band_15_spawn_point|mercenary band 15 sp
+p_mercenary_band_16_spawn_point|mercenary band 16 sp
+p_mercenary_band_17_spawn_point|mercenary band 17 sp
+p_mercenary_band_18_spawn_point|mercenary band 18 sp
+p_sorceror_spawn_point|quest 1
+p_chevalier_spawn_point|quest 2

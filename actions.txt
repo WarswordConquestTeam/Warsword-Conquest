@@ -1010,12 +1010,12 @@
   0.750000 shield_bash 0 30 4 0 0.0 0.0 0.0 0.0 
  magic 1024 176160848  1
   5.000000 ani_magic_1 0 43 4 0 0.0 0.0 0.0 0.0 
+ stand_howdah 0 16777217  1
+  3.300000 crouch_staff_cstance_attack 0 100 1342177280 0 0.000000 0.000000 0.000000  0.000000 
  shield_strike 1026 176160848  3
   2.000000 anim_human 45000 45010 516 0 0.0 0.0 0.0 0.0 
   2.500000 anim_human 45400 45453 515 0 0.0 0.0 0.0 0.0 
   2.500000 anim_human 45400 45445 515 0 0.0 0.0 0.0 0.0 
- unused_human_anim_51 0 0  1
-  1.000000 anim_human 0 1 0 0 0.0 0.0 0.0 0.0 
  unused_human_anim_52 0 0  1
   1.000000 anim_human 0 1 0 0 0.0 0.0 0.0 0.0 
  unused_human_anim_53 0 0  1

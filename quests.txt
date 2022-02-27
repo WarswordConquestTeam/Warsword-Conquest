@@ -60,10 +60,10 @@ qst_raid_caravan_to_start_war Attack_a_Neutral_Caravan_to_Provoke_War 2 {!}place
 qst_cause_provocation Give_a_Kingdom_Provocation_to_Attack_Another 2 {!}placeholder 
 qst_rescue_prisoner Rescue_or_Ransom_a_Prisoner 2 {!}placeholder 
 qst_destroy_bandit_lair Destroy_Bandit_Lair 2 {!}{s9}_of_{s4}_asked_you_to_discover_a_{s6}_and_destroy_it. 
+qst_blank_quest_2 {!}blank_quest 2 {!}placeholder 
 qst_chaos_dwarf Destroy_Chaos_Dwarf_Sorceror_Targrim 2 Josef_Fleisch_tasked_you_with_destroying_Sorceror_Targrim_and_releasing_his_brother_from_his_spell._He_is_waiting_on_the_island_of_Albion 
 qst_rescue_maldrex Rescue_Maldrex_from_Sir_Chevalier. 2 Maldrex_is_being_held_by_Sir_Chevalier_near_the_Bretonnian_coast._Rescue_him_and_await_Klass_Jorgensson 
-qst_blank_quest_2 {!}blank_quest 2 {!}placeholder 
-qst_blank_quest_3 {!}blank_quest 2 {!}placeholder 
+qst_skeezle_dungeon Take_Skeezle_down_into_the_dungeons 2 Skeezle_gains_major_XP_boost_for_every_room_he_survives. 
 qst_blank_quest_4 {!}blank_quest 2 {!}placeholder 
 qst_blank_quest_5 {!}blank_quest 2 {!}placeholder 
 qst_blank_quest_6 {!}blank_quest 2 {!}placeholder 
